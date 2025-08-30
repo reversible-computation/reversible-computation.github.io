@@ -20,4 +20,4 @@ title: Contact
 
 ## Steering Committee
 
-Refer to [the dedicated page](./steering/).
+Refer to [the dedicated page](../steering/).
