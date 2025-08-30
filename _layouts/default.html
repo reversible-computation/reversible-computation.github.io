@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Reversible Computation (RC) - {{ page.title }}</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="shortcut icon" href="/images/favicon/favicon.ico">
+    <link rel="icon" sizes="16x16 32x32 64x64" href="/images/favicon/favicon.ico">
+    <link rel="icon" type="image/png" sizes="196x196" href="/images/favicon/favicon-192.png">
+    <link rel="icon" type="image/png" sizes="160x160" href="/images/favicon/favicon-160.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/images/favicon/favicon-96.png">
+    <link rel="icon" type="image/png" sizes="64x64" href="/images/favicon/favicon-64.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16.png">
+    <link rel="apple-touch-icon" href="/images/favicon/favicon-57.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/images/favicon/favicon-114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/images/favicon/favicon-72.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/images/favicon/favicon-144.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/images/favicon/favicon-60.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/images/favicon/favicon-120.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/images/favicon/favicon-76.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/images/favicon/favicon-152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/favicon-180.png">
+    <meta name="msapplication-TileColor" content="#FFFFFF">
+    <meta name="msapplication-TileImage" content="/images/favicon/favicon-144.png">
+    <meta name="msapplication-config" content="/browserconfig.xml">
+<!-- FOR fancy java toggle -->
+    <script type="text/javascript">
+        function toggleNext(e){
+          var subElement = e.nextElementSibling;
+          subElement.style.display = subElement.style.display === 'none' ? 'inline' : 'none';
+        }
+    </script>
+<!-- END -->
+  </head>
+
+<body>
+  <div class="all">
+    <div class="content">
+      <div class="top-logo">
+        <div class="top-logo-abbrev">RC<span class="year">{% site.year %}</span></div>
+        <div class="top-logo-info">
+          <span class="edition">{% site.edition %} International Conference on</span><br />
+          <span class="name">Reversible Computation (RC)</span><br />
+          <span class="date-place">{% site.date %}, {% site.place %}</span>
+        </div>
+      </div>
+
+      <div class="main">
+        {% include navigation.html %}
+      </div>
+
+      <div class="middle">
+        <div class="title">
+          {{ page.title }}
+        </div>
+        <section>
+        {{ content }}
+        </section>
+      </div>
+
+        <div class="right">
+          <div id="local-imgs">
+            <div class="local-img" id="local-img1"></div>
+            <div class="local-img" id="local-img2"></div>
+          </div>
+          <div class="dates">
+            <b>Important dates:</b><br/><br/>
+            Abstract submission:<br/>
+            February XX, 2026<br/><br/>
+            Submission deadline:<br/>
+            February XX, 2026<br/><br/>
+            Notification to authors:<br/>
+            April XX, 2026<br/><br/>
+            Final version:<br/>
+            April XX, 2026<br/><br/>
+            Conference:<br/>
+            July XX - July XX, 2026<br/><br/>
+          </div>
+          <div class="organizers">
+            <b>Chairs:</b><br/><br/>
+            <br/>
+            <i></i><br/><br/>
+            <br/>
+            <i></i>
+          </div>
+          <a href="http://www.springer.com/lncs" target="_blank"><div id="springer-img"></div></a>
+        </div>
+      </div>
+      <div class="footer">
+        <a href="/contact">Contact</a>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
