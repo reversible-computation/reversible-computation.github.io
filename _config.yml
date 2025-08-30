@@ -14,3 +14,7 @@ chairs:
   affiliation: Università di Torino, Italy
 - name: Clément Aubert
   affiliation: Augusta University
+
+# Local images
+image1: /images/milano-university.jpg
+image2: /images/duomo_milano.webp
