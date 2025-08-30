@@ -1,20 +1,20 @@
 baseurl: /
 
 year: 2026
-edition: 11th
-date: July xx - xx, 2026
-place: Milan, Italy
-abstract: February XX, 2026
-submission: February XX, 2026
-notification: April XX, 2026
-final-version: April XX, 2026
+edition: 18th
+date: July 9--10, 2026
+place: Turino, Italy
+abstract: February 6, 2026
+submission: February 13, 2026
+notification: April 13, 2026
+final-version: May 3, 2026
 
 chairs:
-- name: Luca Roversi
-  affiliation: Università di Torino, Italy
 - name: Clément Aubert
   affiliation: Augusta University
+- name: Luca Roversi
+  affiliation: Università di Torino, Italy
 
 # Local images
-image1: /images/milano-university.jpg
-image2: /images/duomo_milano.webp
+image1: /images/1463931003_283e0a9d2c_w.jpg
+image2: /images/12995816265_673f06cc28_w.jpg
