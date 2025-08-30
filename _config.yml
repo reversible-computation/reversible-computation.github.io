@@ -14,3 +14,7 @@ chairs:
   affiliation: Università di Torino, Italy
 - name: Clément Aubert
   affiliation: Augusta University
+
+# Local images
+image1: /images/minipic1.jpg
+image2: /images/minipic2.jpg
