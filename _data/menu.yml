@@ -1,0 +1,11 @@
+docs_list_title: ACME Documentation
+menu:
+
+- title: Home
+  url: /
+
+- title: Registration
+  url: /registration
+
+- title: Invited Talks
+  url: /invited
