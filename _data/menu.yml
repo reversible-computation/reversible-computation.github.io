@@ -4,8 +4,41 @@ menu:
 - title: Home
   url: /
 
-- title: Registration
-  url: /registration
+# - title: Registration
+#   url: /registration
+
+# - title: Accepted Papers
+#   url: /accepted
 
 - title: Invited Talks
   url: /invited
+
+- title: Programme
+  url: /programme
+
+- title: Call For Papers
+  url: /cfp
+
+- title: Paper Submission
+  url: /submission
+
+- title: Programme Committee
+  url: /pc
+
+- title: Location
+  url: /location
+
+# - title: Social Event
+#   url: /social
+
+# - title: Accommodation
+#   url: /accommodation
+
+- title: Steering Committee
+  url: /steering
+
+- title: Previous Editions
+  url: /previous
+
+- title: Contact
+  url: /contact
