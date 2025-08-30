@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Program
+title: Contact
 ---
 
-## Program
+# Contact
 
