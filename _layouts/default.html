@@ -81,10 +81,10 @@
           </div>
           <div class="organizers">
             <b>Chairs:</b><br/><br/>
-            {{ site.chair1 }}<br/>
-            <i>{{ site.chair1-affiliation }}</i><br/><br/>
-            {{ site.chair2 }}<br/>
-            <i>{{ site.chair2-affiliation }}</i>
+          {% for item in site.chairs %}
+            {{ item.name }}<br/>
+            <i>{{ item.affiliation }}</i><br/><br/>
+          {% endfor %}
           </div>
           <a href="http://www.springer.com/lncs" target="_blank"><div id="springer-img"></div></a>
         </div>

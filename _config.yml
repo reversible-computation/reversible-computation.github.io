@@ -8,7 +8,9 @@ abstract: February XX, 2026
 submission: February XX, 2026
 notification: April XX, 2026
 final-version: April XX, 2026
-chair1: Luca Roversi
-chair1-affiliation: Università di Torino, Italy
-chair2: Clément Aubert
-chair2-affiliation: Augusta University
+
+chairs:
+- name: Luca Roversi
+  affiliation: Università di Torino, Italy
+- name: Clément Aubert
+  affiliation: Augusta University
