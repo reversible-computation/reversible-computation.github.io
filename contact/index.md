@@ -7,8 +7,8 @@ title: Contact
 
 ## Scientific Chairs 
 
-- [Luca Roversi](http://www.di.unito.it/~rover/), roversi[at]di.unito.it
 - [Clément Aubert](https://spots.augusta.edu/caubert/), caubert[at]augusta.edu
+- [Luca Roversi](http://www.di.unito.it/~rover/), roversi[at]di.unito.it
 
 ## Organizing Chair
 
