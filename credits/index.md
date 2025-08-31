@@ -7,6 +7,10 @@ title: Credits
 
 Website original design:
 
+- Lisa Jungmann, University of Bremen
+
+Technical web-development
+
 - [Michael Kirkedal Thomsen](https://researchprofiles.ku.dk/en/persons/michael-kirkedal-thomsen)
 - [Mathias Soeken](http://msoeken.github.io)
 
