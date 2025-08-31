@@ -40,11 +40,11 @@
   <div class="all">
     <div class="content">
       <div class="top-logo">
-        <div class="top-logo-abbrev">RC<span class="year">{{ site.year }}</span></div>
+        <div class="top-logo-abbrev">RC<span class="year">{{ site.data.info.year }}</span></div>
         <div class="top-logo-info">
-          <span class="edition">{{ site.edition }} International Conference on</span><br />
+          <span class="edition">{{ site.data.info.edition }} International Conference on</span><br />
           <span class="name">Reversible Computation (RC)</span><br />
-          <span class="date-place">{{ site.date }}, {{ site.place }}</span>
+          <span class="date-place">{{ site.data.info.date }}, {{ site.data.info.place }}</span>
         </div>
       </div>
 
@@ -64,25 +64,25 @@
 
         <div class="right">
           <div id="local-imgs">
-            <div class="local-img" id="local-img1" style="background-image: url('{{ site.image1 }}');"></div>
-            <div class="local-img" id="local-img2" style="background-image: url('{{ site.image2 }}');"></div>
+            <div class="local-img" id="local-img1" style="background-image: url('{{ site.data.info.image1 }}');"></div>
+            <div class="local-img" id="local-img2" style="background-image: url('{{ site.data.info.image2 }}');"></div>
           </div>
           <div class="dates">
             <b>Important dates:</b><br/><br/>
             Abstract submission:<br/>
-            {{ site.abstract }}<br/><br/>
+            {{ site.data.info.abstract }}<br/><br/>
             Submission deadline:<br/>
-            {{ site.submission }}<br/><br/>
+            {{ site.data.info.submission }}<br/><br/>
             Notification to authors:<br/>
-            {{ site.notification }}<br/><br/>
+            {{ site.data.info.notification }}<br/><br/>
             Final version:<br/>
-            {{ site.final-version }}<br/><br/>
+            {{ site.data.info.final-version }}<br/><br/>
             Conference:<br/>
-            {{ site.date }}<br/><br/>
+            {{ site.data.info.date }}<br/><br/>
           </div>
           <div class="organizers">
             <b>Chairs:</b><br/><br/>
-          {% for item in site.chairs %}
+          {% for item in site.data.info.chairs %}
             {{ item.name }}<br/>
             <i>{{ item.affiliation }}</i><br/><br/>
           {% endfor %}
