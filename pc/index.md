@@ -5,6 +5,10 @@ title: Programme Committee
 
 # Programme Committee
 
+- **Clément Aubert** (co-chair), _Augusta University_  
+  📧 [caubert@augusta.edu](mailto:caubert@augusta.edu)  
+  🌐 [spots.augusta.edu profile](https://spots.augusta.edu/caubert/)
+
 - **Bogdan Aman**, _Academia Română Filiala Iași_  
   📧 [bogdan.aman@iit.academiaromana-is.ro](mailto:bogdan.aman@iit.academiaromana-is.ro)  
   🌐 [acadiasi.org profile](https://acadiasi.org/cercetatori/aman-bogdan/)
@@ -28,6 +32,10 @@ title: Programme Committee
 - **Uwe Meyer**, _Universität Gießen_  
   📧 [uwe.meyer@mni.thm.de](mailto:uwe.meyer@mni.thm.de)  
   🌐 [thm.de profile](https://www.thm.de/mni/uwe-meyer)
+
+- **Luca Roversi** (co-chair), _Università degli studi di Torino_  
+  📧 [roversi@di.unito.it](mailto:roversi@di.unito.it)  
+  🌐 [di.unito profile](http://www.di.unito.it/~rover/)
 
 - **Amr Sabry**, _Indiana University_  
   📧 [sabry@iu.edu](mailto:sabry@iu.edu)  
