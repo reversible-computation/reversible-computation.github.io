@@ -34,7 +34,7 @@ layout: default
 
 - **Luca Roversi** (co-chair), _Università degli studi di Torino_  
   📧 [luca.roversi@unito.it](mailto:luca.roversi@unito.it)  
-  🌐 [di.unito profile](http://www.di.unito.it/~rover/)
+  🌐 [unito profile](https://www.cs.unito.it/do/docenti.pl/Show?_id=lroversi#tab-profilo)
 
 - **Amr Sabry**, _Indiana University_  
   📧 [sabry@iu.edu](mailto:sabry@iu.edu)  
