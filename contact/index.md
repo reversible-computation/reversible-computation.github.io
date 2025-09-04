@@ -17,14 +17,14 @@ layout: default
 ## Organizing Chair
 
 - **Luca Paolini**, _Università degli studi di Torino_  
-  📧 [roversi@di.unito.it](mailto:roversi@di.unito.it)  
+  📧 [luca.paolini@unito.it](mailto:luca.paolini@unito.it)  
   🌐 [di.unito profile](http://www.di.unito.it/~paolini/)
-  
-- [](), luca.paolini[at]unito.it 
 
 ## Website Chair
 
-- [Michael Kirkedal Thomsen](https://researchprofiles.ku.dk/en/persons/michael-kirkedal-thomsen), m.kirkedal[at]di.ku.dk
+- **Michael Kirkedal Thomsen**, _Københavns Universitet_  
+  📧 [m.kirkedal@di.ku.dk](mailto:m.kirkedal@di.ku.dk)  
+  🌐 [researchprofiles.ku.dk profile](https://researchprofiles.ku.dk/en/persons/michael-kirkedal-thomsen)
 
 ## Steering Committee
 
