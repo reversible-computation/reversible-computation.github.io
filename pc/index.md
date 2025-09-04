@@ -6,12 +6,16 @@ layout: default
 
 - **Clément Aubert** (co-chair), _Augusta University_  
   📧 [caubert@augusta.edu](mailto:caubert@augusta.edu)  
-  🌐 [spots.augusta.edu profile](https://spots.augusta.edu/caubert/)
+  🌐 [augusta.edu profile](https://spots.augusta.edu/caubert/)
 
 - **Bogdan Aman**, _Academia Română Filiala Iași_  
   📧 [bogdan.aman@iit.academiaromana-is.ro](mailto:bogdan.aman@iit.academiaromana-is.ro)  
   🌐 [acadiasi.org profile](https://acadiasi.org/cercetatori/aman-bogdan/)
 
+- **Jacques Carette**, _McMaster University_  
+  📧 [carette@mcmaster.ca](mailto:carette@mcmaster.ca)  
+  🌐 [mcmaster.ca profile](https://www.cas.mcmaster.ca/~carette/)  
+    
 - **Kamalika Datta**, _Universität Bremen_  
   📧 [kdatta@uni-bremen.de](mailto:kdatta@uni-bremen.de)    
   🌐 [agra.informatik.uni-bremen.de profile](https://agra.informatik.uni-bremen.de/team_me.php?id=80&lang=en)
