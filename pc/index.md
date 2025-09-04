@@ -33,7 +33,7 @@ layout: default
   🌐 [thm.de profile](https://www.thm.de/mni/uwe-meyer)
 
 - **Luca Roversi** (co-chair), _Università degli studi di Torino_  
-  📧 [roversi@di.unito.it](mailto:roversi@di.unito.it)  
+  📧 [luca.roversi@unito.it](mailto:luca.roversi@unito.it)  
   🌐 [di.unito profile](http://www.di.unito.it/~rover/)
 
 - **Amr Sabry**, _Indiana University_  
