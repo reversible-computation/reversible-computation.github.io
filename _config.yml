@@ -1,1 +1,6 @@
+# Documentation at 
+# https://jekyllrb.com/docs/configuration/options/
+
 baseurl: /
+
+exclude: ["README", "LICENSE"]

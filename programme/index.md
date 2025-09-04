@@ -3,5 +3,5 @@ layout: default
 title: Programme
 ---
 
-# Program
+# Programme
 
