@@ -22,3 +22,12 @@ title: Programme Committee
   📧 [ivan.lanese@gmail.com](mailto:ivan.lanese@gmail.com)  
   🌐 [cs.unibo.it profile](https://www.cs.unibo.it/~lanese/)
 
+- **Uwe Meyer**, _Universität Gießen_  
+  📧 [uwe.meyer@mni.thm.de](mailto:uwe.meyer@mni.thm.de)  
+  🌐 [thm.de profile](https://www.thm.de/mni/uwe-meyer)
+
+- **Yasuhiro Takahashi**, _University of Tsukuba_  
+  📧 [ya.takahashi@cs.tsukuba.ac.jp](mailto:ya.takahashi@cs.tsukuba.ac.jp)  
+  🌐 [cs.tsukuba.ac.jp profile](https://www.cs.tsukuba.ac.jp/~ya.takahashi/index-e.html)
+
+
