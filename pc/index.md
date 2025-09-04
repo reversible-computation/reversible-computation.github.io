@@ -17,6 +17,10 @@ title: Programme Committee
   📧 [kaarsgaard@imada.sdu.dk](mailto:kaarsgaard@imada.sdu.dk)  
   🌐 [rkaarsgaard.github.io](https://rkaarsgaard.github.io)
 
+- **Jarkko Kari**, _Turun yliopisto_  
+  📧 [jkari@utu.fi](mailto:jkari@utu.fi)  
+  🌐 [users.utu.fi profile](https://users.utu.fi/jkari/)
+
 - **Ivan Lanese**, _Università di Bologna & INRIA_  
   📧 [ivan.lanese@gmail.com](mailto:ivan.lanese@gmail.com)  
   🌐 [cs.unibo.it profile](https://www.cs.unibo.it/~lanese/)
@@ -25,7 +29,7 @@ title: Programme Committee
   📧 [uwe.meyer@mni.thm.de](mailto:uwe.meyer@mni.thm.de)  
   🌐 [thm.de profile](https://www.thm.de/mni/uwe-meyer)
 
-- **Amr Sabry** , _Indiana University_  
+- **Amr Sabry**, _Indiana University_  
   📧 [sabry@iu.edu](mailto:sabry@iu.edu)  
   🌐 [Luddy School profile](https://homes.luddy.indiana.edu/sabry)
 
@@ -33,6 +37,8 @@ title: Programme Committee
   📧 [ya.takahashi@cs.tsukuba.ac.jp](mailto:ya.takahashi@cs.tsukuba.ac.jp)  
   🌐 [cs.tsukuba.ac.jp profile](https://www.cs.tsukuba.ac.jp/~ya.takahashi/index-e.html)
 
-- **Shoji Yuen** , _Nagoya daigaku_  
+- **Shoji Yuen**, _Nagoya daigaku_  
   📧 [yuen@is.nagoya-u.ac.jp](mailto:yuen@is.nagoya-u.ac.jp)  
   🌐 [Nagoya University profile](https://profs.provost.nagoya-u.ac.jp/html/100001809_en.html)
+
+  
