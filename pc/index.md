@@ -22,7 +22,7 @@ layout: default
 
 - **Alessandra Di Pierro**, _Università di Verona_  
   📧 [alessandra.dipierro@univr.it](mailto:alessandra.dipierro@univr.it)  
-  🌐 [univr.it profile]([https://rkaarsgaard.github.io](https://profs.sci.univr.it/~dipierro/styled-2/))
+  🌐 [univr.it profile](https://profs.sci.univr.it/~dipierro/styled-2/)
 
 - **Robin Kaarsgaard**, _Syddansk Universitet_  
   📧 [kaarsgaard@imada.sdu.dk](mailto:kaarsgaard@imada.sdu.dk)  
