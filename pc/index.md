@@ -20,6 +20,10 @@ layout: default
   📧 [kdatta@uni-bremen.de](mailto:kdatta@uni-bremen.de)    
   🌐 [agra.informatik.uni-bremen.de profile](https://agra.informatik.uni-bremen.de/team_me.php?id=80&lang=en)
 
+- **Alessandra Di Pierro**, _Università di Verona_  
+  📧 [alessandra.dipierro@univr.it](mailto:alessandra.dipierro@univr.it)  
+  🌐 [univr.it profile]([https://rkaarsgaard.github.io](https://profs.sci.univr.it/~dipierro/styled-2/))
+
 - **Robin Kaarsgaard**, _Syddansk Universitet_  
   📧 [kaarsgaard@imada.sdu.dk](mailto:kaarsgaard@imada.sdu.dk)  
   🌐 [rkaarsgaard.github.io](https://rkaarsgaard.github.io)
