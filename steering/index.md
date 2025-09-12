@@ -18,7 +18,7 @@ layout: default
   📧 [lukasz.mikulski@mat.umk.pl](mailto:lukasz.mikulski@mat.umk.pl)  
   🌐 [umk.pl profile](https://damsi.umk.pl/en/centre/computer-science-formal-languages-and-concurrency/#Mikulski)
 
-- **Irek Ulidowski**, _Uniwersytet Mikołaja Kopernika w Toruniu_ & _AGH University of Science and Technology_  
+- **Irek Ulidowski**, _University of Leicester_ & _AGH University of Science and Technology_  
   📧 [iu3@leicester.ac.uk](mailto:iu3@leicester.ac.uk)  
   🌐 [ac.uk profile](https://www.cs.le.ac.uk/people/iulidowski/)
   
