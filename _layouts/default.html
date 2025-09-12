@@ -75,10 +75,12 @@
             Abstract submission:<br>
             {% if site.data.info.extended-abstract %}<s>{% endif %}
             {{ site.data.info.abstract }}<br>
-            {% if site.data.info.extended-abstract %}</s>{{ site.data.info.extended-abstract}}<br>{% endif %}
-            Submission deadline:<br>
-            {{ site.data.info.submission }}<br><br>
-            Notification to authors:<br>
+            {% if site.data.info.extended-abstract %}</s>{{ site.data.info.extended-abstract }}<br>{% endif %}
+            <br>Submission deadline:<br>
+            {% if site.data.info.extended-submission %}<s>{% endif %}
+            {{ site.data.info.submission }}<br>
+            {% if site.data.info.extended-submission %}</s>{{ site.data.info.extended-submission }}<br>{% endif %}
+            <br>Notification to authors:<br>
             {{ site.data.info.notification }}<br><br>
             Final version:<br>
             {{ site.data.info.final-version }}<br><br>
