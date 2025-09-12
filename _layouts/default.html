@@ -57,6 +57,9 @@
           {{ page.title }}
         </div>
  -->
+ 
+<!-- Abstract original date is "strikethrough" if extended date is provided. -->
+
         <section>
         {{ content }}
         </section>
@@ -70,14 +73,9 @@
           <div class="dates">
             <b>Important dates:</b><br><br>
             Abstract submission:<br>
-            <!-- Abstract original date is "strikethrough" if extended date is provided. -->
-            {% if site.data.info.extended-abstract %}<s>{% endif %}
             {{ site.data.info.abstract }}<br>
-            {% if site.data.info.extended-abstract %}
-            </s>
-            {% site.data.info.extended-abstract %}<br>
-            {% endif %}
             <br>
+            {{ site.data.info.extended-abstract}} Test
             Submission deadline:<br>
             {{ site.data.info.submission }}<br><br>
             Notification to authors:<br>
