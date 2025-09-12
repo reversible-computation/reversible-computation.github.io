@@ -3,4 +3,4 @@
 
 baseurl: /
 
-exclude: ["README", "LICENSE"]
+exclude: ["readme.md", "LICENSE"]
