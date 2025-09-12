@@ -73,7 +73,9 @@
           <div class="dates">
             <b>Important dates:</b><br><br>
             Abstract submission:<br>
+            {% if site.data.info.extended-abstract %}<s>{% endif %}
             {{ site.data.info.abstract }}<br>
+            {% if site.data.info.extended-abstract %}</s>{% endif %}
             <br>
             {{ site.data.info.extended-abstract}} Test
             Submission deadline:<br>
