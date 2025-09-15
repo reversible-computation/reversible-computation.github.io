@@ -18,6 +18,8 @@ Pictures:
 - [slack12](https://www.flickr.com/photos/slack12/1463931003/)
 - [Andrea Mucelli](https://www.flickr.com/photos/bluestardrop/12995816265)
 - Prakash Panangaden's picture is courtesy of <https://www.cs.mcgill.ca/~prakash/pics.html>.
+- Springer logo was taken from <https://www.springer.com/us/about-springer/media/press-photos>.
+- Vaire logo was taken from <https://vaire.co/>.
 
 # Licence
 

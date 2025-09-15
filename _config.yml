@@ -7,4 +7,4 @@ exclude: ["readme.md", "LICENSE"]
 
 webrick:
   headers:
-    Content-Security-Policy: default-src 'none'; script-src 'self'; connect-src 'self'; img-src 'self'; style-src 'self'; 
+    Content-Security-Policy: default-src 'self'; script-src 'self'; connect-src 'self'; img-src 'self'; style-src 'self'; 
