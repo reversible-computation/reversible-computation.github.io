@@ -28,7 +28,7 @@ layout: default
   _Oslo, Norway_  
   Published in [LNCS Volume 12227](https://link.springer.com/book/10.1007/978-3-030-52482-1)
 
-- **[RC 2019 – 11th Conference](http://reversible-computation.github.io/)**  
+- **[RC 2019 – 11th Conference](https://reversible-computation.github.io/2019/)**  
   _Lausanne, Switzerland_  
   Published in [LNCS Volume 11497](https://link.springer.com/book/10.1007/978-3-030-21500-2)
 
