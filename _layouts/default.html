@@ -58,7 +58,6 @@
         </div>
  -->
  
-<!-- Abstract original date is "strikethrough" if extended date is provided. -->
 
         <section>
         {{ content }}
@@ -73,13 +72,15 @@
           <div class="dates">
             <b>Important dates:</b><br><br>
             Abstract submission:<br>
+<!-- Abstract original date is "strikethrough" if extended-abstract is provided. -->
             {% if site.data.info.extended-abstract %}<s>{% endif %}
             {{ site.data.info.abstract }}<br>
-            {% if site.data.info.extended-abstract %}</s>{{ site.data.info.extended-abstract }}<br>{% endif %}
+            {% if site.data.info.extended-abstract %}</s><span style="color:red;">{{ site.data.info.extended-abstract }} (extended)</span><br>{% endif %}
             <br>Submission deadline:<br>
+<!-- Paper original date is "strikethrough" if extended-submission is provided. -->
             {% if site.data.info.extended-submission %}<s>{% endif %}
             {{ site.data.info.submission }}<br>
-            {% if site.data.info.extended-submission %}</s>{{ site.data.info.extended-submission }}<br>{% endif %}
+            {% if site.data.info.extended-submission %}</s><span style="color:red;">{{ site.data.info.extended-submission }} (extended)</span><br>{% endif %}
             <br>Notification to authors:<br>
             {{ site.data.info.notification }}<br><br>
             Final version:<br>
@@ -94,6 +95,16 @@
             <i>{{ item.affiliation }}</i><br><br>
           {% endfor %}
           </div>
+<!-- If sponsor is given, it is listed here. -->
+          {% if site.data.info.sponsors %}<s>{% endif %}
+            <b>Sponsor:</b><br><br>
+            {% for item in site.data.info.sponsors %}
+            <a href="{{ item.url }}" title="{{ item.name }}">
+              <img src="{{ item.image }}" alt={{ item.name }}/>
+            </a>
+            {% endfor %}
+          {% endif %}
+          <b>Publisher:</b><br><br>
           <a href="http://www.springer.com/lncs" target="_blank"><div id="springer-img"></div></a>
         </div>
       <div class="footer">
