@@ -69,6 +69,10 @@ p {
   border-bottom: solid 1px #4a5966;
 }
 
+abbr {
+  cursor: help;
+}
+
 .top-logo-abbrev span.year {
   color: #5caaea;
 }
