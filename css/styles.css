@@ -126,11 +126,14 @@ nav ul li {
 a, a:visited {
   text-decoration: none;
   color: #02449c;
-  border-bottom: 3px solid #ffbe6f;
 }
 
 a:hover {
   color: #ffbe6f;
+}
+
+main section a{
+    border-bottom: 1px solid #ffbe6f;
 }
 
 main {

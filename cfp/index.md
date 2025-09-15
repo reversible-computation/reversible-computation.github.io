@@ -3,32 +3,12 @@ layout: default
 ---
 
 # Call For Papers
-
-
-Abstract submission:<br>
-{% comment %}
-Abstract original date is "strikethrough" if extended-abstract is provided.
-{% endcomment %}
-{% if site.data.info.extended-abstract %}<s>{% endif %}
-{{ site.data.info.abstract }}<br>
-{% if site.data.info.extended-abstract %}</s><span class="extended">{{ site.data.info.extended-abstract }} (extended)</span><br>{% endif %}
-<br>Submission deadline:<br>
-{% comment %}
-Paper original date is "strikethrough" if extended-submission is provided.
-{% endcomment %}
-{% if site.data.info.extended-submission %}<s>{% endif %}
-{{ site.data.info.submission }}<br>
-{% if site.data.info.extended-submission %}</s><span class="extended">{{ site.data.info.extended-submission }} (extended)</span><br>{% endif %}
-<br>Notification to authors:<br>
-{{ site.data.info.notification }}<br><br>
-Final version:<br>
-{{ site.data.info.final-version }}<br><br>
-Conference:<br>
-{{ site.data.info.date }}<br><br>
         
-Reversible computation has a growing number of promising application areas such as low power design, coding/decoding, debugging, testing and verification, database recovery, discrete event simulation, reversible algorithms, reversible specification formalisms, reversible programming languages, process algebras, and the modeling of biochemical systems. Furthermore, reversible logic provides a basis for quantum computation with its applications, for example, in cryptography and in the development of highly efficient algorithms. First reversible circuits and quantum circuits have been implemented and are seen as promising alternatives to conventional CMOS technology.
+Reversible computation has a growing number of promising application areas such as low-power electronics, encoding/decoding, debugging, testing and verification, database recovery, discrete event simulation, the modeling of biochemical systems, and reversible algorithms, specification formalisms, programming languages and process algebras.
+Furthermore, reversible logic provides a basis for quantum computation with its applications, for example, in cryptography and in the development of highly efficient algorithms.
+First reversible circuits and quantum circuits have been implemented and are seen as promising alternatives to conventional <abbr title="Complementary metal–oxide–semiconductor">CMOS</abbr> technology.
 
-The conference will bring together researchers from computer science, mathematics, and physics to discuss new developments and directions for future research in Reversible Computation. This includes applications of reversibility in quantum computation. Research papers, tutorials, tool demonstrations, and work-in-progress reports are within the scope of the conference. Invited talks by leading international experts will complete the program. Contributions on all areas of Reversible Computation are welcome, including---but not limited to---the following topics:
+The 18th edition of the Reversible Computation conference will bring together researchers from computer science, mathematics, and physics to discuss new developments and directions for future research in Reversible Computation. This includes applications of reversibility in quantum computation. Research papers, tutorials, tool demonstrations, and work-in-progress reports are within the scope of the conference. Invited talks by leading international experts will complete the program. Contributions on all areas of Reversible Computation are welcome, including---but not limited to---the following topics:
 
     Applications
     Architectures

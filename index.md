@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-<h1>Welcome to the<br/>18th Conference on Reversible Computation</h1>
+<h1>Welcome to the<br/>{{ site.data.info.edition }}th Conference on Reversible Computation</h1>
 
-## July, 2026, Turin, Italy
+## {{ site.data.info.date }}, {{ site.data.info.place }}
 
 The Conference on Reversible Computation will bring together researchers from computer science, mathematics, engineering, and physics to discuss new developments and directions for future research in the emerging area of Reversible Computation. This particularly includes applications of reversibility in quantum computation. Research papers, tool demonstrations, and work-in-progress reports are within the scope of the conference, as [detailled in our call for papers](/cfp).
 
