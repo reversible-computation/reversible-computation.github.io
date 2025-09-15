@@ -19,12 +19,9 @@ chairs:
 image1: /images/univ.jpg
 image2: /images/local.jpg
 
-# Sponsor information
+# Sponsor(s) information
 
 sponsors:
 - name: Vaire
   url: https://vaire.co/
-  image: /images/vaire.svg
-- name: dummy
-  url: test
   image: /images/vaire.svg
