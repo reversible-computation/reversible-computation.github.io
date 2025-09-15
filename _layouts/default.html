@@ -53,12 +53,11 @@
       </div>
 
       <div class="middle">
-<!--         <div class="title">
+<!--         
+        <div class="title">
           {{ page.title }}
         </div>
  -->
- 
-
         <section>
         {{ content }}
         </section>
@@ -97,11 +96,11 @@
           </div>
 <!-- If sponsor is given, it is listed here. -->
           {% if site.data.info.sponsors %}
-            <b>Sponsor:</b><br><br>
+            <b>Sponsor{% if site.data.info.sponsors.size > 1 %}s{% endif %} :</b><br><br>
             {% for item in site.data.info.sponsors %}
-            <a href="{{ item.url }}" title="{{ item.name }}">
-              <img src="{{ item.image }}" alt={{ item.name }}/>
-            </a>
+              <a href="{{ item.url }}" title="{{ item.name }}">
+                <img src="{{ item.image }}" alt={{ item.name }}/>
+              </a><br>
             {% endfor %}
           {% endif %}
           <b>Publisher:</b><br><br>
