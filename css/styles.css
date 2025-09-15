@@ -132,7 +132,7 @@ a, a:visited {
   color: #02449c;
 }
 
-main section a:hover {
+a:hover {
   color: #fb9f00;
 }
 

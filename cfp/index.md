@@ -4,7 +4,7 @@ layout: default
 
 # Call For Papers
 
-## Presentation
+## Purpose & Scope
 
 Reversible computation has a growing number of promising application areas such as low-power electronics, encoding/decoding, debugging, testing and verification, database recovery, discrete event simulation, the modeling of biochemical systems, and reversible algorithms, specification formalisms, programming languages and process algebras.
 Furthermore, reversible logic provides a basis for quantum computation with its applications, for example, in cryptography and in the development of highly efficient algorithms.
@@ -35,9 +35,7 @@ Contributions on all areas of Reversible Computation are welcome, including---bu
 
 ## Submission Instructions
 
-To submit a paper to the Reversible Computation conference, please follow these guidelines:
-
-You can submit
+The Reversible Computation conference welcomes the following types of submissions:
 
 - full research papers (15 pages maximum, not including references),
 - tutorials (15 pages maximum, not including references),
@@ -46,7 +44,7 @@ You can submit
 Please do not forget to clearly indicate the type of your submission by choosing the proper category on the submission page. Additional material intended for reviewers but not for publication in the final version---for example, details of proofs---may be placed in a clearly marked appendix that is not included in the page limit. Reviewers are at liberty to ignore appendices and papers must be understandable without them.
 
 The paper submission will be accepted as a PDF file using [Springer's <abbr title="Lecture Notes in Computer Sciences">LNCS</abbr> style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
-Authors are encouraged to include their ORCID's in the paper.
+Authors are encouraged to include their [<abbr title="Open Researcher and Contributor ID">ORCID</abbr>](https://orcid.org/) number in the paper.
 
 At least one author of each accepted paper is expected to register and present the paper at the conference.
 We would appreciate if one person would not present more than two papers at the conference: if more than two papers are accepted by a group of authors, we kindly ask that the papers be presented by different co-authors, as far as possible.
