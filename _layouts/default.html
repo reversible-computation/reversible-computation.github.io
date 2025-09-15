@@ -71,12 +71,16 @@
           <div class="dates">
             <b>Important dates:</b><br><br>
             Abstract submission:<br>
-{% Abstract original date is "strikethrough" if extended-abstract is provided. %}
+            {% comment %}
+              Abstract original date is "strikethrough" if extended-abstract is provided.
+            {% endcomment %}
             {% if site.data.info.extended-abstract %}<s>{% endif %}
             {{ site.data.info.abstract }}<br>
             {% if site.data.info.extended-abstract %}</s><span class="extended">{{ site.data.info.extended-abstract }} (extended)</span><br>{% endif %}
             <br>Submission deadline:<br>
-{% Paper original date is "strikethrough" if extended-submission is provided. %}
+            {% comment %}
+              Paper original date is "strikethrough" if extended-submission is provided.
+            {% endcomment %}
             {% if site.data.info.extended-submission %}<s>{% endif %}
             {{ site.data.info.submission }}<br>
             {% if site.data.info.extended-submission %}</s><span class="extended">{{ site.data.info.extended-submission }} (extended)</span><br>{% endif %}
@@ -94,7 +98,9 @@
             <i>{{ item.affiliation }}</i><br><br>
           {% endfor %}
           </div>
-          {% If sponsor is given, it is listed here. %}
+          {% comment %}
+            If sponsor is given, it is listed here.
+          {% endcomment %}
           {% if site.data.info.sponsors %}
             <b>Sponsor{% if site.data.info.sponsors.size > 1 %}s{% endif %} :</b><br><br>
             {% for item in site.data.info.sponsors %}
