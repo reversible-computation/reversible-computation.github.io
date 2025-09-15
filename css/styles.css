@@ -8,7 +8,8 @@
  * #808080 (map?)
  * #3a65d7 (?)
  * #315485 (?)
- * #fb9f00 (extended dates, underline link & hover link)
+ * #fb9f00 (underline link & hover link)
+ * #ffbe6f (extended dates)
  */
 
 html, body {
@@ -266,5 +267,5 @@ table#program tr.caption {
 }
 
 span.extended{
-  color: #fb9f00;
+  color: #ffbe6f;
 }
