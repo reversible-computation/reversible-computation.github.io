@@ -179,7 +179,7 @@ aside.right {
   border-bottom: solid 1px #4a5966;
 }
 
-img#invited-talk{
+img.invited-talk{
   float: left;
   margin-right: 1em;
   width: 150px
