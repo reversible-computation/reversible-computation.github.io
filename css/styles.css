@@ -1,3 +1,16 @@
+/*
+ * Color palette:
+ * 
+ * #4a5966 (border)
+ * #5caaea (year color, in header)
+ * #00284f (body font color)
+ * #d9dee3 (menu background)
+ * #808080 (map?)
+ * #3a65d7 (?)
+ * #315485 (?)
+ * #FFBE6F (extended dates)
+ */
+
 html, body {
   margin: 0;
   padding: 0;
@@ -36,7 +49,7 @@ p {
 .content {
   width: 938px;
   position: absolute;
-  border: rgb(74, 89, 102) solid 1px;
+  border: #4a5966 solid 1px;
 }
 
 .top-logo {
@@ -45,7 +58,7 @@ p {
   width: 938px;
   background-image: url("/images/top.jpg");
   background-repeat: no-repeat;
-  border-bottom: solid 1px rgb(74, 89, 102);
+  border-bottom: solid 1px #4a5966;
 }
 
 .top-logo-abbrev {
@@ -53,11 +66,11 @@ p {
   font-size: 46px;
   font-weight: bold;
   width: 100%;
-  border-bottom: solid 1px rgb(74, 89, 102);
+  border-bottom: solid 1px #4a5966;
 }
 
 .top-logo-abbrev span.year {
-  color: rgb(92, 170, 234);
+  color: #5caaea;
 }
 
 .top-logo-info {
@@ -79,7 +92,7 @@ p {
 
 .top-logo-info span.date-place {
   font-size: 12px;
-  color: rgb(58, 101, 215);
+  color: #3a65d7;
 }
 
 .main {
@@ -98,15 +111,15 @@ p {
 }
 
 nav ul {
-  background-color: rgb(217, 222, 227);
+  background-color: #d9dee3;
   list-style-type: none;
   padding: 0px;
   margin: 0px;
 }
 
 nav ul li {
-  border-bottom: solid 1px rgb(74, 89, 102);
-  border-right: solid 1px rgb(74, 89, 102);
+  border-bottom: solid 1px #4a5966;
+  border-right: solid 1px #4a5966;
   padding: 2px 2px 2px 8px;
 }
 
@@ -138,7 +151,7 @@ a:hover {
 }
 
 .dates {
-  background-color: rgb(49,84,133);
+  background-color: #315485;
   color: #fafafa;
   padding: 5px;
   font-size: 0.79em;
@@ -146,12 +159,12 @@ a:hover {
 }
 
 .organizers {
-  background-color: rgb(217, 222, 227);
+  background-color: #d9dee3;
   padding: 5px;
   font-size: 0.79em;
-  border-left: solid 1px rgb(74, 89, 102);
-  border-top: solid 1px rgb(74, 89, 102);
-  border-bottom: solid 1px rgb(74, 89, 102);
+  border-left: solid 1px #4a5966;
+  border-top: solid 1px #4a5966;
+  border-bottom: solid 1px #4a5966;
 }
 
 #local-imgs {
@@ -176,9 +189,6 @@ a:hover {
 }
 
 #springer-img {
-  background-image: url("/images/springer.png");
-  background-repeat: no-repeat;
-  background-position: center;
   height: 50px;
   padding: 10px;
 }
@@ -189,8 +199,8 @@ a:hover {
   height: 20px;
   margin-bottom: 5px;
   width: 933px;
-  border: solid 1px rgb(74, 89, 102);
-  background-color: rgb(217, 222, 227);
+  border: solid 1px #4a5966;
+  background-color: #d9dee3;
   padding-top: 5px;
   padding-right: 5px;
   vertical-align: middle;
@@ -199,7 +209,7 @@ a:hover {
 
 .map {
   margin-top: 10px;
-  border: rgb(128, 128, 128) solid 1px;
+  border: #808080 solid 1px;
 }
 
 table.previous {
@@ -211,15 +221,15 @@ table.previous tr td:nth-child(2) {
 }
 
 table#program {
-  border-top: solid 1px rgb(74, 89, 102);
-  border-left: solid 1px rgb(74, 89, 102);
-  border-right: solid 1px rgb(74, 89, 102);
+  border-top: solid 1px #4a5966;
+  border-left: solid 1px #4a5966;
+  border-right: solid 1px #4a5966;
   width: 100%;
   border-spacing: 0px;
 }
 
 table#program tr.special {
-  background-color: rgb(49,84,133);
+  background-color: #315485;
   color: #fafafa;
 }
 
@@ -230,20 +240,24 @@ table#program tr.keynote {
 table#program td {
   vertical-align: top;
   padding: 3px;
-  border-bottom: solid 1px rgb(74, 89, 102);
+  border-bottom: solid 1px #4a5966;
 }
 
 table#program td:nth-child(1) {
   width: 100px;
-  border-right: dashed 1px rgb(74, 89, 102);
+  border-right: dashed 1px #4a5966;
 }
 
 table#program td div.authors {
   font-style: italic;
-  color: rgb(74, 89, 102);
+  color: #4a5966;
 }
 
 table#program tr.caption {
   text-align: center;
   font-style: italic;
+}
+
+span#extended{
+  color:#FFBE6F;
 }

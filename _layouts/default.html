@@ -74,12 +74,12 @@
 <!-- Abstract original date is "strikethrough" if extended-abstract is provided. -->
             {% if site.data.info.extended-abstract %}<s>{% endif %}
             {{ site.data.info.abstract }}<br>
-            {% if site.data.info.extended-abstract %}</s><span style="color:red;">{{ site.data.info.extended-abstract }} (extended)</span><br>{% endif %}
+            {% if site.data.info.extended-abstract %}</s><span class="extended">{{ site.data.info.extended-abstract }} (extended)</span><br>{% endif %}
             <br>Submission deadline:<br>
 <!-- Paper original date is "strikethrough" if extended-submission is provided. -->
             {% if site.data.info.extended-submission %}<s>{% endif %}
             {{ site.data.info.submission }}<br>
-            {% if site.data.info.extended-submission %}</s><span style="color:red;">{{ site.data.info.extended-submission }} (extended)</span><br>{% endif %}
+            {% if site.data.info.extended-submission %}</s><span class="extended">{{ site.data.info.extended-submission }} (extended)</span><br>{% endif %}
             <br>Notification to authors:<br>
             {{ site.data.info.notification }}<br><br>
             Final version:<br>
@@ -104,7 +104,7 @@
             {% endfor %}
           {% endif %}
           <b>Publisher:</b><br><br>
-          <a href="http://www.springer.com/lncs" target="_blank"><div id="springer-img"></div></a>
+          <a href="http://www.springer.com/lncs" title="Springer"><img src="/images/springer.png" id="springer-img" alt="Springer"/></a>
         </div>
       <div class="footer">
         <a href="/credits">Credits</a> | <a href="/contact">Contact</a>
