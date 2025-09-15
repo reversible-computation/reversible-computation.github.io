@@ -4,7 +4,15 @@ This repository contains the source of the <https://reversible-computation.githu
 
 - In `_config.yml` is the base information of the site.
 - In `_data/meny.yml` the menu item can be edited as a yml-list.
- 
+
+## Policy
+
+Please, be aware that the following policy is enforced:
+
+https://github.com/reversible-computation/reversible-computation.github.io/blob/1d5d0eb11b5f974c82ffaa932f531ccfd4baaff6/_layouts/default.html#L38
+
+As a consequence, insline style & scripts are not possible.
+
 ## Testing
 
 You can make sure the website gets good scores at
