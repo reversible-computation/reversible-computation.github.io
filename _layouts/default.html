@@ -91,7 +91,7 @@
             Conference:<br>
             {{ site.data.info.date }}<br><br>
           </div>
-          <div class="organizers">
+          <div class="chairs">
             <b>Chairs:</b><br><br>
           {% for item in site.data.info.chairs %}
             {{ item.name }}<br>
@@ -102,15 +102,19 @@
             If sponsor is given, it is listed here.
           {% endcomment %}
           {% if site.data.info.sponsors %}
+          <div class="sponsors">
             <b>Sponsor{% if site.data.info.sponsors.size > 1 %}s{% endif %} :</b><br><br>
             {% for item in site.data.info.sponsors %}
               <a href="{{ item.url }}" title="{{ item.name }}">
                 <img src="{{ item.image }}" alt={{ item.name }}/>
               </a><br>
             {% endfor %}
+            </div>
           {% endif %}
+          <div class="publisher">
           <b>Publisher:</b><br><br>
           <a href="http://www.springer.com/lncs" title="Springer"><img src="/images/springer.png" id="springer-img" alt="Springer"/></a>
+          </div>
         </aside>
       <footer>
         <a href="/credits">Credits</a> | <a href="/contact">Contact</a>

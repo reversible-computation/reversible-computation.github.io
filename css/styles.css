@@ -159,7 +159,7 @@ aside.right {
   margin-bottom: 10px;
 }
 
-.organizers {
+.chairs {
   background-color: #d9dee3;
   padding: 5px;
   font-size: 0.79em;
@@ -187,6 +187,10 @@ aside.right {
 
 #local-img2 {
   float: right;
+}
+
+.sponsors, .publisher{
+    padding: 5px;
 }
 
 footer {
