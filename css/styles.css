@@ -132,7 +132,7 @@ a:hover {
   color: #fb9f00;
 }
 
-.middle {
+main {
   width: 543px;
   float: left;
   padding: 10px;
@@ -193,7 +193,7 @@ a:hover {
   padding: 10px;
 }
 
-.footer {
+footer {
   position: absolute;
   left: -1px ; right: 0; bottom: -35px;
   height: 20px;

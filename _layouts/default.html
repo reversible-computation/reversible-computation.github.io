@@ -39,20 +39,20 @@
 <body>
   <div class="all">
     <div class="content">
-      <div class="top-logo">
+      <header class="top-logo">
         <div class="top-logo-abbrev">RC<span class="year">{{ site.data.info.year }}</span></div>
         <div class="top-logo-info">
           <span class="edition">{{ site.data.info.edition }} International Conference on</span><br />
           <span class="name">Reversible Computation (RC)</span><br />
           <span class="date-place">{{ site.data.info.date }}, {{ site.data.info.place }}</span>
         </div>
-      </div>
+      </header>
 
       <div class="main">
         {% include navigation.html %}
       </div>
 
-      <div class="middle">
+      <main>
 <!--         
         <div class="title">
           {{ page.title }}
@@ -61,7 +61,7 @@
         <section>
         {{ content }}
         </section>
-      </div>
+      </main>
 
         <div class="right">
           <div id="local-imgs">
@@ -71,12 +71,12 @@
           <div class="dates">
             <b>Important dates:</b><br><br>
             Abstract submission:<br>
-<!-- Abstract original date is "strikethrough" if extended-abstract is provided. -->
+{% Abstract original date is "strikethrough" if extended-abstract is provided. %}
             {% if site.data.info.extended-abstract %}<s>{% endif %}
             {{ site.data.info.abstract }}<br>
             {% if site.data.info.extended-abstract %}</s><span class="extended">{{ site.data.info.extended-abstract }} (extended)</span><br>{% endif %}
             <br>Submission deadline:<br>
-<!-- Paper original date is "strikethrough" if extended-submission is provided. -->
+{% Paper original date is "strikethrough" if extended-submission is provided. %}
             {% if site.data.info.extended-submission %}<s>{% endif %}
             {{ site.data.info.submission }}<br>
             {% if site.data.info.extended-submission %}</s><span class="extended">{{ site.data.info.extended-submission }} (extended)</span><br>{% endif %}
@@ -94,7 +94,7 @@
             <i>{{ item.affiliation }}</i><br><br>
           {% endfor %}
           </div>
-<!-- If sponsor is given, it is listed here. -->
+          {% If sponsor is given, it is listed here. %}
           {% if site.data.info.sponsors %}
             <b>Sponsor{% if site.data.info.sponsors.size > 1 %}s{% endif %} :</b><br><br>
             {% for item in site.data.info.sponsors %}
@@ -106,9 +106,9 @@
           <b>Publisher:</b><br><br>
           <a href="http://www.springer.com/lncs" title="Springer"><img src="/images/springer.png" id="springer-img" alt="Springer"/></a>
         </div>
-      <div class="footer">
+      <footer>
         <a href="/credits">Credits</a> | <a href="/contact">Contact</a>
-      </div>
+      </footer>
     </div>
   </div>
 </body>
