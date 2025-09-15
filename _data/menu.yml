@@ -13,14 +13,14 @@ menu:
 - title: Invited Talks
   url: /invited
 
-- title: Programme
-  url: /programme
+#- title: Programme
+#  url: /programme
 
 - title: Call For Papers
   url: /cfp
 
-- title: Paper Submission
-  url: /submission
+#- title: Paper Submission
+#  url: /submission
 
 - title: Programme Committee
   url: /pc
