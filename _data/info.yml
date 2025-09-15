@@ -25,3 +25,6 @@ sponsors:
 - name: Vaire
   url: https://vaire.co/
   image: /images/vaire.svg
+- name: dummy
+  url: test
+  image: /images/vaire.svg
