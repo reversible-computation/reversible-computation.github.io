@@ -40,6 +40,10 @@ layout: default
   📧 [uwe.meyer@mni.thm.de](mailto:uwe.meyer@mni.thm.de)  
   🌐 [thm.de profile](https://www.thm.de/mni/uwe-meyer)
 
+- **Torben Mogensen**, _Københavns Universitet_  
+  📧 [torbenm@di.ku.dk](mailto:torbenm@di.ku.dk)  
+  🌐 [diku.dk profile](https://hjemmesider.diku.dk/~torbenm/)
+
 - **Luca Roversi** (co-chair), _Università degli studi di Torino_  
   📧 [luca.roversi@unito.it](mailto:luca.roversi@unito.it)  
   🌐 [unito profile](https://www.cs.unito.it/do/docenti.pl/Show?_id=lroversi#tab-profilo)
