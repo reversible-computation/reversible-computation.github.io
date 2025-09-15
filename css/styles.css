@@ -8,7 +8,7 @@
  * #808080 (map?)
  * #3a65d7 (?)
  * #315485 (?)
- * #FFBE6F (extended dates)
+ * #ffbe6f (extended dates, underline link & hover link)
  */
 
 html, body {
@@ -126,10 +126,11 @@ nav ul li {
 a, a:visited {
   text-decoration: none;
   color: #02449c;
+  border-bottom: 3px solid #ffbe6f;
 }
 
 a:hover {
-  color: #fb9f00;
+  color: #ffbe6f;
 }
 
 main {
@@ -144,7 +145,7 @@ main {
   border-bottom: solid 2px #6aaee3;
 }
 
-.right {
+aside.right {
   width: 195px;
   padding-top: 10px;
   float: right;
@@ -254,5 +255,5 @@ table#program tr.caption {
 }
 
 span.extended{
-  color: #FFBE6F;
+  color: #ffbe6f;
 }
