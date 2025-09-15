@@ -8,7 +8,7 @@
  * #808080 (map?)
  * #3a65d7 (?)
  * #315485 (?)
- * #ffbe6f (extended dates, underline link & hover link)
+ * #fb9f00 (extended dates, underline link & hover link)
  */
 
 html, body {
@@ -128,12 +128,12 @@ a, a:visited {
   color: #02449c;
 }
 
-a:hover {
-  color: #ffbe6f;
+main section a:hover {
+  color: #fb9f00;
 }
 
 main section a{
-    border-bottom: 1px solid #ffbe6f;
+    border-bottom: 1px solid #fb9f00;
 }
 
 main {
@@ -262,5 +262,5 @@ table#program tr.caption {
 }
 
 span.extended{
-  color: #ffbe6f;
+  color: #fb9f00;
 }
