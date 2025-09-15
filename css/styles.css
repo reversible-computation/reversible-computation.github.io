@@ -258,6 +258,6 @@ table#program tr.caption {
   font-style: italic;
 }
 
-span#extended{
+span .extended{
   color: #FFBE6F;
 }
