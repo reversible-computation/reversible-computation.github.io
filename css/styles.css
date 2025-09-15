@@ -105,7 +105,7 @@ abbr {
   padding: 0px;
 }
 
-.nav {
+nav {
   width: 180px;
   min-height: 600px;
   height: 100%;
@@ -125,7 +125,15 @@ nav ul {
 nav ul li {
   border-bottom: solid 1px #4a5966;
   border-right: solid 1px #4a5966;
-  padding: 2px 2px 2px 8px;
+}
+
+nav ul li a{
+  display: block;
+  padding: 5px 5px 5px 8px;
+}
+
+nav ul li a:hover{
+  background-color: white;
 }
 
 a, a:visited {
