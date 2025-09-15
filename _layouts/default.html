@@ -96,7 +96,7 @@
           {% endfor %}
           </div>
 <!-- If sponsor is given, it is listed here. -->
-          {% if site.data.info.sponsors %}<s>{% endif %}
+          {% if site.data.info.sponsors %}
             <b>Sponsor:</b><br><br>
             {% for item in site.data.info.sponsors %}
             <a href="{{ item.url }}" title="{{ item.name }}">
