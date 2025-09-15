@@ -100,11 +100,6 @@ abbr {
   color: #3a65d7;
 }
 
-.main {
-  width: 938px;
-  padding: 0px;
-}
-
 nav {
   width: 180px;
   min-height: 600px;
@@ -182,6 +177,12 @@ aside.right {
   border-left: solid 1px #4a5966;
   border-top: solid 1px #4a5966;
   border-bottom: solid 1px #4a5966;
+}
+
+img#invited-talk{
+  float: left;
+  margin-right: 1em;
+  width: 150px
 }
 
 #local-imgs {
@@ -274,6 +275,3 @@ table#program tr.caption {
   font-style: italic;
 }
 
-span.extended{
-  color: #ffbe6f;
-}
