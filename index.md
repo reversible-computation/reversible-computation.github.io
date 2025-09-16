@@ -1,8 +1,9 @@
 ---
 layout: default
+title: Home
 ---
 
-<h1>Welcome to the {{ site.data.info.edition }} Conference on Reversible Computation</h1>
+# Welcome to the {{ site.data.info.edition }} Conference on Reversible Computation
 
 ## {{ site.data.info.date }}, {{ site.data.info.place }}
 

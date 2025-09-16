@@ -189,6 +189,11 @@ img.invited-talk{
   width: 150px
 }
 
+img#springer-img{
+  width:100px;
+  height:28px;
+}
+
 #local-imgs {
   margin-bottom: 10px;
   padding: 0px;

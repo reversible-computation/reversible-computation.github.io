@@ -5,13 +5,13 @@ This repository contains the source of the <https://reversible-computation.githu
 - In `_config.yml` is the base information of the site.
 - In `_data/meny.yml` the menu item can be edited as a yml-list.
 
-
 ## Local testing
 
 You can deploy [the website locally](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll) to test it.
 In short:
 
 - [Install Jekyll](https://jekyllrb.com/docs/installation/),
+- Clone this repository, enter it,
 - Run
 
     ```
@@ -19,6 +19,7 @@ In short:
     bundle install
     bundle exec jekyll serve
     ```
+- Navigate to <http://127.0.0.1:4000/>, or whichever URL is given in the terminal output.
     
 ## Policy
 
@@ -37,3 +38,8 @@ You can make sure the website gets good scores at
 - <https://pagespeed.web.dev/analysis/https-reversible-computation-github-io/> (General)
 
 for example.
+
+## Various notes
+
+- Except for the index.md page at root level, all pages uses the topmost title `h1` as the title page. The index.md page at top level uses a separate `title:` field in its yaml header to list its name as simply "Home", and the template prepends `Reversible Computation (RC) -` to all page titles.
+- 
