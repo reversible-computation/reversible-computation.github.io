@@ -24,6 +24,10 @@ layout: default
   📧 [alessandra.dipierro@univr.it](mailto:alessandra.dipierro@univr.it)  
   🌐 [univr.it profile](https://profs.sci.univr.it/~dipierro/styled-2/)
 
+- **Anna Gogolińska**, _Nicolaus Copernicus Iniversity in Torun_  
+  📧 [leii@mat.umk.pl](mailto:leii@mat.umk.pl)  
+  🌐 [mat.umk.pl profile](https://www.mat.umk.pl/wydzial/lista-pracownikow/?id=61240140)
+
 - **Robin Kaarsgaard**, _Syddansk Universitet_  
   📧 [kaarsgaard@imada.sdu.dk](mailto:kaarsgaard@imada.sdu.dk)  
   🌐 [rkaarsgaard.github.io](https://rkaarsgaard.github.io)
