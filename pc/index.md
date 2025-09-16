@@ -44,6 +44,10 @@ layout: default
   📧 [torbenm@di.ku.dk](mailto:torbenm@di.ku.dk)  
   🌐 [diku.dk profile](https://hjemmesider.diku.dk/~torbenm/)
 
+- **Neil J. Ross**, _Dalhousie University_  
+  📧 [neil.jr.ross@dal.ca](mailto:neil.jr.ross@dal.ca)  
+  🌐 [dalhousie profile](https://www.mathstat.dal.ca/~neilr/)
+
 - **Luca Roversi** (co-chair), _Università degli studi di Torino_  
   📧 [luca.roversi@unito.it](mailto:luca.roversi@unito.it)  
   🌐 [unito profile](https://www.cs.unito.it/do/docenti.pl/Show?_id=lroversi#tab-profilo)
