@@ -4,3 +4,8 @@
 baseurl: /
 
 exclude: ["readme.md", "LICENSE"]
+
+email: m.kirkedal@di.ku.dk
+description: >- # this means to ignore newlines until "baseurl:"
+  Website for the Reversible Computation conference, bringing together computer science, mathematics, engineering, and physics on the topic of reversible computation.
+github_username:  reversible-computation

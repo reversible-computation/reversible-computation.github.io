@@ -5,6 +5,21 @@ This repository contains the source of the <https://reversible-computation.githu
 - In `_config.yml` is the base information of the site.
 - In `_data/meny.yml` the menu item can be edited as a yml-list.
 
+
+## Local testing
+
+You can deploy [the website locally](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll) to test it.
+In short:
+
+- [Install Jekyll](https://jekyllrb.com/docs/installation/),
+- Run
+
+    ```
+    gem install bundler jekyll
+    bundle install
+    bundle exec jekyll serve
+    ```
+    
 ## Policy
 
 Please, be aware that the following policy is enforced:
