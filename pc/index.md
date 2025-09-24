@@ -24,6 +24,10 @@ layout: default
   📧 [alessandra.dipierro@univr.it](mailto:alessandra.dipierro@univr.it)  
   🌐 [univr.it profile](https://profs.sci.univr.it/~dipierro/styled-2/)
 
+- **Stefano Gogioso**, _University of Oxford_  
+  📧 [stefano.gogioso@cs.ox.ac.uk](mailto:stefano.gogioso@cs.ox.ac.uk)  
+  🌐 [ox.ac.uk profile](https://www.cs.ox.ac.uk/people/stefano.gogioso/)
+
 - **Anna Gogolińska**, _Nicolaus Copernicus Iniversity in Torun_  
   📧 [leii@mat.umk.pl](mailto:leii@mat.umk.pl)  
   🌐 [mat.umk.pl profile](https://www.mat.umk.pl/wydzial/lista-pracownikow/?id=61240140)
