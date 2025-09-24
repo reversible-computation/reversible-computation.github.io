@@ -32,7 +32,7 @@ layout: default
   _Lausanne, Switzerland_  
   Published in [LNCS Volume 11497](https://link.springer.com/book/10.1007/978-3-030-21500-2)
 
-- **RC 2018 – 10th Conference**  
+- **[RC 2018 – 10th Conference](http://web.archive.org/web/20190116083313/http://reversible-computation.org/2018/)**  
   _Leicester, UK_  
   Published in [LNCS Volume 11106](https://link.springer.com/book/10.1007%2F978-3-319-99498-7)
 
