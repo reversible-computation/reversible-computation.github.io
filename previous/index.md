@@ -32,7 +32,7 @@ layout: default
   _Lausanne, Switzerland_  
   Published in [LNCS Volume 11497](https://link.springer.com/book/10.1007/978-3-030-21500-2)
 
-- **[RC 2018 – 10th Conference](https://web.archive.org/web/http://reversible-computation.org/2018/)**  
+- **RC 2018 – 10th Conference**  
   _Leicester, UK_  
   Published in [LNCS Volume 11106](https://link.springer.com/book/10.1007%2F978-3-319-99498-7)
 
@@ -52,7 +52,7 @@ layout: default
   _Kyoto, Japan_  
   Published in [LNCS Volume 8507](http://link.springer.com/book/10.1007/978-3-319-08494-7)
 
-- **[RC 2013 – 5th Conference](https://web.archive.org/web/http://reversible-computation.org/2013/)**  
+- **[RC 2013 – 5th Conference](https://web.archive.org/web/20131211045725/http://www.reversible-computation.org/2013/cms/)**  
   _Victoria, Canada_  
   Published in [LNCS Volume 7948](http://link.springer.com/book/10.1007/978-3-642-38986-3)
 
