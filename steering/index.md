@@ -26,10 +26,6 @@ layout: default
   📧 [gvidal@upv.edu.es](mailto:gvidal@upv.edu.es)  
   🌐 [upv.es profile](https://gvidal.webs.upv.es/)
 
-- **Robert Wille**, _Technische Universität München_ & _Software Competence Center Hagenberg GmbH_  
-  📧 [robert.wille@tum.de](mailto:robert.wille@tum.de)  
-  🌐 [tum.de profile](https://www.cda.cit.tum.de/team/wille/bio/)
-
 ## Responsibilities 
 
 The Steering Committee of the Reversible Computation conference is responsible for the following:
