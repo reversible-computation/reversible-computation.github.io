@@ -111,6 +111,19 @@
           {% endfor %}
           </div>
           {% comment %}
+            If patronage is given, it is listed here.
+          {% endcomment %}
+          {% if site.data.info.patronage %}
+          <div class="patronage">
+            <b>Patronage{% if site.data.info.sponsors.size > 1 %}s{% endif %} :</b><br><br>
+            {% for item in site.data.info.patronage %}
+              <a href="{{ item.url }}" title="{{ item.name }}">
+                <img src="{{ item.image }}" alt={{ item.name }}/>
+              </a><br>
+            {% endfor %}
+            </div>
+          {% endif %}
+          {% comment %}
             If sponsor is given, it is listed here.
           {% endcomment %}
           {% if site.data.info.sponsors %}
@@ -125,7 +138,7 @@
           {% endif %}
           <div class="publisher">
           <b>Publisher:</b><br><br>
-          <a href="http://www.springer.com/lncs" title="Springer"><img src="/images/Springer.jpg" id="springer-img" alt="Springer"></a>
+          <a href="http://www.springer.com/lncs" title="Springer"><img src="/images/springer.jpg" id="springer-img" alt="Springer"></a>
           </div>
         </aside>
       <footer>

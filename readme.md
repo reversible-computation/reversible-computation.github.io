@@ -27,7 +27,7 @@ Please, be aware that the following policy is enforced:
 
 https://github.com/reversible-computation/reversible-computation.github.io/blob/1d5d0eb11b5f974c82ffaa932f531ccfd4baaff6/_layouts/default.html#L38
 
-As a consequence, insline style & scripts are not possible.
+As a consequence, inline style & scripts are not possible.
 
 ## Testing
 
