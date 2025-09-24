@@ -25,3 +25,12 @@ sponsors:
 - name: Vaire
   url: https://vaire.co/
   image: /images/vaire.svg
+
+# Patronage(s) information
+
+patronage:
+- name: Università di Torino
+  url: https://www.unito.it/
+  image: /images/logo-UNITO.jpg
+
+
