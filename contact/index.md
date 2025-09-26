@@ -8,7 +8,7 @@ layout: default
 
 - **Clément Aubert** (co-chair), _Augusta University_  
   📧 [caubert@augusta.edu](mailto:caubert@augusta.edu)  
-  🌐 [spots.augusta.edu profile](https://spots.augusta.edu/caubert/)
+  🌐 [augusta.edu profile](https://spots.augusta.edu/caubert/)
   
 - **Luca Roversi** (co-chair), _Università degli studi di Torino_  
   📧 [roversi@di.unito.it](mailto:roversi@di.unito.it)  
@@ -24,7 +24,7 @@ layout: default
 
 - **Michael Kirkedal Thomsen**, _Københavns Universitet_  
   📧 [m.kirkedal@di.ku.dk](mailto:m.kirkedal@di.ku.dk)  
-  🌐 [researchprofiles.ku.dk profile](https://researchprofiles.ku.dk/en/persons/michael-kirkedal-thomsen)
+  🌐 [ku.dk profile](https://researchprofiles.ku.dk/en/persons/michael-kirkedal-thomsen)
 
 ## Steering Committee
 
