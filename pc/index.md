@@ -15,7 +15,11 @@ layout: default
 - **Jacques Carette**, _McMaster University_  
   📧 [carette@mcmaster.ca](mailto:carette@mcmaster.ca)  
   🌐 [mcmaster.ca profile](https://www.cas.mcmaster.ca/~carette/)  
-    
+  
+- **Kostia Chardonnet**, _INRIA_  
+  📧 [kostia.chardonnet@protonmail.com](mailto:kostia.chardonnet@protonmail.com)  
+  🌐 [kostiachardonnet.github.io](https://kostiachardonnet.github.io/)  
+  
 - **Kamalika Datta**, _Universität Bremen_  
   📧 [kdatta@uni-bremen.de](mailto:kdatta@uni-bremen.de)    
   🌐 [agra.informatik.uni-bremen.de profile](https://agra.informatik.uni-bremen.de/team_me.php?id=80&lang=en)
