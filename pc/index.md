@@ -56,6 +56,10 @@ layout: default
   📧 [torbenm@di.ku.dk](mailto:torbenm@di.ku.dk)  
   🌐 [diku.dk profile](https://hjemmesider.diku.dk/~torbenm/)
 
+- **Mathys Rennela**, _Welinq_  
+  📧 [mathys.rennela@gmail.com](mailto:mathys.rennela@gmail.com)  
+  🌐 [personal website](https://mrennela.wordpress.com/)
+
 - **Neil J. Ross**, _Dalhousie University_  
   📧 [neil.jr.ross@dal.ca](mailto:neil.jr.ross@dal.ca)  
   🌐 [dal.ca profile](https://www.mathstat.dal.ca/~neilr/)
