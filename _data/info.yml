@@ -26,15 +26,13 @@ publishers:
   image: /images/springer.jpg
 
 # Sponsor(s) information
-
 sponsors:
 - name: Vaire
   url: https://vaire.co/
   image: /images/vaire.svg
 
 # Patronage(s) information
-
-patronage:
+patronages:
  - name: Università di Torino
    url: https://www.unito.it/
    image: /images/universa_di_torino.png

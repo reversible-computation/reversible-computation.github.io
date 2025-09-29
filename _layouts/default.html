@@ -113,10 +113,10 @@
           {% comment %}
             If patronage is given, it is listed here.
           {% endcomment %}
-          {% if site.data.info.patronage %}
+          {% if site.data.info.patronages %}
           <div class="patronage">
-            <b>Patronage{% if site.data.info.sponsors.size > 1 %}s{% endif %} :</b><br><br>
-            {% for item in site.data.info.patronage %}
+            <b>Patronage{% if site.data.info.patronages.size > 1 %}s{% endif %} :</b><br><br>
+            {% for item in site.data.info.patronages %}
               <a href="{{ item.url }}" title="{{ item.name }}">
                 <img src="{{ item.image }}" alt={{ item.name }}/>
               </a><br>
@@ -136,10 +136,10 @@
             {% endfor %}
             </div>
           {% endif %}          
-          {% if site.data.info.publisher %}
+          {% if site.data.info.publishers %}
           <div class="publisher">
-            <b>Publisher{% if site.data.info.publisher.size > 1 %}s{% endif %} :</b><br><br>
-            {% for item in site.data.info.publisher %}
+            <b>Publisher{% if site.data.info.publishers.size > 1 %}s{% endif %} :</b><br><br>
+            {% for item in site.data.info.publishers %}
               <a href="{{ item.url }}" title="{{ item.name }}">
                 <img src="{{ item.image }}" alt={{ item.name }}/>
               </a><br>
