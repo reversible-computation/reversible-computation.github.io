@@ -57,7 +57,7 @@ layout: default
   🌐 [diku.dk profile](https://hjemmesider.diku.dk/~torbenm/)
 
 - **Mathys Rennela**, _Welinq_  
-  📧 [mathys.rennela@gmail.com](mailto:mathys.rennela@gmail.com)  
+  📧 [mathys.rennela@welinq.fr](mailto:mathys.rennela@welinq.fr)  
   🌐 [personal website](https://mrennela.wordpress.com/)
 
 - **Neil J. Ross**, _Dalhousie University_  
