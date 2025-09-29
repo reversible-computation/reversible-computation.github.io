@@ -135,11 +135,17 @@
               </a><br>
             {% endfor %}
             </div>
-          {% endif %}
+          {% endif %}          
+          {% if site.data.info.publisher %}
           <div class="publisher">
-          <b>Publisher:</b><br><br>
-          <a href="http://www.springer.com/lncs" title="Springer"><img src="/images/springer.jpg" id="springer-img" alt="Springer"></a>
-          </div>
+            <b>Publisher{% if site.data.info.publisher.size > 1 %}s{% endif %} :</b><br><br>
+            {% for item in site.data.info.publisher %}
+              <a href="{{ item.url }}" title="{{ item.name }}">
+                <img src="{{ item.image }}" alt={{ item.name }}/>
+              </a><br>
+            {% endfor %}
+            </div>
+          {% endif %}
         </aside>
       <footer>
         <a href="/credits">Credits</a> | <a href="/contact">Contact</a>
