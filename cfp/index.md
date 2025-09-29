@@ -43,11 +43,13 @@ The Reversible Computation conference welcomes the following types of submission
 
 Please do not forget to clearly indicate the type of your submission by choosing the proper category on the submission page. Additional material intended for reviewers but not for publication in the final version---for example, details of proofs---may be placed in a clearly marked appendix that is not included in the page limit. Reviewers are at liberty to ignore appendices and papers must be understandable without them.
 
+<!--
 The paper submission will be accepted as a PDF file using [Springer's <abbr title="Lecture Notes in Computer Sciences">LNCS</abbr> style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
 Authors are encouraged to include their [<abbr title="Open Researcher and Contributor ID">ORCID</abbr>](https://orcid.org/) number in the paper.
+-->
 
 At least one author of each accepted paper is expected to register and present the paper at the conference.
 We would appreciate if one person would not present more than two papers at the conference: if more than two papers are accepted by a group of authors, we kindly ask that the papers be presented by different co-authors, as far as possible.
 Scientific chairs are not allowed to submit papers to the conference.
 
-All accepted papers will be included in the conference proceedings and published by Springer as a <abbr title="Lecture Notes in Computer Sciences">LNCS</abbr> volume.
+All accepted papers will be included in the conference proceedings. <!-- and published by Springer as a <abbr title="Lecture Notes in Computer Sciences">LNCS</abbr> volume.-->
