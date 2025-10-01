@@ -48,6 +48,10 @@ layout: default
   📧 [ivan.lanese@gmail.com](mailto:ivan.lanese@gmail.com)  
   🌐 [cs.unibo.it profile](https://www.cs.unibo.it/~lanese/)
 
+- **Doriana Medić**, _Università degli studi di Torino_  
+  📧 [doriana.medic@unito.it](mailto:doriana.medic@unito.it)  
+  🌐 [di.unibo.it profile](https://alpha.di.unito.it/doriana-medic/)
+
 - **Uwe Meyer**, _Universität Gießen_  
   📧 [uwe.meyer@mni.thm.de](mailto:uwe.meyer@mni.thm.de)  
   🌐 [thm.de profile](https://www.thm.de/mni/uwe-meyer)
