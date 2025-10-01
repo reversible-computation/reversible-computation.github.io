@@ -20,10 +20,10 @@ image1: /images/univ.jpg
 image2: /images/local.jpg
 
 # Publisher(s) information
-# publishers:
-# - name: Springer
-#   url: http://www.springer.com/lncs
-#   image: /images/springer.jpg
+publishers:
+- name: Springer's Lecture Notes in Computer Sciences
+  url: http://www.springer.com/lncs
+  image: /images/LNCS-Logo.png
 
 # Sponsor(s) information
 sponsors:
