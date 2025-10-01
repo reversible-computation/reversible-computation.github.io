@@ -51,4 +51,4 @@ We would appreciate if one person would not present more than two papers at the 
 Scientific chairs are not allowed to submit papers to the conference.
 
 All accepted papers will be included in the conference proceedings and published by Springer as a <abbr title="Lecture Notes in Computer Sciences">LNCS</abbr> volume.
-Springer's [Book Authors' Code of Conduct](https://www.springernature.com/gp/authors/book-authors-code-of-conduct)
+Proceedings authors will be expected to adhere to Springer's [Book Authors' Code of Conduct](https://www.springernature.com/gp/authors/book-authors-code-of-conduct). 
