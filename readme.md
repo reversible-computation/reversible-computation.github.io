@@ -21,6 +21,15 @@ In short:
     ```
 - Navigate to <http://127.0.0.1:4000/>, or whichever URL is given in the terminal output.
     
+If you want a fresh start, try
+
+```
+bundle clean --force
+```
+
+and re-execute the commands above.
+
+    
 ## Policy
 
 Please, be aware that the following policy is enforced:

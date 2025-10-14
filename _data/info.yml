@@ -33,9 +33,9 @@ sponsors:
 
 # Patronage(s) information
 patronages:
- - name: Università di Torino
-   url: https://www.unito.it/
-   image: /images/universa_di_torino.png
+- name: Università di Torino
+  url: https://www.unito.it/
+  image: /images/universa_di_torino.png
 - name: Dipartimento di Informatica
   url: https://informatica.unito.it/do/home.pl
   image: /images/logo-DIPINFO.gif
