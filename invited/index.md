@@ -20,3 +20,23 @@ Among the many awards and prizes he received stands [the LICS Test of Time Award
 *Abstract to come*
 
 
+## Hannah Earley
+
+### Bio
+
+<!--
+
+![Picture of Prakash Panangaden](../images/Prakash.png){: .invited-talk}
+
+-->
+
+[Hannah Earley](https://ha.nnah.io/) is the co-founder and Chief Technology Officer of [Vaire Computing](https://vaire.co/), where she leads the development of reversible computing architectures for ultra-low-energy AI workloads.
+Vaire's approach aims to overcome the energy limits of conventional silicon by leveraging resonant logic and adiabatic switching, moving computation closer to thermodynamic efficiency.
+
+Hannah holds a PhD in Applied Mathematics and Theoretical Physics from the University of Cambridge, where she focused on the mathematical foundations of computation and physics-informed models of logic.
+
+### Abstract 
+
+*Abstract and title to come*
+
+
