@@ -14,7 +14,7 @@ In short:
 - Clone this repository, enter it,
 - Run
 
-    ```
+    ```console
     gem install bundler jekyll
     bundle install
     bundle exec jekyll serve
@@ -23,7 +23,7 @@ In short:
     
 If you want a fresh start, try
 
-```
+```console
 bundle clean --force
 ```
 
@@ -42,9 +42,9 @@ As a consequence, inline style & scripts are not possible.
 
 You can make sure the website gets good scores at
 
-- <https://securityheaders.com/?q=https%3A%2F%2Freversible-computation.github.io%2F> (Security headers)
 - <https://www.accessibilitychecker.org/audit/?website=https%3A%2F%2Freversible-computation.github.io> (Accessibility)
-- <https://pagespeed.web.dev/analysis/https-reversible-computation-github-io/> (General)
+- <https://pagespeed.web.dev/analysis/https-reversible-computation-github-io/2xdxrtberi?form_factor=mobile> (General)
+- <https://securityheaders.com/?q=https%3A%2F%2Freversible-computation.github.io%2F> (Security headers -- disclaimer: we don't)
 
 for example.
 
@@ -53,9 +53,9 @@ for example.
 - Except for the index.md page at root level, all pages uses the topmost title `h1` as the title page. The index.md page at top level uses a separate `title:` field in its yaml header to list its name as simply "Home", and the template prepends `Reversible Computation (RC) -` to all page titles.
 - Redirection or aliasing is supported thanks to [JekyllRedirectFrom](https://github.com/jekyll/jekyll-redirect-from): simply add
 
-    ```
+    ```yml
     redirect_from:
     - /old-url/
     ```
     
-    in `/new-url/index.md` to redirect `/old-url/` to `/new-url/`. This plug-in is added and whitelisted in `_config.yml`.
+    in the `/new-url/index.md` ["front matter"](https://jekyllrb.com/docs/front-matter/) to redirect `/old-url/` to `/new-url/`. This plug-in is added and whitelisted in `_config.yml`.
