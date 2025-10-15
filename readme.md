@@ -42,9 +42,9 @@ As a consequence, inline style & scripts are not possible.
 
 You can make sure the website gets good scores at
 
-- <https://securityheaders.com/?q=https%3A%2F%2Freversible-computation.github.io%2F> (Security headers)
 - <https://www.accessibilitychecker.org/audit/?website=https%3A%2F%2Freversible-computation.github.io> (Accessibility)
-- <https://pagespeed.web.dev/analysis/https-reversible-computation-github-io/> (General)
+- <https://pagespeed.web.dev/analysis/https-reversible-computation-github-io/2xdxrtberi?form_factor=mobile> (General)
+- <https://securityheaders.com/?q=https%3A%2F%2Freversible-computation.github.io%2F> (Security headers -- disclaimer: we don't)
 
 for example.
 
