@@ -35,10 +35,10 @@ menu:
 #   url: /accommodation
 
 - title: Steering Committee
-  url: /steering
+  url: /sc
 
-- title: Previous Editions
-  url: /previous
+- title: Past Editions
+  url: /past
 
 - title: Contact
   url: /contact

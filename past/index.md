@@ -1,7 +1,10 @@
 ---
 layout: default
-alias: [/previous/]
+redirect_from:
+  - /previous/
 ---
+
+# Past Editions
 
 - **[RC 2025 – 17th Conference](https://reversible-computation-2025.github.io/)**  
   _Odense, Denmark_  
