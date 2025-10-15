@@ -15,12 +15,12 @@ Technical web-development
 
 Pictures:
 
-- [slack12](https://www.flickr.com/photos/slack12/1463931003/)
-- [Andrea Mucelli](https://www.flickr.com/photos/bluestardrop/12995816265)
+- The rooftop view is by [slack12](https://www.flickr.com/photos/slack12/1463931003/)
+- The *Cortile del Rettorato porticato* picture is by [Andrea Mucelli](https://www.flickr.com/photos/bluestardrop/12995816265)
 - Prakash Panangaden's picture is courtesy of <https://www.cs.mcgill.ca/~prakash/pics.html>.
-- The Università di Torino logo was taken from <https://www.unito.it/ateneo/statuto-e-regolamenti/grafica-e-uso-del-logo>.
-- The Springer logo was taken from <https://www.springer.com/us/about-springer/media/press-photos>.
-- The Vaire logo was taken from <https://vaire.co/>.
+- The Università di Torino logo is courtesy from <https://www.unito.it/ateneo/statuto-e-regolamenti/grafica-e-uso-del-logo>.
+- The Springer logo is courtesy from <https://www.springer.com/us/about-springer/media/press-photos>.
+- The Vaire logo is courtesy from <https://vaire.co/>.
 
 # Licence
 
