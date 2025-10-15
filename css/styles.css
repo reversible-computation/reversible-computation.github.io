@@ -26,15 +26,32 @@ body {
   padding-bottom: 30px
 }
 
-h1 {
-  font-size: 1.6em;
-  font-weight: bold;
+h1, h2, h3, h4{
+    font-weight: bold;
 }
 
-h2 {
-  font-size: 1.1em;
-  font-weight: bold;
+/* Ratio for title size inspired from https://stackoverflow.com/a/28659489 */
+
+h1 {
+  font-size: 2em;
 }
+
+h2{
+  font-size: 1.414em;
+}
+
+h3{
+  font-size: 1.155em;
+}
+
+h4{
+  font-size: 1em;
+}
+
+h5{
+  font-size: 0.894em;
+}
+
 
 p {
   text-align: justify;
