@@ -51,4 +51,11 @@ for example.
 ## Various notes
 
 - Except for the index.md page at root level, all pages uses the topmost title `h1` as the title page. The index.md page at top level uses a separate `title:` field in its yaml header to list its name as simply "Home", and the template prepends `Reversible Computation (RC) -` to all page titles.
-- 
+- Redirection or aliasing is supported thanks to [JekyllRedirectFrom](https://github.com/jekyll/jekyll-redirect-from): simply add
+
+    ```
+    redirect_from:
+    - /old-url/
+    ```
+    
+    in `/new-url/index.md` to redirect `/old-url/` to `/new-url/`. This plug-in is added and whitelisted in `_config.yml`.
