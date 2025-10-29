@@ -8,7 +8,7 @@ layout: default
 
 ### Bio
 
-![Picture of Prakash Panangaden](../images/Prakash.png){: .invited-talk}
+![Picture of Prakash Panangaden](../images/Prakash_Panangaden.png){: .invited-talk}
 
 [Prakash Panangaden](https://www.cs.mcgill.ca/~prakash/) graduated from the University of Wisconsin–Milwaukee, and has been a professor at Cornell University, Queen's University and McGill University, where he is now an Emeritus professor.
 His research has always been at the crossing of computer science, mathematics and physics, and his earliest contribution to quantum causality and dynamics dates from 2003.
@@ -19,16 +19,11 @@ Among the many awards and prizes he received stands [the LICS Test of Time Award
 
 *Abstract to come*
 
-
 ## Hannah Earley
 
 ### Bio
 
-<!--
-
-![Picture of Prakash Panangaden](../images/Prakash.png){: .invited-talk}
-
--->
+![Picture of Hannah Earley](../images/Hannah_Earley.png){: .invited-talk}
 
 [Hannah Earley](https://ha.nnah.io/) is the co-founder and Chief Technology Officer of [Vaire Computing](https://vaire.co/), where she leads the development of reversible computing architectures for ultra-low-energy AI workloads.
 Vaire's approach aims to overcome the energy limits of conventional silicon by leveraging resonant logic and adiabatic switching, moving computation closer to thermodynamic efficiency.
