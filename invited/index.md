@@ -23,7 +23,7 @@ Among the many awards and prizes he received stands [the LICS Test of Time Award
 
 ### Bio
 
-![Picture of Hannah Earley](../images/Hannah_Earley.png){: .invited-talk}
+![Picture of Hannah Earley](../images/Hannah_Earley.jpg){: .invited-talk}
 
 [Hannah Earley](https://ha.nnah.io/) is the co-founder and Chief Technology Officer of [Vaire Computing](https://vaire.co/), where she leads the development of reversible computing architectures for ultra-low-energy AI workloads.
 Vaire's approach aims to overcome the energy limits of conventional silicon by leveraging resonant logic and adiabatic switching, moving computation closer to thermodynamic efficiency.
