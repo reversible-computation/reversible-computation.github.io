@@ -28,4 +28,4 @@ layout: default
 
 ## Steering Committee
 
-Refer to [the dedicated page](../steering/).
+Refer to [the dedicated page](../committees/#steering-committee).
