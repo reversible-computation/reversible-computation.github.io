@@ -87,6 +87,10 @@ p {
   border-bottom: solid 1px #4a5966;
 }
 
+.top-logo-abbrev:hover{
+  background-color: white;
+}
+
 abbr {
   cursor: help;
 }
