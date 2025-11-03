@@ -6,11 +6,11 @@ layout: default
 
 ## Scientific Chairs 
 
-- **Clément Aubert** (co-chair), _Augusta University_  
+- **Clément Aubert**, _Augusta University_  
   📧 [caubert@augusta.edu](mailto:caubert@augusta.edu)  
   🌐 [augusta.edu profile](https://spots.augusta.edu/caubert/)
   
-- **Luca Roversi** (co-chair), _Università degli studi di Torino_  
+- **Luca Roversi**, _Università degli studi di Torino_  
   📧 [roversi@di.unito.it](mailto:roversi@di.unito.it)  
   🌐 [di.unito profile](http://www.di.unito.it/~rover/)
 
