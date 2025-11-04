@@ -123,12 +123,17 @@ abbr {
 
 nav {
   width: 180px;
-  min-height: 600px;
-  height: 100%;
-  float: left;
-  background-image: url("/images/left.jpg");
-  background-repeat: no-repeat;
-  background-position: bottom;
+  float:left;
+}
+
+nav:after{
+  background: url("/images/left.jpg") no-repeat bottom;
+  content: "";
+  width: 180px;
+  height: 340px;
+  bottom: 0px;
+  display: inline-block;
+  position: absolute;
 }
 
 nav ul {
@@ -242,7 +247,9 @@ img#springer-img{
 
 footer {
   position: absolute;
-  left: -1px ; right: 0; bottom: -35px;
+  left: -1px;
+  right: 0;
+  bottom: -35px;
   height: 20px;
   margin-bottom: 5px;
   width: 933px;
