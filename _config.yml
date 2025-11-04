@@ -3,7 +3,7 @@
 
 baseurl: /
 
-exclude: ["readme.md", "LICENSE"]
+exclude: ["readme.md", "LICENSE", "cfp/*_cfp.md"]
 
 email: m.kirkedal@di.ku.dk
 
