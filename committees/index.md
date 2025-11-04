@@ -94,19 +94,22 @@ redirect_from:
 
 - **Luca Paolini** (chair), _Università degli studi di Torino_  
   📧 [luca.paolini@unito.it ](mailto:luca.paolini@unito.it )  
-  🌐 [di.unibo.it profile](https://www.di.unito.it/~paolini/index.html)
+  🌐 [di.unito.it profile](https://www.di.unito.it/~paolini/index.html)
 
 - **Doriana Medić**, _Università degli studi di Torino_  
   📧 [doriana.medic@unito.it](mailto:doriana.medic@unito.it)  
-  🌐 [di.unibo.it profile](https://alpha.di.unito.it/doriana-medic/)
+  🌐 [di.unito.it profile](https://alpha.di.unito.it/doriana-medic/)
   
 - **Mario Bifulco**, _Università degli studi di Torino_  
   📧 [mario.bifulco@unito.it](mailto:mario.bifulco@unito.it)  
-  🌐 [informatica.unibo.it profile](https://informatica.unito.it/persone/mario.bifulco)
   
 - **Matteo Palazzo**, _Università degli studi di Torino_  
   📧 [matteo.palazzo@unito.it](mailto:matteo.palazzo@unito.it)  
-  🌐 [cs.unibo.it profile](https://www.cs.unito.it/persone/matteo.palazzo)
+  🌐 [cs.unito.it profile](https://www.cs.unito.it/persone/matteo.palazzo)
+
+- **Luca Roversi** (co-chair), _Università degli studi di Torino_  
+  📧 [luca.roversi@unito.it](mailto:luca.roversi@unito.it)  
+  🌐 [cs.unito.it profile](https://www.cs.unito.it/do/docenti.pl/Show?_id=lroversi#tab-profilo)
   
 ## Steering Committee
 
