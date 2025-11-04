@@ -102,6 +102,7 @@ redirect_from:
   
 - **Mario Bifulco**, _Università degli studi di Torino_  
   📧 [mario.bifulco@unito.it](mailto:mario.bifulco@unito.it)  
+  🌐 [informatica.unibo.it profile](https://informatica.unito.it/persone/mario.bifulco)
   
 - **Matteo Palazzo**, _Università degli studi di Torino_  
   📧 [matteo.palazzo@unito.it](mailto:matteo.palazzo@unito.it)  
