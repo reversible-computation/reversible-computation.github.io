@@ -70,7 +70,7 @@ Proceedings authors will be expected to adhere to Springer's Book Authors' Code 
 Invited Talks
 ==============
 
-Reversible Computation 2026 will feature invited talks by Prakash Panangaden (https://www.cs.mcgill.ca/~prakash/) and Hannah Earley (https://ha.nnah.io/). Details will be posted at <https://reversible-computation.github.io/invited/>.
+Reversible Computation 2026 will feature invited talks by Prakash Panangaden (<https://www.cs.mcgill.ca/~prakash/>) and Hannah Earley (<https://ha.nnah.io/>). Details will be posted at <https://reversible-computation.github.io/invited/>.
 
 
 Programme Committee
