@@ -107,7 +107,7 @@ redirect_from:
   📧 [matteo.palazzo@unito.it](mailto:matteo.palazzo@unito.it)  
   🌐 [cs.unito.it profile](https://www.cs.unito.it/persone/matteo.palazzo)
 
-- **Luca Roversi** (co-chair), _Università degli studi di Torino_  
+- **Luca Roversi**, _Università degli studi di Torino_  
   📧 [luca.roversi@unito.it](mailto:luca.roversi@unito.it)  
   🌐 [cs.unito.it profile](https://www.cs.unito.it/do/docenti.pl/Show?_id=lroversi#tab-profilo)
   
