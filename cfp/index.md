@@ -39,7 +39,8 @@ The Reversible Computation conference welcomes the following types of submission
 
 - full research papers (15 pages maximum, not including references),
 - tutorials (15 pages maximum, not including references),
-- work-in-progress or tool demonstration papers (6 pages maximum, not including references),
+- work-in-progress (6 pages maximum, not including references),
+- tool demonstration papers (6 pages maximum, not including references),
 
 to be submitted at <https://easychair.org/conferences?conf=rc2026>.
 
