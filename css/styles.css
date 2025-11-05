@@ -1,16 +1,22 @@
 /*
  * Color palette:
- * 
+ *
+ * #00284f (body font color)
+ * #02449c (Link color)
+ * #315485 (Dark blue, right box (date) background)
+ * #3a65d7 (Title Date colour) -- removed to #00284f
  * #4a5966 (border)
  * #5caaea (year color, in header)
- * #00284f (body font color)
- * #d9dee3 (menu background)
+ * #666666 (table.previous)
+ * #6aaee3 (title border)
  * #808080 (map?)
- * #3a65d7 (?)
- * #315485 (?)
+ * #d9dee3 (menu background)
+ * #fafafa (white'ish text)
  * #fb9f00 (underline link & hover link)
  * #ffbe6f (extended dates)
+ * #ffcf9e (keynote table background)
  */
+
 
 html, body {
   margin: 0;
@@ -118,7 +124,6 @@ abbr {
 
 .top-logo-info span.date-place {
   font-size: 12px;
-  color: #3a65d7;
 }
 
 nav {
