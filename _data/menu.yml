@@ -1,8 +1,8 @@
 docs_list_title: ACME Documentation
 menu:
 
-- title: Home
-  url: /
+#- title: Home
+#  url: /
 
 # - title: Registration
 #   url: /registration
@@ -22,8 +22,8 @@ menu:
 #- title: Paper Submission
 #  url: /submission
 
-- title: Programme Committee
-  url: /pc
+- title: Committees
+  url: /committees
 
 - title: Location
   url: /location
@@ -34,8 +34,8 @@ menu:
 # - title: Accommodation
 #   url: /accommodation
 
-- title: Steering Committee
-  url: /sc
+# - title: Steering Committee
+#  url: /sc
 
 - title: Past Editions
   url: /past

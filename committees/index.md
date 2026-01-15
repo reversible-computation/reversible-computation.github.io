@@ -1,8 +1,14 @@
 ---
 layout: default
+redirect_from:
+    - /pc/
+    - /sc/
+    - /steering/
 ---
 
-# Programme Committee
+# Committees
+
+## Programme Committee
 
 - **Clément Aubert** (co-chair), _Augusta University_  
   📧 [caubert@augusta.edu](mailto:caubert@augusta.edu)  
@@ -32,7 +38,7 @@ layout: default
   📧 [stefano.gogioso@cs.ox.ac.uk](mailto:stefano.gogioso@cs.ox.ac.uk)  
   🌐 [ox.ac.uk profile](https://www.cs.ox.ac.uk/people/stefano.gogioso/)
 
-- **Anna Gogolińska**, _Nicolaus Copernicus Iniversity in Torun_  
+- **Anna Gogolińska**, _Nicolaus Copernicus University in Torun_  
   📧 [leii@mat.umk.pl](mailto:leii@mat.umk.pl)  
   🌐 [mat.umk.pl profile](https://www.mat.umk.pl/wydzial/lista-pracownikow/?id=61240140)
 
@@ -60,8 +66,8 @@ layout: default
   📧 [torbenm@di.ku.dk](mailto:torbenm@di.ku.dk)  
   🌐 [diku.dk profile](https://hjemmesider.diku.dk/~torbenm/)
 
-- **Mathys Rennela**, _Welinq_  
-  📧 [mathys.rennela@welinq.fr](mailto:mathys.rennela@welinq.fr)  
+- **Mathys Rennela**
+  📧 [mathys.rennela@gmail.com](mailto:mathys.rennela@gmail.com)  
   🌐 [personal website](https://mrennela.wordpress.com/)
 
 - **Neil J. Ross**, _Dalhousie University_  
@@ -84,4 +90,46 @@ layout: default
   📧 [yuen@is.nagoya-u.ac.jp](mailto:yuen@is.nagoya-u.ac.jp)  
   🌐 [nagoya-u.ac.jp profile](https://profs.provost.nagoya-u.ac.jp/html/100001809_en.html)
 
+## Organizing Committee
+
+- **Luca Paolini** (chair), _Università degli studi di Torino_  
+  📧 [luca.paolini@unito.it ](mailto:luca.paolini@unito.it )  
+  🌐 [di.unito.it profile](https://www.di.unito.it/~paolini/index.html)
+
+- **Doriana Medić**, _Università degli studi di Torino_  
+  📧 [doriana.medic@unito.it](mailto:doriana.medic@unito.it)  
+  🌐 [di.unito.it profile](https://alpha.di.unito.it/doriana-medic/)
   
+- **Mario Bifulco**, _Università degli studi di Torino_  
+  📧 [mario.bifulco@unito.it](mailto:mario.bifulco@unito.it)  
+  🌐 [informatica.unibo.it profile](https://informatica.unito.it/persone/mario.bifulco)
+  
+- **Matteo Palazzo**, _Università degli studi di Torino_  
+  📧 [matteo.palazzo@unito.it](mailto:matteo.palazzo@unito.it)  
+  🌐 [cs.unito.it profile](https://www.cs.unito.it/persone/matteo.palazzo)
+
+- **Luca Roversi**, _Università degli studi di Torino_  
+  📧 [luca.roversi@unito.it](mailto:luca.roversi@unito.it)  
+  🌐 [cs.unito.it profile](https://www.cs.unito.it/do/docenti.pl/Show?_id=lroversi#tab-profilo)
+  
+## Steering Committee
+
+- **Robert Glück**, _Københavns Universitet_  
+  📧 [glueck@di.ku.dk](mailto:glueck@di.ku.dk)  
+  🌐 [ku.dk profile](https://researchprofiles.ku.dk/en/persons/robert-gl%C3%BCck)
+
+- **Ivan Lanese**, _Università di Bologna_ & _INRIA_  
+  📧 [ivan.lanese@gmail.com](mailto:ivan.lanese@gmail.com)  
+  🌐 [cs.unibo.it profile](https://www.cs.unibo.it/~lanese/)
+
+- **Łukasz Mikulski**, _Uniwersytet Mikołaja Kopernika w Toruniu_  
+  📧 [lukasz.mikulski@mat.umk.pl](mailto:lukasz.mikulski@mat.umk.pl)  
+  🌐 [umk.pl profile](https://damsi.umk.pl/en/centre/computer-science-formal-languages-and-concurrency/#Mikulski)
+
+- **Irek Ulidowski**, _University of Leicester_ & _AGH University of Science and Technology_  
+  📧 [iu3@leicester.ac.uk](mailto:iu3@leicester.ac.uk)  
+  🌐 [ac.uk profile](https://www.cs.le.ac.uk/people/iulidowski/)
+  
+- **Germán Vidal**, _Universitat Politècnica de València_  
+  📧 [gvidal@upv.edu.es](mailto:gvidal@upv.edu.es)  
+  🌐 [upv.es profile](https://gvidal.webs.upv.es/)

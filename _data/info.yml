@@ -4,8 +4,8 @@ date: July 9–10, 2026
 place: Torino, Italy
 abstract: February 6, 2026
 submission: February 13, 2026
-notification: April 13, 2026
-final-version: May 15, 2026
+notification: April 22, 2026
+final-version: May 13, 2026
 #extended-abstract: February 21, 2026
 #extended-submission: February 28, 2026
 
@@ -13,7 +13,7 @@ chairs:
 - name: Clément Aubert
   affiliation: Augusta University
 - name: Luca Roversi
-  affiliation: Università di Torino, Italy
+  affiliation: Università di Torino
 
 # Local images
 image1: /images/univ.jpg

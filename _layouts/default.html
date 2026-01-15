@@ -35,7 +35,7 @@
   <meta property="og:description" content="Website for the Reversible Computation conference, bringing together computer science, mathematics, engineering, and physics on the topic of reversible computation." />
   <meta property="og:type" content="website" />
   
-  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; connect-src 'self'; img-src 'self'; style-src 'self'; ">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; frame-src www.openstreetmap.org; connect-src 'self'; img-src 'self'; style-src 'self'; ">
   <meta name="referrer" content="origin" />
   
 <!-- FOR fancy java toggle -->
@@ -54,7 +54,7 @@
   <div class="all">
     <div class="content">
       <header class="top-logo">
-        <div class="top-logo-abbrev">RC<span class="year">{{ site.data.info.year }}</span></div>
+        <a href="/" title="Home" class="top-logo-abbrev">RC<span class="year">{{ site.data.info.year }}</a></span>
         <div class="top-logo-info">
           <span class="edition">{{ site.data.info.edition }} International Conference on</span><br />
           <span class="name">Reversible Computation (RC)</span><br />
