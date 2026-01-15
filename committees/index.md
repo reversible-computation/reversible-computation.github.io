@@ -66,8 +66,8 @@ redirect_from:
   📧 [torbenm@di.ku.dk](mailto:torbenm@di.ku.dk)  
   🌐 [diku.dk profile](https://hjemmesider.diku.dk/~torbenm/)
 
-- **Mathys Rennela**, _Welinq_  
-  📧 [mathys.rennela@welinq.fr](mailto:mathys.rennela@welinq.fr)  
+- **Mathys Rennela**
+  📧 [mathys.rennela@gmail.com](mailto:mathys.rennela@gmail.com)  
   🌐 [personal website](https://mrennela.wordpress.com/)
 
 - **Neil J. Ross**, _Dalhousie University_  
