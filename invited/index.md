@@ -33,5 +33,3 @@ Hannah holds a PhD in Applied Mathematics and Theoretical Physics from the Unive
 ### Abstract 
 
 *Abstract and title to come*
-
-
