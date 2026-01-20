@@ -15,10 +15,9 @@ Vaire's approach aims to overcome the energy limits of conventional silicon by l
 
 Hannah holds a PhD in Applied Mathematics and Theoretical Physics from the University of Cambridge, where she focused on the mathematical foundations of computation and physics-informed models of logic.
 
-### Abstract 
+### Reversing the history of computing
 
-*Abstract and title to come*
-
+> It is 90 years on from Church and Turing's first publications, changing the world as we know it. Unfortunately, gaps in our knowledge of physics, thermodynamics, and information have baked in inefficiencies alongside these innovations. We are now suffering the consequences. But how can we extirpate them, sustainably and one step at a time, without overhauling the entirety of our technological infrastructure at once? What can we keep? What must we change? What future will this enable? And why now?
 
 ## Prakash Panangaden
 
@@ -33,4 +32,4 @@ Among the many awards and prizes he received stands [the LICS Test of Time Award
 
 ### Quantum Alternation
 
-The by now standard paradigm for imperative quantum programming languages is based on Selinger's slogan of quantum data and classical control.  Crucially conditionals are based on testing Booleans, i.e. classical bits.  There have been suggestions that we should "move on" to quantum control constructs where the conditional is based on qubits.  My former student Costin Badescu and I showed that these are problematic: there is no semantics based on the traditional superoperators, the constructs are non-compositional and non-monotone.  In this talk I will give an account of these problems and what we can do about it.
+> The by now standard paradigm for imperative quantum programming languages is based on Selinger's slogan of quantum data and classical control.  Crucially conditionals are based on testing Booleans, i.e. classical bits.  There have been suggestions that we should "move on" to quantum control constructs where the conditional is based on qubits.  My former student Costin Badescu and I showed that these are problematic: there is no semantics based on the traditional superoperators, the constructs are non-compositional and non-monotone.  In this talk I will give an account of these problems and what we can do about it.
