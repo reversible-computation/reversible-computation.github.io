@@ -105,6 +105,7 @@ Programme Committee
 - Neil J. Ross (Dalhousie University)
 - Luca Roversi (co-chair) (Università degli studi di Torino)
 - Amr Sabry (Indiana University)
+- Irek Ulidowski (University of Leicester & AGH University of Science and Technology)
 - Yasuhiro Takahashi (University of Tsukuba)
 - Shoji Yuen (Nagoya daigaku)
 
