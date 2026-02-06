@@ -86,6 +86,10 @@ redirect_from:
   📧 [ya.takahashi@cs.tsukuba.ac.jp](mailto:ya.takahashi@cs.tsukuba.ac.jp)  
   🌐 [tsukuba.ac.jp profile](https://www.cs.tsukuba.ac.jp/~ya.takahashi/index-e.html)
 
+- **Irek Ulidowski**, _University of Leicester_ & _AGH University of Science and Technology_  
+  📧 [iu3@leicester.ac.uk](mailto:iu3@leicester.ac.uk)  
+  🌐 [ac.uk profile](https://www.cs.le.ac.uk/people/iulidowski/)
+
 - **Shoji Yuen**, _Nagoya daigaku_  
   📧 [yuen@is.nagoya-u.ac.jp](mailto:yuen@is.nagoya-u.ac.jp)  
   🌐 [nagoya-u.ac.jp profile](https://profs.provost.nagoya-u.ac.jp/html/100001809_en.html)

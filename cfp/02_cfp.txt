@@ -71,7 +71,17 @@ Proceedings authors will be expected to adhere to Springer's Book Authors' Code 
 Invited Talks
 ==============
 
-Reversible Computation 2026 will feature invited talks by Hannah Earley (<https://ha.nnah.io/>) and Prakash Panangaden (<https://www.cs.mcgill.ca/~prakash/>). Details will be posted at <https://reversible-computation.github.io/invited/>.
+Reversible Computation 2026 will feature invited talks by Hannah Earley (<https://ha.nnah.io/>) and Prakash Panangaden (<https://www.cs.mcgill.ca/~prakash/>), titled respectively "Reversing the history of computing" and "Quantum Alternation". Abstracts are below, and details can be found at <https://reversible-computation.github.io/invited/>.
+
+Hannah Earley - Reversing the history of computing
+--------------------------------------------------
+
+It is 90 years on from Church and Turing's first publications, changing the world as we know it. Unfortunately, gaps in our knowledge of physics, thermodynamics, and information have baked in inefficiencies alongside these innovations. We are now suffering the consequences. But how can we extirpate them, sustainably and one step at a time, without overhauling the entirety of our technological infrastructure at once? What can we keep? What must we change? What future will this enable? And why now?
+
+Prakash Panangaden - Quantum Alternation
+----------------------------------------
+
+The by now standard paradigm for imperative quantum programming languages is based on Selinger's slogan of quantum data and classical control.  Crucially conditionals are based on testing Booleans, i.e. classical bits.  There have been suggestions that we should "move on" to quantum control constructs where the conditional is based on qubits.  My former student Costin Badescu and I showed that these are problematic: there is no semantics based on the traditional superoperators, the constructs are non-compositional and non-monotone.  In this talk I will give an account of these problems and what we can do about it.
 
 
 Programme Committee
@@ -95,6 +105,7 @@ Programme Committee
 - Neil J. Ross (Dalhousie University)
 - Luca Roversi (co-chair) (Università degli studi di Torino)
 - Amr Sabry (Indiana University)
+- Irek Ulidowski (University of Leicester & AGH University of Science and Technology)
 - Yasuhiro Takahashi (University of Tsukuba)
 - Shoji Yuen (Nagoya daigaku)
 
