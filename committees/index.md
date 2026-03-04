@@ -66,6 +66,10 @@ redirect_from:
   📧 [torbenm@di.ku.dk](mailto:torbenm@di.ku.dk)  
   🌐 [diku.dk profile](https://hjemmesider.diku.dk/~torbenm/)
 
+- **Alexandru Paler**, _Aalto-​yliopisto_  
+  📧 [alexandru.paler@aalto.fi](mailto:alexandru.paler@aalto.fi)  
+  🌐 [aalto.fi profile](https://www.aalto.fi/en/people/alexandru-paler)
+
 - **Mathys Rennela**,  
   📧 [mathys.rennela@gmail.com](mailto:mathys.rennela@gmail.com)  
   🌐 [personal website](https://mrennela.wordpress.com/)
