@@ -6,6 +6,8 @@ redirect_from:
 
 # Past Editions
 
+Existing proceedings can easily be browsed [through DBLP](https://dblp.uni-trier.de/db/conf/rc/index.html) or [through Springer](https://link.springer.com/conference/rc).
+
 - **[RC 2025 – 17th Conference](https://reversible-computation-2025.github.io/)**  
   _Odense, Denmark_  
   Published in [LNCS Volume 15716](https://link.springer.com/book/10.1007/978-3-031-97063-4)
