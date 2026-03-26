@@ -16,7 +16,7 @@ Accepted payment methods:
 
 In both cases, the secretariat will send you information to pay and complete the registration after you submitted the form.
 Please, have the Fiscal code or VAT number of your company / institution readily available if applicable.
-**Please note that onsite payments are not available.**
+**Please note that onsite payment is not available.**
 
 The registration fee includes:
 - Participation in the conference ([Location](https://reversible-computation.github.io/location/)),
@@ -24,10 +24,10 @@ The registration fee includes:
 - Social dinner on July 9th, 2026 at [La Via del Sale](https://ristorantelaviadelsale.com/),
 - Social event on July 10th, 2026 (TBD).
 
-The registration form also allows the purchase of additional tickets for the social dinner and the social event, and to indicate any dietary requirement you may have.
+The registration form also allows the purchase of additional tickets for the social dinner and the social event, and to indicate any dietary requirement or preference.
 
 Cancellation policy:
-- Cancellations notified by June 9th, 2026 ([AOE](https://time.is/Anywhere_on_Earth)) are eligible for a refund, subject to a 50€ administrative fee
+- Cancellations notified by June 9th, 2026 ([AOE](https://time.is/Anywhere_on_Earth)) are eligible for a refund, subject to a 50€ administrative fee,
 - No refunds will be issued after this date.
 
 For any questions, please contact the [the oganizing committee chair](https://reversible-computation.github.io/committees/#organizing-committee), Luca Paolini, at <luca.paolini@unito.it>.
