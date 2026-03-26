@@ -4,3 +4,30 @@ layout: default
 
 # Registration
 
+Registration can be completed [using this registration form](https://form.jotform.com/260714551857361).
+
+The registration fee (per person, covering both days: July 9–10, 2026) is:
+- 320€ until May 1st, 2026 included ([AOE](https://time.is/Anywhere_on_Earth))
+- 420€ after May 1st, 2026 ([AOE](https://time.is/Anywhere_on_Earth)).
+
+Accepted payment methods:
+- Bank transfer
+- Online credit card.
+
+In both cases, the secretariat will send you information to pay and complete the registration after you submitted the form.
+Please, have the Fiscal code or VAT number of your company / institution readily available if applicable.
+**Please note that onsite payments are not available.**
+
+The registration fee includes:
+- Participation in the conference ([Location](https://reversible-computation.github.io/location/)),
+- Coffee breaks and lunches,
+- Social dinner on July 9th, 2026 at [La Via del Sale](https://ristorantelaviadelsale.com/),
+- Social event on July 10th, 2026 (TBD).
+
+The registration form also allows the purchase of additional tickets for the social dinner and the social event, and to indicate any dietary requirement you may have.
+
+Cancellation policy:
+- Cancellations notified by June 9th, 2026 ([AOE](https://time.is/Anywhere_on_Earth)) are eligible for a refund, subject to a 50€ administrative fee
+- No refunds will be issued after this date.
+
+For any questions, please contact the [the oganizing committee chair](https://reversible-computation.github.io/committees/#organizing-committee), Luca Paolini, at <luca.paolini@unito.it>.
