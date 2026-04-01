@@ -14,8 +14,12 @@ Accepted payment methods:
 - Bank transfer
 - Online credit card.
 
-In both cases, the secretariat will send you information to pay and complete the registration after you submitted the form.
-Please, have the Fiscal code or VAT number of your company / institution readily available if applicable.
+In both cases, after you submitted the form the secretariat will:
+- always and only contact you by an email from organizzazione@stilema-to.it;
+- will send you the information for the bank transfer or the payment via credit card; 
+- will send you the bill once received the payment, to confirm a successful registration.
+For any inquiry about registration, please, refer to organizzazione@stilema-to.it.
+
 **Please note that onsite payment is not available.**
 
 The registration fee includes:
@@ -30,4 +34,4 @@ Cancellation policy:
 - Cancellations notified by June 9th, 2026 ([AOE](https://time.is/Anywhere_on_Earth)) are eligible for a refund, subject to a 50€ administrative fee,
 - No refunds will be issued after this date.
 
-For any questions, please contact the [the oganizing committee chair](https://reversible-computation.github.io/committees/#organizing-committee), Luca Paolini, at <luca.paolini@unito.it>.
+For any questions not strictly related to registration or payments, please contact [the organizing committee chair](https://reversible-computation.github.io/committees/#organizing-committee), Luca Paolini, at <luca.paolini@unito.it>.
