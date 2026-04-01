@@ -15,10 +15,11 @@ Accepted payment methods:
 - Online credit card.
 
 In both cases, after you submitted the form the secretariat will:
-- always and only contact you by an email from organizzazione@stilema-to.it;
-- will send you the information for the bank transfer or the payment via credit card; 
-- will send you the bill once received the payment, to confirm a successful registration.
-For any inquiry about registration, please, refer to organizzazione@stilema-to.it.
+- always and only contact you by an email from <organizzazione@stilema-to.it>;
+- send you the information for the bank transfer or the payment via credit card; 
+- send you the bill once received the payment, to confirm a successful registration.
+
+For any inquiry about registration, please, contact <organizzazione@stilema-to.it>.
 
 **Please note that onsite payment is not available.**
 
