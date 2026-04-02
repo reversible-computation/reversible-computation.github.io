@@ -4,9 +4,6 @@ menu:
 #- title: Home
 #  url: /
 
-# - title: Registration
-#   url: /registration
-
 # - title: Accepted Papers
 #   url: /accepted
 
@@ -27,6 +24,9 @@ menu:
 
 - title: Location
   url: /location
+  
+- title: Registration
+  url: /registration
 
 # - title: Social Event
 #   url: /social
