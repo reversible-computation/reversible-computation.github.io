@@ -14,6 +14,8 @@ layout: default
   📧 [roversi@di.unito.it](mailto:roversi@di.unito.it)  
   🌐 [di.unito profile](http://www.di.unito.it/~rover/)
 
+You can reach both chairs using <rc2026@easychair.org>.
+  
 ## Organizing Chair
 
 - **Luca Paolini**, _Università degli studi di Torino_  
