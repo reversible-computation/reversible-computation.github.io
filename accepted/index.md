@@ -5,7 +5,7 @@ title: Accepted Papers
 
 # Accepted Papers
 
-In no particular order, were accepted for presentation^[Some of them were *conditionally* accepted.] at RC 2026 the following:
+In no particular order, were accepted for presentation (some of them *conditionally*) at RC 2026 the following:
 
 - Louis Marott Normann and Robert Glück. *PEARL: A Partial Evaluation Toolbox for a Reversible Language*
 - Nicolò Pizzo and Claudio Sacerdoti Coen. *A Reversible Crumbling Abstract Machine for Plotkin’s Call-by-Value*
