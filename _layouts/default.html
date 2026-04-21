@@ -97,7 +97,7 @@
             {{ site.data.info.submission }}<br>
             {% if site.data.info.extended-submission %}</s><span class="extended">{{ site.data.info.extended-submission }} (extended)</span><br>{% endif %}
             <br>Notification to authors:<br>
-            % if site.data.info.advanced-notification %}<s>{% endif %}
+            {% if site.data.info.advanced-notification %}<s>{% endif %}
             {{ site.data.info.notification }}<br>
             {% if site.data.info.advanced-notification %}</s><span class="extended">{{ site.data.info.advanced-notification }} (advanced)</span><br>{% endif %}
             Final version:<br>
