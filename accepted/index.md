@@ -22,3 +22,5 @@ In no particular order, were accepted for presentation (some of them *conditiona
 - Julie Cailler and Martin Vassor. *A Graph Rewriting-Based Semantics and Implementation for ρπ*
 - Joachim Kristensen, Triera Gashi and Michael Kirkedal Thomsen. *Automatic Generation of Generators for Property-Based Testing with Inverse Interpretation*
 - Stefan Kuhn, Vandana Dwarka, Przemyslaw Karol Grenda and Eero Vainikko. *Reversible Deep Learning for 13C NMR in Chemoinformatics: On Structures and Spectra*
+- Ivan Lanese and German Vidal. *A Reversible Semantics for Janus*
+- Baptiste Vallée and Ivan Lanese. *On Weak Bisimilarities in CCSK*
