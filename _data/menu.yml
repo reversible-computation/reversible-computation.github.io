@@ -4,8 +4,8 @@ menu:
 #- title: Home
 #  url: /
 
-# - title: Accepted Papers
-#   url: /accepted
+- title: Accepted Papers
+  url: /accepted
 
 - title: Invited Talks
   url: /invited
