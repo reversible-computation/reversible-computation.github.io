@@ -201,8 +201,12 @@ aside.right {
   margin-bottom: 10px;
 }
 
-span.extended{
+.dates span.extended{
   color: #ffbe6f;
+}
+
+span.extended{
+  color: #315485
 }
 
 .chairs {
