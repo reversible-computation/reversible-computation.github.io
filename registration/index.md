@@ -7,7 +7,7 @@ layout: default
 Registration can be completed [using this registration form](https://form.jotform.com/260714551857361).
 
 The registration fee (per person, covering both days: July 9–10, 2026) is:
-- 320€ until May 1st, 2026 included ([AOE](https://time.is/Anywhere_on_Earth))
+- 320€ until <s>May 1st</s> <span class="extended">May 15</span>, 2026 included ([AOE](https://time.is/Anywhere_on_Earth))
 - 420€ after May 1st, 2026 ([AOE](https://time.is/Anywhere_on_Earth)).
 
 Accepted payment methods:
