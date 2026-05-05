@@ -12,15 +12,15 @@ In no particular order, were accepted for presentation (some of them *conditiona
 - Byron Gregg and Christof Teuscher. *A Proposed Research Platform for Fully Adiabatic, Reversible, and Superscalar (FARS) Microarchitectures*
 - Christine Li and Lia Yeh. *Transversal AND in Quantum Codes*
 - Daniel Dávalos and Hernán Claudio Melgratti. *A Lean Mechanization of Reversible Occurrence Nets*
-- Giacomo Belli and Michele Amoretti. *Exact Quantum State Preparation with the Standard Recursive Block Basis*
+- Giacomo Belli and [Michele Amoretti](https://personale.unipr.it/en/ugovdocenti/person/16155). *Exact Quantum State Preparation with the Standard Recursive Block Basis*
 - Hugh Potter and Hannah Blyton. *Discrete Semantics for Reversible Transistor Network Verification*
-- Ivan Lanese and German Vidal. *A Reversible Semantics for Janus*
-- Joachim Kristensen, Triera Gashi and Michael Kirkedal Thomsen. *Automatic Generation of Generators for Property-Based Testing with Inverse Interpretation*
-- Julie Cailler and Martin Vassor. *A Graph Rewriting-Based Semantics and Implementation for ρπ*
+- Ivan Lanese and [German Vidal](https://gvidal.webs.upv.es/). *A Reversible Semantics for Janus*
+- [Joachim Kristensen](https://www.mn.uio.no/ifi/english/people/aca/joachkr/), Triera Gashi and [Michael Kirkedal Thomsen](https://www.mn.uio.no/ifi/english/people/aca/michakt/). *Automatic Generation of Generators for Property-Based Testing with Inverse Interpretation*
+- [Julie Cailler](https://jcailler.github.io/) and Martin Vassor. *A Graph Rewriting-Based Semantics and Implementation for ρπ*
 - Kosuke Onodera, Keisuke Nakano, Kazuyuki Asada and Kentaro Kikuchi. *PisoLang: a User-Friendly Reversible Programming Language with Inductive Types*
-- Louis Marott Normann and Robert Glück. *PEARL: A Partial Evaluation Toolbox for a Reversible Language*
-- Lukas Gail, Uwe Meyer and Tristan Schönhals. *Compiling Roopl++ to HSSA*
+- Louis Marott Normann and [Robert Glück](http://www.diku.dk/english/staff/?id=146978&vis=medarbejder). *PEARL: A Partial Evaluation Toolbox for a Reversible Language*
+- Lukas Gail, [Uwe Meyer](https://homepages.thm.de/~ucmy47/) and Tristan Schönhals. *Compiling Roopl++ to HSSA*
 - Nicolò Pizzo and Claudio Sacerdoti Coen. *A Reversible Crumbling Abstract Machine for Plotkin’s Call-by-Value*
-- Stefan Kuhn, Vandana Dwarka, Przemyslaw Karol Grenda and Eero Vainikko. *Reversible Deep Learning for 13C NMR in Chemoinformatics: On Structures and Spectra*
-- Toya Makino and Tetsuo Yokoyama. *Small-Step Semantics with Meta-Level Reversibility for a Reversible Core Language*
-- Yuna Sadamoto, Shoji Yuen and Claudio Antares Mezzina. *Introducing Time Passage to the Reversible Semantics for Erlang*
+- [Stefan Kuhn](https://www.nmrshiftdb.org/), Vandana Dwarka, Przemyslaw Karol Grenda and Eero Vainikko. *Reversible Deep Learning for 13C NMR in Chemoinformatics: On Structures and Spectra*
+- Toya Makino and [Tetsuo Yokoyama](https://researchmap.jp/tyokoyama?lang=en). *Small-Step Semantics with Meta-Level Reversibility for a Reversible Core Language*
+- Yuna Sadamoto, [Shoji Yuen](https://www.sqlab.jp/yuen_en) and [Claudio Antares Mezzina](https://www.uniurb.it/persone/claudio.mezzina). *Introducing Time Passage to the Reversible Semantics for Erlang*
