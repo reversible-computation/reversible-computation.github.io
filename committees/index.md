@@ -10,13 +10,13 @@ redirect_from:
 
 ## Programme Committee
 
-- **Clément Aubert** (co-chair), _Augusta University_  
-  📧 [caubert@augusta.edu](mailto:caubert@augusta.edu)  
-  🌐 [augusta.edu profile](https://spots.augusta.edu/caubert/)
-
 - **Bogdan Aman**, _Academia Română Filiala Iași_  
   📧 [bogdan.aman@iit.academiaromana-is.ro](mailto:bogdan.aman@iit.academiaromana-is.ro)  
   🌐 [acadiasi.org profile](https://acadiasi.org/cercetatori/aman-bogdan/)
+
+- **Clément Aubert** (co-chair), _Augusta University_  
+  📧 [caubert@augusta.edu](mailto:caubert@augusta.edu)  
+  🌐 [augusta.edu profile](https://spots.augusta.edu/caubert/)
 
 - **Jacques Carette**, _McMaster University_  
   📧 [carette@mcmaster.ca](mailto:carette@mcmaster.ca)  
