@@ -36,8 +36,8 @@ layout: default
 9:00  | Prakash Panangaden. *Quantum Alternation* 
 10:00 | **Coffee break**
       | *Reversible Programming Languages*{:.session}
-10:30 | Lukas Gail, [Uwe Meyer](https://homepages.thm.de/~ucmy47/) and Tristan Schönhals. *Compiling Roopl++ to HSSA*
 11:00 | Ivan Lanese and [German Vidal](https://gvidal.webs.upv.es/). *A Reversible Semantics for Janus*
+10:30 | Lukas Gail, [Uwe Meyer](https://homepages.thm.de/~ucmy47/) and Tristan Schönhals. *Compiling Roopl++ to HSSA*
 11:30 | Toya Makino and [Tetsuo Yokoyama](https://researchmap.jp/tyokoyama?lang=en). *Small-Step Semantics with Meta-Level Reversibility for a Reversible Core Language*
 12:00 | Kosuke Onodera, Keisuke Nakano, Kazuyuki Asada and Kentaro Kikuchi. *PisoLang: a User-Friendly Reversible Programming Language with Inductive Types*
 12:30 | **Lunch**
@@ -48,3 +48,7 @@ layout: default
 15:30 | Yuna Sadamoto, [Shoji Yuen](https://www.sqlab.jp/yuen_en) and [Claudio Antares Mezzina](https://www.uniurb.it/persone/claudio.mezzina). *Introducing Time Passage to the Reversible Semantics for Erlang*
 16:00 | **Closing Coffee Break**
 17:45 | Social event
+
+<!--
+- Regarding semantics and error handling, there is a connection to the paper by Ivan and German. Would it be possible for our talk to take place after theirs? (Not necessarily  right after). 
+-->
