@@ -32,23 +32,20 @@ layout: default
 ## Friday, July 10, 2026
 
 {: .program}
-
-9:00  | Prakash Panangaden. *Quantum Alternation* 
+9:00  | Opening
+9:10  | Prakash Panangaden. *Quantum Alternation* 
 10:00 | **Coffee break**
       | *Reversible Programming Languages*{:.session}
-11:00 | Ivan Lanese and [German Vidal](https://gvidal.webs.upv.es/). *A Reversible Semantics for Janus*
-10:30 | Lukas Gail, [Uwe Meyer](https://homepages.thm.de/~ucmy47/) and Tristan Schönhals. *Compiling Roopl++ to HSSA*
+10:30 | Ivan Lanese and [German Vidal](https://gvidal.webs.upv.es/). *A Reversible Semantics for Janus*
+11:00 | Lukas Gail, [Uwe Meyer](https://homepages.thm.de/~ucmy47/) and Tristan Schönhals. *Compiling Roopl++ to HSSA*
 11:30 | Toya Makino and [Tetsuo Yokoyama](https://researchmap.jp/tyokoyama?lang=en). *Small-Step Semantics with Meta-Level Reversibility for a Reversible Core Language*
 12:00 | Kosuke Onodera, Keisuke Nakano, Kazuyuki Asada and Kentaro Kikuchi. *PisoLang: a User-Friendly Reversible Programming Language with Inductive Types*
 12:30 | **Lunch**
-      | *Support for Reversible Programming*{:.session} | 
+      | *Support for Reversible Programming*{:.session} 
 14:00 | [Julie Cailler](https://jcailler.github.io/) and Martin Vassor. *A Graph Rewriting-Based Semantics and Implementation for ρπ*
-14:30 | [Joachim Kristensen](https://www.mn.uio.no/ifi/english/people/aca/joachkr/), Triera Gashi and [Michael Kirkedal Thomsen](https://www.mn.uio.no/ifi/english/people/aca/michakt/). *Automatic Generation of Generators for Property-Based Testing with Inverse Interpretation* |
+14:30 | [Joachim Kristensen](https://www.mn.uio.no/ifi/english/people/aca/joachkr/), Triera Gashi and [Michael Kirkedal Thomsen](https://www.mn.uio.no/ifi/english/people/aca/michakt/). *Automatic Generation of Generators for Property-Based Testing with Inverse Interpretation*
 15:00 | Louis Marott Normann and [Robert Glück](http://www.diku.dk/english/staff/?id=146978&vis=medarbejder). *PEARL: A Partial Evaluation Toolbox for a Reversible Language*
 15:30 | Yuna Sadamoto, [Shoji Yuen](https://www.sqlab.jp/yuen_en) and [Claudio Antares Mezzina](https://www.uniurb.it/persone/claudio.mezzina). *Introducing Time Passage to the Reversible Semantics for Erlang*
-16:00 | **Closing Coffee Break**
+16:00 | Presentation of the next edition, Closing 
+16:10 | **Coffee Break**
 17:45 | Social event
-
-<!--
-- Regarding semantics and error handling, there is a connection to the paper by Ivan and German. Would it be possible for our talk to take place after theirs? (Not necessarily  right after). 
--->
