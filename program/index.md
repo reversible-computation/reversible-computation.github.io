@@ -4,7 +4,7 @@ redirect_from:
     - /programme/
 ---
 
-# Programme
+# Program
 
 *All times are listed for* [**CEST** *(Central European Summer Time)*](https://time.is/CEST)
 
