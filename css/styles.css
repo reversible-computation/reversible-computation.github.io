@@ -275,49 +275,20 @@ footer {
   border: #808080 solid 1px;
 }
 
-table.previous {
-  color: #666666;
+table td {
+  padding:6px 13px;
+  border:.5px solid #dfe2e5
 }
 
-table.previous tr td:nth-child(2) {
-  padding-left: 7px;
+table tr {
+  background-color:#fff;
+  border-top:1px solid #c6cbd1
 }
 
-table#program {
-  border-top: solid 1px #4a5966;
-  border-left: solid 1px #4a5966;
-  border-right: solid 1px #4a5966;
-  width: 100%;
-  border-spacing: 0px;
+table tr:nth-child(2n) {
+  background-color:#f6f8fa
 }
 
-table#program tr.special {
-  background-color: #315485;
-  color: #fafafa;
+table .session{
+  text-decoration: underline;
 }
-
-table#program tr.keynote {
-  background-color: #ffcf9e;
-}
-
-table#program td {
-  vertical-align: top;
-  padding: 3px;
-  border-bottom: solid 1px #4a5966;
-}
-
-table#program td:nth-child(1) {
-  width: 100px;
-  border-right: dashed 1px #4a5966;
-}
-
-table#program td div.authors {
-  font-style: italic;
-  color: #4a5966;
-}
-
-table#program tr.caption {
-  text-align: center;
-  font-style: italic;
-}
-
