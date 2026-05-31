@@ -43,11 +43,11 @@ redirect_from:
 11:30 | Toya Makino and [Tetsuo Yokoyama](https://researchmap.jp/tyokoyama?lang=en). *Small-Step Semantics with Meta-Level Reversibility for a Reversible Core Language*
 12:00 | Kosuke Onodera, Keisuke Nakano, Kazuyuki Asada and Kentaro Kikuchi. *PisoLang: a User-Friendly Reversible Programming Language with Inductive Types*
 12:30 | **Lunch**
-      | *Support for Reversible Programming*{:.session} 
+      | *Support for Reversible Programming*{:.session} <!-- Chair = Uwe? -->
 14:00 | [Julie Cailler](https://jcailler.github.io/) and Martin Vassor. *A Graph Rewriting-Based Semantics and Implementation for ρπ*
 14:30 | [Joachim Kristensen](https://www.mn.uio.no/ifi/english/people/aca/joachkr/), Triera Gashi and [Michael Kirkedal Thomsen](https://www.mn.uio.no/ifi/english/people/aca/michakt/). *Automatic Generation of Generators for Property-Based Testing with Inverse Interpretation*
 15:00 | Louis Marott Normann and [Robert Glück](http://www.diku.dk/english/staff/?id=146978&vis=medarbejder). *PEARL: A Partial Evaluation Toolbox for a Reversible Language*
 15:30 | Yuna Sadamoto, [Shoji Yuen](https://www.sqlab.jp/yuen_en) and [Claudio Antares Mezzina](https://www.uniurb.it/persone/claudio.mezzina). *Introducing Time Passage to the Reversible Semantics for Erlang*
 16:00 | Presentation of the next edition, Closing 
 16:10 | **Coffee Break**
-17:45 | Social event
+17:40 | Social event
