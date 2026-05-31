@@ -50,4 +50,4 @@ redirect_from:
 15:30 | Yuna Sadamoto, [Shoji Yuen](https://www.sqlab.jp/yuen_en) and [Claudio Antares Mezzina](https://www.uniurb.it/persone/claudio.mezzina). *Introducing Time Passage to the Reversible Semantics for Erlang*
 16:00 | Presentation of the next edition, Closing 
 16:10 | **Coffee Break**
-17:40 | Social event
+17:00 | Social event
