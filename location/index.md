@@ -62,7 +62,7 @@ The **M1S** bus is a substitute service Metro Line M1. It stops only at or near 
 
 # Locations
 
-## Venue (Dipartimento DBIOS - Uni.TO)
+## Venue (Dipartimento DBIOS - Univ. Torino)
 
 The conference will take place Università degli Studi di Torino, Dipartimento Scienze della Vita e Biologia dei Sistemi, Via Accademia Albertina, 13, 10123 Torino TO.
 
@@ -89,3 +89,7 @@ The restaurant is easy to reach by public transport or on foot from central Turi
 | **On foot from your current GPS location** | [Walking directions to La Via del Sale](https://www.google.com/maps/dir/?api=1&destination=La+Via+del+Sale,+Via+San+Francesco+da+Paola+2,+Torino,+Italy&travelmode=walking) |
 
 Official website: [La Via del Sale](https://ristorantelaviadelsale.com/)
+
+## Social event
+
+It is a walk of no more than two hours through the center of Turin. Expert guides will lead us through historical and iconic places in the city, illustrating cultural and architectural features. We will depart from the entrance hall of the Venue (Dipartimento DBIOS - Univ. Torino) at the end of the final coffee break, and we will say goodbye in Piazza Carignano at the end of the walk.
