@@ -22,8 +22,8 @@ redirect_from:
 12:00 | **Lunch**
       | *Formal Developments in Reversible and Quantum Programs*{:.session}
 14:00 | Giacomo Belli and [Michele Amoretti](https://personale.unipr.it/en/ugovdocenti/person/16155). *Exact Quantum State Preparation with the Standard Recursive Block Basis*
-14:30 | Daniel Dávalos and Hernán Claudio Melgratti. *A Lean Mechanization of Reversible Occurrence Nets*
-15:00 | Hugh Potter and Hannah Blyton. *Discrete Semantics for Reversible Transistor Network Verification*
+14:30 | Daniel Dávalos and Hernán Melgratti. *A Lean Mechanization of Reversible Occurrence Nets*
+15:00 | Hannah Blyton and Hugh Potter. *Discrete Semantics for Reversible Transistor Network Verification*
 15:30 | **Coffee break**
       | *Applications of Reversible and Quantum Computations*{:.session}
 16:00 | Byron Gregg and Christof Teuscher. *A Proposed Research Platform for Fully Adiabatic, Reversible, and Superscalar (FARS) Microarchitectures*
@@ -38,14 +38,14 @@ redirect_from:
 9:10  | Prakash Panangaden. *Quantum Alternation* 
 10:00 | **Coffee break**
       | *Reversible Programming Languages*{:.session}
-10:30 | Ivan Lanese and [German Vidal](https://gvidal.webs.upv.es/). *A Reversible Semantics for Janus*
+10:30 | Ivan Lanese and [Germán Vidal](https://gvidal.webs.upv.es/). *A Reversible Semantics for Janus*
 11:00 | Lukas Gail, [Uwe Meyer](https://homepages.thm.de/~ucmy47/) and Tristan Schönhals. *Compiling Roopl++ to HSSA*
 11:30 | Toya Makino and [Tetsuo Yokoyama](https://researchmap.jp/tyokoyama?lang=en). *Small-Step Semantics with Meta-Level Reversibility for a Reversible Core Language*
 12:00 | Kosuke Onodera, Keisuke Nakano, Kazuyuki Asada and Kentaro Kikuchi. *PisoLang: a User-Friendly Reversible Programming Language with Inductive Types*
 12:30 | **Lunch**
       | *Support for Reversible Programming*{:.session}, *chaired by [Uwe Meyer](https://homepages.thm.de/~ucmy47/)*.
 14:00 | [Julie Cailler](https://jcailler.github.io/) and Martin Vassor. *A Graph Rewriting-Based Semantics and Implementation for ρπ*
-14:30 | [Joachim Kristensen](https://www.mn.uio.no/ifi/english/people/aca/joachkr/), Triera Gashi and [Michael Kirkedal Thomsen](https://www.mn.uio.no/ifi/english/people/aca/michakt/). *Automatic Generation of Generators for Property-Based Testing with Inverse Interpretation*
+14:30 | [Joachim Tilsted Kristensen](https://www.mn.uio.no/ifi/english/people/aca/joachkr/), Triera Gashi and [Michael Kirkedal Thomsen](https://www.mn.uio.no/ifi/english/people/aca/michakt/). *Automatic Generation of Generators for Property-Based Testing with Inverse Interpretation*
 15:00 | Louis Marott Normann and [Robert Glück](http://www.diku.dk/english/staff/?id=146978&vis=medarbejder). *PEARL: A Partial Evaluation Toolbox for a Reversible Language*
 15:30 | Yuna Sadamoto, [Shoji Yuen](https://www.sqlab.jp/yuen_en) and [Claudio Antares Mezzina](https://www.uniurb.it/persone/claudio.mezzina). *Introducing Time Passage to the Reversible Semantics for Erlang*
 16:00 | Presentation of the next edition, Closing 
