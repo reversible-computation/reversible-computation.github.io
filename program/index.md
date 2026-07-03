@@ -11,7 +11,7 @@ redirect_from:
 ## Thursday, July 9, 2026
 
 {: .program}
-8:00  | Registration
+8:10  | Registration
 9:00  | Opening
 9:10  | Hannah Earley. *Reversing the history of computing* 
 10:00 | **Coffee break**
