@@ -31,6 +31,7 @@ Panangaden | Prakash | McGill University, University of Edinburgh
 Piccolo | Mauro | Nessuna affiliazione
 Pizzo | Nicolò | University of Bologna
 Potter | Hugh | Vaire Computing
+Roversi | Luca | Università di Torino
 Sacerdoti Coen | Claudio | Alma Mater Studiorum - Università di Bologna
 Sadamoto | Yuna | Nagoya University
 Vassor | Martin | Université de Lorraine
