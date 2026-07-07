@@ -28,6 +28,9 @@ menu:
 - title: Registration
   url: /registration
 
+- title: Participants
+  url: participants/
+
 # - title: Social Event
 #   url: /social
 
