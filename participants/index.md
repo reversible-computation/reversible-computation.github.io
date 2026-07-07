@@ -27,6 +27,7 @@ Mogensen | Torben | University of Copenhagen
 Nye | Dawn | -
 Onodera | Kosuke | Graduate School of Information Sciences, Tohoku University
 Paler | Alexandru | Aalto University
+Panangaden | Prakash | McGill University, University of Edinburgh
 Piccolo | Mauro | Nessuna affiliazione
 Pizzo | Nicolò | University of Bologna
 Potter | Hugh | Vaire Computing
