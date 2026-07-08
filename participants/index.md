@@ -15,6 +15,7 @@ layout: default
 | Camino              | Davide            | Università degli studi di Torino                          |
 | Dàvalos Portillo    | Bernardo Daniel   | Univesity of Cagliari                                     |
 | Do                  | Huyen             | Aalto University                                          |
+| Earley              | Hannah            | Vaire Computing                                           |
 | Glück               | Robert            | Univ. of Copenhagen                                       |
 | Gregg               | Byron             | Vaire & Portland State University                         |
 | Kirkedal Thomsen    | Michael           | University of Oslo / University of Copenhagen             |
@@ -30,7 +31,6 @@ layout: default
 | Onodera             | Kosuke            | Tohoku University                                         |
 | Paler               | Alexandru         | Aalto University                                          |
 | Panangaden          | Prakash           | McGill University                                         |
-| Piccolo             | Mauro             | Nessuna affiliazione                                      |
 | Pizzo               | Nicolò            | University of Bologna                                     |
 | Potter              | Hugh              | Vaire Computing                                           |
 | Sacerdoti Coen      | Claudio           | Università di Bologna                                     |
