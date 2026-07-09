@@ -20,12 +20,12 @@ redirect_from:
 11:00 | Nicolò Pizzo and Claudio Sacerdoti Coen. *A Reversible Crumbling Abstract Machine for Plotkin's Call-by-Value*
 11:30 | Baptiste Vallée and Ivan Lanese. *On Weak Bisimilarities in CCSK*
 12:00 | **Lunch**
-      | *Formal Developments in Reversible and Quantum Programs*{:.session}
+      | *Formal Developments in Reversible and Quantum Programs*{:.session}, *chaired by [Ivan Lanese](https://www.cs.unibo.it/~lanese/)*.
 14:00 | Giacomo Belli and [Michele Amoretti](https://personale.unipr.it/en/ugovdocenti/person/16155). *Exact Quantum State Preparation with the Standard Recursive Block Basis*
 14:30 | Daniel Dávalos and Hernán Melgratti. *A Lean Mechanization of Reversible Occurrence Nets*
 15:00 | Hannah Blyton and Hugh Potter. *Discrete Semantics for Reversible Transistor Network Verification*
 15:30 | **Coffee break**
-      | *Applications of Reversible and Quantum Computations*{:.session}
+      | *Applications of Reversible and Quantum Computations*{:.session}, *chaired by [Claudio Antares Mezzina](https://www.uniurb.it/persone/claudio-mezzina)*.
 16:00 | Byron Gregg and Christof Teuscher. *A Proposed Research Platform for Fully Adiabatic, Reversible, and Superscalar (FARS) Microarchitectures*
 16:30 | [Stefan Kuhn](https://www.nmrshiftdb.org/), Vandana Dwarka, Przemyslaw Karol Grenda and Eero Vainikko. *Reversible Deep Learning for 13C NMR in Chemoinformatics: On Structures and Spectra*
 17:00 | Antonio Tudisco, Deborah Volpe, Mariagrazia Graziano and Giovanna Turvani. *Toward Quantum Circuit Execution Success Estimation via Graph Neural Network-based Prediction*
