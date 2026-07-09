@@ -15,7 +15,7 @@ redirect_from:
 9:00  | Opening
 9:10  | Hannah Earley. *Reversing the history of computing* 
 10:00 | **Coffee break**
-      | *Models of Reversible and Quantum Computation*{:.session}
+      | *Models of Reversible and Quantum Computation*{:.session}, *chaired by [Doriana Medić](https://alpha.di.unito.it/doriana-medic/)*.
 10:30 | Christine Li and Lia Yeh. *Transversal AND in Quantum Codes*
 11:00 | Nicolò Pizzo and Claudio Sacerdoti Coen. *A Reversible Crumbling Abstract Machine for Plotkin's Call-by-Value*
 11:30 | Baptiste Vallée and Ivan Lanese. *On Weak Bisimilarities in CCSK*
@@ -37,7 +37,7 @@ redirect_from:
 9:00  | Opening
 9:10  | Prakash Panangaden. *Quantum Alternation* 
 10:00 | **Coffee break**
-      | *Reversible Programming Languages*{:.session}
+      | *Reversible Programming Languages*{:.session}, *chaired by [Robert Glück](https://researchprofiles.ku.dk/en/persons/robert-gl%C3%BCck/)*.
 10:30 | Ivan Lanese and [Germán Vidal](https://gvidal.webs.upv.es/). *A Reversible Semantics for Janus*
 11:00 | Lukas Gail, [Uwe Meyer](https://homepages.thm.de/~ucmy47/) and Tristan Schönhals. *Compiling Roopl++ to HSSA*
 11:30 | Toya Makino and [Tetsuo Yokoyama](https://researchmap.jp/tyokoyama?lang=en). *Small-Step Semantics with Meta-Level Reversibility for a Reversible Core Language*
