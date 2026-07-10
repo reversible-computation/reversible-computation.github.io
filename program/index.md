@@ -6,14 +6,16 @@ redirect_from:
 
 # Program
 
-*All times are listed for* [**CEST** *(Central European Summer Time)*](https://time.is/CEST)
+*All times are listed for [**CEST** (Central European Summer Time)](https://time.is/CEST).*
+
+The links below are to the corresponding slides or recording, when available.
 
 ## Thursday, July 9, 2026
 
 {: .program}
 8:10  | Registration
 9:00  | Opening
-9:10  | Hannah Earley. *Reversing the history of computing* 
+9:10  | Hannah Earley. [*Reversing the history of computing*](../slides/RC_26_Hannah_Earley_slides.pdf)
 10:00 | **Coffee break**
       | *Models of Reversible and Quantum Computation*{:.session}, *chaired by [Doriana Medić](https://alpha.di.unito.it/doriana-medic/)*.
 10:30 | Christine Li and Lia Yeh. *Transversal AND in Quantum Codes*
