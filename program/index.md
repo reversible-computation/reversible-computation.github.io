@@ -20,7 +20,7 @@ The links below are to the corresponding slides or recording, when available.
       | *Models of Reversible and Quantum Computation*{:.session}, *chaired by [Doriana Medić](https://alpha.di.unito.it/doriana-medic/)*.
 10:30 | Christine Li and Lia Yeh. *Transversal AND in Quantum Codes*
 11:00 | Nicolò Pizzo and Claudio Sacerdoti Coen. *A Reversible Crumbling Abstract Machine for Plotkin's Call-by-Value*
-11:30 | Baptiste Vallée and Ivan Lanese. *On Weak Bisimilarities in CCSK*
+11:30 | Baptiste Vallée and Ivan Lanese. [*On Weak Bisimilarities in CCSK*](../slides/RC_26_Ivan_Lanese_slides.pdf)
 12:00 | **Lunch**
       | *Formal Developments in Reversible and Quantum Programs*{:.session}, *chaired by [Ivan Lanese](https://www.cs.unibo.it/~lanese/)*.
 14:00 | Giacomo Belli and [Michele Amoretti](https://personale.unipr.it/en/ugovdocenti/person/16155). *Exact Quantum State Preparation with the Standard Recursive Block Basis*
@@ -40,14 +40,14 @@ The links below are to the corresponding slides or recording, when available.
 9:10  | Prakash Panangaden. *Quantum Alternation* 
 10:00 | **Coffee break**
       | *Reversible Programming Languages*{:.session}, *chaired by [Robert Glück](https://researchprofiles.ku.dk/en/persons/robert-gl%C3%BCck/)*.
-10:30 | Ivan Lanese and [Germán Vidal](https://gvidal.webs.upv.es/). *A Reversible Semantics for Janus*
+10:30 | Ivan Lanese and [Germán Vidal](https://gvidal.webs.upv.es/). [*A Reversible Semantics for Janus*](../slides/RC_26_Germán_Vidal_slides.pdf)
 11:00 | Lukas Gail, [Uwe Meyer](https://homepages.thm.de/~ucmy47/) and Tristan Schönhals. *Compiling Roopl++ to HSSA*
 11:30 | Toya Makino and [Tetsuo Yokoyama](https://researchmap.jp/tyokoyama?lang=en). *Small-Step Semantics with Meta-Level Reversibility for a Reversible Core Language*
 12:00 | Kosuke Onodera, Keisuke Nakano, Kazuyuki Asada and Kentaro Kikuchi. *PisoLang: a User-Friendly Reversible Programming Language with Inductive Types*
 12:30 | **Lunch**
       | *Support for Reversible Programming*{:.session}, *chaired by [Uwe Meyer](https://homepages.thm.de/~ucmy47/)*.
 14:00 | [Julie Cailler](https://jcailler.github.io/) and Martin Vassor. *A Graph Rewriting-Based Semantics and Implementation for ρπ*
-14:30 | [Joachim Tilsted Kristensen](https://www.mn.uio.no/ifi/english/people/aca/joachkr/), Triera Gashi and [Michael Kirkedal Thomsen](https://www.mn.uio.no/ifi/english/people/aca/michakt/). *Automatic Generation of Generators for Property-Based Testing with Inverse Interpretation* [slides](../slides/14-KristensenGashiThomsen.pdf)
+14:30 | [Joachim Tilsted Kristensen](https://www.mn.uio.no/ifi/english/people/aca/joachkr/), Triera Gashi and [Michael Kirkedal Thomsen](https://www.mn.uio.no/ifi/english/people/aca/michakt/). [*Automatic Generation of Generators for Property-Based Testing with Inverse Interpretation*](../slides/RC_26_Michael_Kirkedal_Thomsen_slides.pdf)
 15:00 | Louis Marott Normann and [Robert Glück](http://www.diku.dk/english/staff/?id=146978&vis=medarbejder). *PEARL: A Partial Evaluation Toolbox for a Reversible Language*
 15:30 | Yuna Sadamoto, [Shoji Yuen](https://www.sqlab.jp/yuen_en) and [Claudio Antares Mezzina](https://www.uniurb.it/persone/claudio.mezzina). *Introducing Time Passage to the Reversible Semantics for Erlang*
 16:00 | Presentation of the next edition, Closing 
