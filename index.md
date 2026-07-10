@@ -14,5 +14,5 @@ Their proceedings can easily be accessed through [dblp](https://dblp.uni-trier.d
 
 ## Proceedings
 
-The Proceedings of the 18th International Conference on Reversible Computation (RC 2026), published as volume 16626 of Lecture Notes in Computer Science, are [available online at Springer website](https://link.springer.com/book/9783032308382).
+The Proceedings of the 18th International Conference on Reversible Computation (RC 2026), published as volume 16626 of Lecture Notes in Computer Science, are [available online at Springer website](https://link.springer.com/book/9783032308382) and [on this website](proceedings/RC_2026_Interim_Version_978-3-032-30839-9.pdf) as an "interim" version.
 Free access is granted from this website until August 15th, 2026.
