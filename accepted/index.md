@@ -24,3 +24,5 @@ In no particular order, were accepted for presentation at RC 2026 the following:
 - [Stefan Kuhn](https://www.nmrshiftdb.org/), Vandana Dwarka, Przemyslaw Karol Grenda and Eero Vainikko. *Reversible Deep Learning for 13C NMR in Chemoinformatics: On Structures and Spectra*
 - Toya Makino and [Tetsuo Yokoyama](https://researchmap.jp/tyokoyama?lang=en). *Small-Step Semantics with Meta-Level Reversibility for a Reversible Core Language*
 - Yuna Sadamoto, [Shoji Yuen](https://www.sqlab.jp/yuen_en) and [Claudio Antares Mezzina](https://www.uniurb.it/persone/claudio.mezzina). *Introducing Time Passage to the Reversible Semantics for Erlang*
+
+You can find information about [the proceedings on the landing page](../#proceedings), and some of the slides on the [program page](../program).
