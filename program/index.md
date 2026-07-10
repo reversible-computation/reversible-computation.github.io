@@ -29,7 +29,7 @@ The links below are to the corresponding slides or recording, when available.
 15:30 | **Coffee break**
       | *Applications of Reversible and Quantum Computations*{:.session}, *chaired by [Claudio Antares Mezzina](https://www.uniurb.it/persone/claudio-mezzina)*.
 16:00 | Byron Gregg and Christof Teuscher. *A Proposed Research Platform for Fully Adiabatic, Reversible, and Superscalar (FARS) Microarchitectures*
-16:30 | [Stefan Kuhn](https://www.nmrshiftdb.org/), Vandana Dwarka, Przemyslaw Karol Grenda and Eero Vainikko. *Reversible Deep Learning for 13C NMR in Chemoinformatics: On Structures and Spectra*
+16:30 | [Stefan Kuhn](https://www.nmrshiftdb.org/), Vandana Dwarka, Przemyslaw Karol Grenda and Eero Vainikko. [*Reversible Deep Learning for 13C NMR in Chemoinformatics: On Structures and Spectra*](../slides/RC_26_Stefan_Hermann_Kuhn.pptx)
 17:00 | Antonio Tudisco, Deborah Volpe, Mariagrazia Graziano and Giovanna Turvani. *Toward Quantum Circuit Execution Success Estimation via Graph Neural Network-based Prediction*
 19:45 | [**Social dinner**](../location/#social-dinner)
 
