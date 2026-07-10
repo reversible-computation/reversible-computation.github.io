@@ -22,12 +22,12 @@ The links below are to the corresponding slides or recording, when available.
 11:00 | Nicolò Pizzo and Claudio Sacerdoti Coen. *A Reversible Crumbling Abstract Machine for Plotkin's Call-by-Value*
 11:30 | Baptiste Vallée and Ivan Lanese. *On Weak Bisimilarities in CCSK*
 12:00 | **Lunch**
-      | *Formal Developments in Reversible and Quantum Programs*{:.session}, *chaired by [Ivan Lanese](https://www.cs.unibo.it/~lanese/)*.
+      | *Formal Developments in Reversible and Quantum Programs*{:.session}, *chaired by [Ivan Lanese](https://www.cs.unibo.it/~lanese/)*.
 14:00 | Giacomo Belli and [Michele Amoretti](https://personale.unipr.it/en/ugovdocenti/person/16155). *Exact Quantum State Preparation with the Standard Recursive Block Basis*
 14:30 | Daniel Dávalos and Hernán Melgratti. *A Lean Mechanization of Reversible Occurrence Nets*
 15:00 | Hannah Blyton and Hugh Potter. *Discrete Semantics for Reversible Transistor Network Verification*
 15:30 | **Coffee break**
-      | *Applications of Reversible and Quantum Computations*{:.session}, *chaired by [Claudio Antares Mezzina](https://www.uniurb.it/persone/claudio-mezzina)*.
+      | *Applications of Reversible and Quantum Computations*{:.session}, *chaired by [Claudio Antares Mezzina](https://www.uniurb.it/persone/claudio-mezzina)*.
 16:00 | Byron Gregg and Christof Teuscher. *A Proposed Research Platform for Fully Adiabatic, Reversible, and Superscalar (FARS) Microarchitectures*
 16:30 | [Stefan Kuhn](https://www.nmrshiftdb.org/), Vandana Dwarka, Przemyslaw Karol Grenda and Eero Vainikko. *Reversible Deep Learning for 13C NMR in Chemoinformatics: On Structures and Spectra*
 17:00 | Antonio Tudisco, Deborah Volpe, Mariagrazia Graziano and Giovanna Turvani. *Toward Quantum Circuit Execution Success Estimation via Graph Neural Network-based Prediction*
@@ -45,9 +45,9 @@ The links below are to the corresponding slides or recording, when available.
 11:30 | Toya Makino and [Tetsuo Yokoyama](https://researchmap.jp/tyokoyama?lang=en). *Small-Step Semantics with Meta-Level Reversibility for a Reversible Core Language*
 12:00 | Kosuke Onodera, Keisuke Nakano, Kazuyuki Asada and Kentaro Kikuchi. *PisoLang: a User-Friendly Reversible Programming Language with Inductive Types*
 12:30 | **Lunch**
-      | *Support for Reversible Programming*{:.session}, *chaired by [Uwe Meyer](https://homepages.thm.de/~ucmy47/)*.
+      | *Support for Reversible Programming*{:.session}, *chaired by [Uwe Meyer](https://homepages.thm.de/~ucmy47/)*.
 14:00 | [Julie Cailler](https://jcailler.github.io/) and Martin Vassor. *A Graph Rewriting-Based Semantics and Implementation for ρπ*
-14:30 | [Joachim Tilsted Kristensen](https://www.mn.uio.no/ifi/english/people/aca/joachkr/), Triera Gashi and [Michael Kirkedal Thomsen](https://www.mn.uio.no/ifi/english/people/aca/michakt/). *Automatic Generation of Generators for Property-Based Testing with Inverse Interpretation*
+14:30 | [Joachim Tilsted Kristensen](https://www.mn.uio.no/ifi/english/people/aca/joachkr/), Triera Gashi and [Michael Kirkedal Thomsen](https://www.mn.uio.no/ifi/english/people/aca/michakt/). *Automatic Generation of Generators for Property-Based Testing with Inverse Interpretation* [slides](../slides/14-KristensenGashiThomsen.pdf)
 15:00 | Louis Marott Normann and [Robert Glück](http://www.diku.dk/english/staff/?id=146978&vis=medarbejder). *PEARL: A Partial Evaluation Toolbox for a Reversible Language*
 15:30 | Yuna Sadamoto, [Shoji Yuen](https://www.sqlab.jp/yuen_en) and [Claudio Antares Mezzina](https://www.uniurb.it/persone/claudio.mezzina). *Introducing Time Passage to the Reversible Semantics for Erlang*
 16:00 | Presentation of the next edition, Closing 
