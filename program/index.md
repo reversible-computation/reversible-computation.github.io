@@ -8,7 +8,7 @@ redirect_from:
 
 *All times are listed for [**CEST** (Central European Summer Time)](https://time.is/CEST).*
 
-The links below are to the corresponding slides or recording, when available.
+The links below are to the corresponding slides.
 
 ## Thursday, July 9, 2026
 
