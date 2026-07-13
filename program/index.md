@@ -46,7 +46,7 @@ The links below are to the corresponding slides or recording, when available.
 12:00 | Kosuke Onodera, Keisuke Nakano, Kazuyuki Asada and Kentaro Kikuchi. *PisoLang: a User-Friendly Reversible Programming Language with Inductive Types*
 12:30 | **Lunch**
       | *Support for Reversible Programming*{:.session}, *chaired by [Uwe Meyer](https://homepages.thm.de/~ucmy47/)*.
-14:00 | [Julie Cailler](https://jcailler.github.io/) and Martin Vassor. *A Graph Rewriting-Based Semantics and Implementation for ρπ*
+14:00 | [Julie Cailler](https://jcailler.github.io/) and Martin Vassor. [*A Graph Rewriting-Based Semantics and Implementation for ρπ*](../slides/RC_26_Julie_Cailler_slides.pdf)
 14:30 | [Joachim Tilsted Kristensen](https://www.mn.uio.no/ifi/english/people/aca/joachkr/), Triera Gashi and [Michael Kirkedal Thomsen](https://www.mn.uio.no/ifi/english/people/aca/michakt/). [*Automatic Generation of Generators for Property-Based Testing with Inverse Interpretation*](../slides/RC_26_Michael_Kirkedal_Thomsen_slides.pdf)
 15:00 | Louis Marott Normann and [Robert Glück](http://www.diku.dk/english/staff/?id=146978&vis=medarbejder). *PEARL: A Partial Evaluation Toolbox for a Reversible Language*
 15:30 | Yuna Sadamoto, [Shoji Yuen](https://www.sqlab.jp/yuen_en) and [Claudio Antares Mezzina](https://www.uniurb.it/persone/claudio.mezzina). *Introducing Time Passage to the Reversible Semantics for Erlang*
