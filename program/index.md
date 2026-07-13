@@ -18,7 +18,7 @@ The links below are to the corresponding slides or recording, when available.
 9:10  | Hannah Earley. [*Reversing the history of computing*](../slides/RC_26_Hannah_Earley_slides.pdf)
 10:00 | **Coffee break**
       | *Models of Reversible and Quantum Computation*{:.session}, *chaired by [Doriana Medić](https://alpha.di.unito.it/doriana-medic/)*.
-10:30 | Christine Li and Lia Yeh. *Transversal AND in Quantum Codes*
+10:30 | Christine Li and Lia Yeh. [*Transversal AND in Quantum Codes*](../slides/RC_26_Christine_Li_slides.pdf)
 11:00 | Nicolò Pizzo and Claudio Sacerdoti Coen. *A Reversible Crumbling Abstract Machine for Plotkin's Call-by-Value*
 11:30 | Baptiste Vallée and Ivan Lanese. [*On Weak Bisimilarities in CCSK*](../slides/RC_26_Ivan_Lanese_slides.pdf)
 12:00 | **Lunch**
