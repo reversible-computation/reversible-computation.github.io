@@ -24,7 +24,7 @@ The links below are to the corresponding slides.
 12:00 | **Lunch**
       | *Formal Developments in Reversible and Quantum Programs*{:.session}, *chaired by [Ivan Lanese](https://www.cs.unibo.it/~lanese/)*.
 14:00 | Giacomo Belli and [Michele Amoretti](https://personale.unipr.it/en/ugovdocenti/person/16155). *Exact Quantum State Preparation with the Standard Recursive Block Basis*
-14:30 | Daniel Dávalos and Hernán Melgratti. *A Lean Mechanization of Reversible Occurrence Nets*
+14:30 | Daniel Dávalos and Hernán Melgratti. [*A Lean Mechanization of Reversible Occurrence Nets*](../slides/RC_26_Daniel_Davalos_slides.pdf)
 15:00 | Hannah Blyton and Hugh Potter. [*Discrete Semantics for Reversible Transistor Network Verification*](../slides/RC_26_Hannah_Blyton_slides.pdf)
 15:30 | **Coffee break**
       | *Applications of Reversible and Quantum Computations*{:.session}, *chaired by [Claudio Antares Mezzina](https://www.uniurb.it/persone/claudio-mezzina)*.
