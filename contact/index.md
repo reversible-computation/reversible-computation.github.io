@@ -14,7 +14,7 @@ layout: default
   📧 [roversi@di.unito.it](mailto:roversi@di.unito.it)  
   🌐 [di.unito profile](http://www.di.unito.it/~rover/)
 
-You can reach both chairs using <rc2026@easychair.org>.
+*Be mindful that the email address <rc2026@easychair.org> was deactivated on August 10, 2026.*
   
 ## Organizing Chair
 
