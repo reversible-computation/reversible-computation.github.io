@@ -14,7 +14,7 @@ The links below are to the corresponding slides.
 
 {: .program}
 8:10  | Registration
-9:00  | Opening
+9:00  | [Opening](../slides/RC_26_Welcome_Slides_01.pptx)
 9:10  | Hannah Earley. [*Reversing the history of computing*](../slides/RC_26_Hannah_Earley_slides.pdf)
 10:00 | **Coffee break**
       | *Models of Reversible and Quantum Computation*{:.session}, *chaired by [Doriana Medić](https://alpha.di.unito.it/doriana-medic/)*.
@@ -23,7 +23,7 @@ The links below are to the corresponding slides.
 11:30 | Baptiste Vallée and Ivan Lanese. [*On Weak Bisimilarities in CCSK*](../slides/RC_26_Ivan_Lanese_slides.pdf)
 12:00 | **Lunch**
       | *Formal Developments in Reversible and Quantum Programs*{:.session}, *chaired by [Ivan Lanese](https://www.cs.unibo.it/~lanese/)*.
-14:00 | Giacomo Belli and [Michele Amoretti](https://personale.unipr.it/en/ugovdocenti/person/16155). *Exact Quantum State Preparation with the Standard Recursive Block Basis*
+14:00 | Giacomo Belli and [Michele Amoretti](https://personale.unipr.it/en/ugovdocenti/person/16155). [*Exact Quantum State Preparation with the Standard Recursive Block Basis*](../slides/RC_26_Giacomo_Belli_slides.pdf)
 14:30 | Daniel Dávalos and Hernán Melgratti. [*A Lean Mechanization of Reversible Occurrence Nets*](../slides/RC_26_Daniel_Davalos_slides.pdf)
 15:00 | Hannah Blyton and Hugh Potter. [*Discrete Semantics for Reversible Transistor Network Verification*](../slides/RC_26_Hannah_Blyton_slides.pdf)
 15:30 | **Coffee break**
@@ -36,14 +36,14 @@ The links below are to the corresponding slides.
 ## Friday, July 10, 2026
 
 {: .program}
-9:00  | Opening
+9:00  | [Opening](../slides/RC_26_Welcome_Slides_02.pptx)
 9:10  | Prakash Panangaden. [*Quantum Alternation*](../slides/RC_26_Prakash_Panangaden_slides.pdf)
 10:00 | **Coffee break**
       | *Reversible Programming Languages*{:.session}, *chaired by [Robert Glück](https://researchprofiles.ku.dk/en/persons/robert-gl%C3%BCck/)*.
 10:30 | Ivan Lanese and [Germán Vidal](https://gvidal.webs.upv.es/). [*A Reversible Semantics for Janus*](../slides/RC_26_Germán_Vidal_slides.pdf)
 11:00 | Lukas Gail, [Uwe Meyer](https://homepages.thm.de/~ucmy47/) and Tristan Schönhals. *Compiling Roopl++ to HSSA*
 11:30 | Toya Makino and [Tetsuo Yokoyama](https://researchmap.jp/tyokoyama?lang=en). *Small-Step Semantics with Meta-Level Reversibility for a Reversible Core Language*
-12:00 | Kosuke Onodera, Keisuke Nakano, Kazuyuki Asada and Kentaro Kikuchi. *PisoLang: a User-Friendly Reversible Programming Language with Inductive Types*
+12:00 | Kosuke Onodera, Keisuke Nakano, Kazuyuki Asada and Kentaro Kikuchi. [*PisoLang: a User-Friendly Reversible Programming Language with Inductive Types*](../slides/RC_26_Kosuke_Onodera_slides.pdf)
 12:30 | **Lunch**
       | *Support for Reversible Programming*{:.session}, *chaired by [Uwe Meyer](https://homepages.thm.de/~ucmy47/)*.
 14:00 | [Julie Cailler](https://jcailler.github.io/) and Martin Vassor. [*A Graph Rewriting-Based Semantics and Implementation for ρπ*](../slides/RC_26_Julie_Cailler_slides.pdf)
