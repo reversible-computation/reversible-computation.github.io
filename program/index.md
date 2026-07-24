@@ -41,7 +41,7 @@ The links below are to the corresponding slides.
 10:00 | **Coffee break**
       | *Reversible Programming Languages*{:.session}, *chaired by [Robert Glück](https://researchprofiles.ku.dk/en/persons/robert-gl%C3%BCck/)*.
 10:30 | Ivan Lanese and [Germán Vidal](https://gvidal.webs.upv.es/). [*A Reversible Semantics for Janus*](../slides/RC_26_Germán_Vidal_slides.pdf)
-11:00 | Lukas Gail, [Uwe Meyer](https://homepages.thm.de/~ucmy47/) and Tristan Schönhals. *Compiling Roopl++ to HSSA*
+11:00 | Lukas Gail, [Uwe Meyer](https://homepages.thm.de/~ucmy47/) and Tristan Schönhals. [*Compiling Roopl++ to HSSA*](../slides/RC_26_Uwe_Meyer_slides.pdf)
 11:30 | Toya Makino and [Tetsuo Yokoyama](https://researchmap.jp/tyokoyama?lang=en). *Small-Step Semantics with Meta-Level Reversibility for a Reversible Core Language*
 12:00 | Kosuke Onodera, Keisuke Nakano, Kazuyuki Asada and Kentaro Kikuchi. [*PisoLang: a User-Friendly Reversible Programming Language with Inductive Types*](../slides/RC_26_Kosuke_Onodera_slides.pdf)
 12:30 | **Lunch**
