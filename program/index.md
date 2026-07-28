@@ -19,7 +19,7 @@ The links below are to the corresponding slides.
 10:00 | **Coffee break**
       | *Models of Reversible and Quantum Computation*{:.session}, *chaired by [Doriana Medić](https://alpha.di.unito.it/doriana-medic/)*.
 10:30 | Christine Li and Lia Yeh. [*Transversal AND in Quantum Codes*](../slides/RC_26_Christine_Li_slides.pdf)
-11:00 | Nicolò Pizzo and Claudio Sacerdoti Coen. *A Reversible Crumbling Abstract Machine for Plotkin's Call-by-Value*
+11:00 | Nicolò Pizzo and Claudio Sacerdoti Coen. [*A Reversible Crumbling Abstract Machine for Plotkin's Call-by-Value*](../slides/RC_26_Nicolò_Pizzo_slides.pdf)
 11:30 | Baptiste Vallée and Ivan Lanese. [*On Weak Bisimilarities in CCSK*](../slides/RC_26_Ivan_Lanese_slides.pdf)
 12:00 | **Lunch**
       | *Formal Developments in Reversible and Quantum Programs*{:.session}, *chaired by [Ivan Lanese](https://www.cs.unibo.it/~lanese/)*.
