@@ -30,15 +30,15 @@ publishers:
 
 # Sponsor(s) information
 sponsors:
-- name: Vaire
-  url: https://vaire.co/
-  image: /images/vaire.svg
+# - name: Vaire
+#   url: https://vaire.co/
+#   image: /images/vaire.svg
 
 # Patronage(s) information
 patronages:
-- name: Università di Torino
-  url: https://unito.it/
-  image: /images/universa_di_torino.png
-- name: Dipartimento di Informatica
-  url: https://informatica.unito.it/do/home.pl
-  image: /images/logo-DIPINFO.webp
+# - name: Università di Torino
+#   url: https://unito.it/
+#   image: /images/universa_di_torino.png
+# - name: Dipartimento di Informatica
+#   url: https://informatica.unito.it/do/home.pl
+#   image: /images/logo-DIPINFO.webp
