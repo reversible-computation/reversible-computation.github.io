@@ -16,8 +16,8 @@ menu:
 - title: Call For Papers
   url: /cfp
 
-#- title: Paper Submission
-#  url: /submission
+- title: Paper Submission
+  url: /submission
 
 - title: Committees
   url: /committees
