@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Reversible Computation (RC) - {{ page.title }}</title>
+    <link rel="stylesheet" href="/css/styles.css">
+    <link rel="preload" fetchpriority="high" as="image" href="/images/top.jpg" type="image/jpeg">
+    <link rel="preload" fetchpriority="high" as="image" href="/images/left.jpg" type="image/jpeg">
+    <link rel="shortcut icon" href="/images/favicon/favicon.ico">
+    <link rel="icon" sizes="16x16 32x32 64x64" href="/images/favicon/favicon.ico">
+    <link rel="icon" type="image/png" sizes="196x196" href="/images/favicon/favicon-192.png">
+    <link rel="icon" type="image/png" sizes="160x160" href="/images/favicon/favicon-160.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/images/favicon/favicon-96.png">
+    <link rel="icon" type="image/png" sizes="64x64" href="/images/favicon/favicon-64.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16.png">
+    <link rel="apple-touch-icon" href="/images/favicon/favicon-57.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/images/favicon/favicon-114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/images/favicon/favicon-72.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/images/favicon/favicon-144.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/images/favicon/favicon-60.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/images/favicon/favicon-120.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/images/favicon/favicon-76.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/images/favicon/favicon-152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/favicon-180.png">
+    <meta name="msapplication-TileColor" content="#FFFFFF">
+    <meta name="msapplication-TileImage" content="/images/favicon/favicon-144.png">
+    <meta name="msapplication-config" content="/browserconfig.xml">
+    <meta
+  name="description"
+  content="Website for the Reversible Computation conference, bringing together computer science, mathematics, engineering, and physics on the topic of reversible computation.">
+  <meta property="og:title" content="{{ site.data.info.edition }} Conference on Reversible Computation" />
+  <meta property="og:description" content="Website for the Reversible Computation conference, bringing together computer science, mathematics, engineering, and physics on the topic of reversible computation." />
+  <meta property="og:type" content="website" />
+  
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; frame-src www.openstreetmap.org; connect-src 'self'; img-src 'self'; style-src 'self'; ">
+  <meta name="referrer" content="origin" />
+  
+<!-- FOR fancy java toggle -->
+<!--
+    <script>
+        function toggleNext(e){
+          var subElement = e.nextElementSibling;
+          subElement.style.display = subElement.style.display === 'none' ? 'inline' : 'none';
+        }
+    </script>
+-->
+<!-- END -->
+  </head>
+
+<body>
+  <div class="all">
+    <div class="content">
+      <header class="top-logo">
+        <a href="/" title="Home" class="top-logo-abbrev">RC<span class="year">{{ site.data.info.year }}</a></span>
+        <div class="top-logo-info">
+          <span class="edition">{{ site.data.info.edition }} International Conference on</span><br />
+          <span class="name">Reversible Computation (RC)</span><br />
+          <span class="date-place">{{ site.data.info.date }}, {{ site.data.info.place }}</span>
+        </div>
+      </header>
+
+      {% include navigation.html %}
+      
+      <main>
+<!--         
+        <div class="title">
+          {{ page.title }}
+        </div>
+ -->
+        <section>
+          {{ content }}
+        </section>
+      </main>
+
+        <aside class="right">
+          <div id="local-imgs">
+            <img class="local-img" id="local-img1" src="{{ site.data.info.image1 }}" alt="Università degli Studi di Torino - Cortile del Rettorato porticato">
+            <img class="local-img" id="local-img2" src="{{ site.data.info.image2 }}" alt="Rooftops view of Turin">
+          </div>
+          <div class="dates">
+            <b>Important dates:</b><br><br>
+            Abstract submission:<br>
+            {% comment %}
+              Abstract original date is "strikethrough" if extended-abstract is provided.
+            {% endcomment %}
+            {% if site.data.info.extended-abstract %}<s>{% endif %}
+            {{ site.data.info.abstract }}<br>
+            {% if site.data.info.extended-abstract %}</s><span class="extended">{{ site.data.info.extended-abstract }} (extended)</span><br>{% endif %}
+            <br>Submission deadline:<br>
+            {% comment %}
+              Paper original date is "strikethrough" if extended-submission is provided.
+            {% endcomment %}
+            {% if site.data.info.extended-submission %}<s>{% endif %}
+            {{ site.data.info.submission }}<br>
+            {% if site.data.info.extended-submission %}</s><span class="extended">{{ site.data.info.extended-submission }} (extended)</span><br>{% endif %}
+            <br>Notification to authors:<br>
+            {% comment %}
+              Abstract original date is "strikethrough" if extended-abstract is provided.
+            {% endcomment %}  
+            {% if site.data.info.advanced-notification %}<s>{% endif %}
+            {{ site.data.info.notification }}<br>
+            {% if site.data.info.advanced-notification %}</s><span class="extended">{{ site.data.info.advanced-notification }} (advanced)</span><br>{% endif %}
+            <br>Final version:<br>
+            {{ site.data.info.final-version }}<br><br>
+            Conference:<br>
+            {{ site.data.info.date }}<br><br>
+          </div>
+          <div class="chairs">
+            <b>Chairs:</b><br><br>
+          {% for item in site.data.info.chairs %}
+            {{ item.name }}<br>
+            <i>{{ item.affiliation }}</i><br><br>
+          {% endfor %}
+          </div>
+          {% comment %}
+            If patronage is given, it is listed here.
+          {% endcomment %}
+          {% if site.data.info.patronages %}
+          <div class="patronage">
+            <b>Patronage{% if site.data.info.patronages.size > 1 %}s{% endif %} :</b><br><br>
+            {% for item in site.data.info.patronages %}
+              <a href="{{ item.url }}" title="{{ item.name }}">
+                <img src="{{ item.image }}" alt={{ item.name }}/>
+              </a><br>
+            {% endfor %}
+            </div>
+          {% endif %}
+          {% comment %}
+            If sponsor is given, it is listed here.
+          {% endcomment %}
+          {% if site.data.info.sponsors %}
+          <div class="sponsors">
+            <b>Sponsor{% if site.data.info.sponsors.size > 1 %}s{% endif %} :</b><br><br>
+            {% for item in site.data.info.sponsors %}
+              <a href="{{ item.url }}" title="{{ item.name }}">
+                <img src="{{ item.image }}" alt={{ item.name }}/>
+              </a><br>
+            {% endfor %}
+            </div>
+          {% endif %}          
+          {% if site.data.info.publishers %}
+          <div class="publisher">
+            <b>Publisher{% if site.data.info.publishers.size > 1 %}s{% endif %} :</b><br><br>
+            {% for item in site.data.info.publishers %}
+              <a href="{{ item.url }}" title="{{ item.name }}">
+                <img src="{{ item.image }}" alt={{ item.name }}/>
+              </a><br>
+            {% endfor %}
+            </div>
+          {% endif %}
+        </aside>
+      <footer>
+        <a href="/credits">Credits</a> | <a href="/contact">Contact</a>
+      </footer>
+    </div>
+  </div>
+</body>
+</html>

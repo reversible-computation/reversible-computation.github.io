@@ -1,0 +1,294 @@
+/*
+ * Color palette:
+ *
+ * #00284f (body font color)
+ * #02449c (Link color)
+ * #315485 (Dark blue, right box (date) background)
+ * #3a65d7 (Title Date colour) -- removed to #00284f
+ * #4a5966 (border)
+ * #5caaea (year color, in header)
+ * #666666 (table.previous)
+ * #6aaee3 (title border)
+ * #808080 (map?)
+ * #d9dee3 (menu background)
+ * #fafafa (white'ish text)
+ * #fb9f00 (underline link & hover link)
+ * #ffbe6f (extended dates)
+ * #ffcf9e (keynote table background)
+ */
+
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 0.79em;
+  color: #00284f;
+  min-height:100%;
+  position:relative;
+  padding-bottom: 30px
+}
+
+h1, h2, h3, h4{
+    font-weight: bold;
+}
+
+/* Ratio for title size inspired from https://stackoverflow.com/a/28659489 */
+
+h1 {
+  font-size: 2em;
+}
+
+h2{
+  font-size: 1.414em;
+}
+
+h3{
+  font-size: 1.155em;
+}
+
+h4{
+  font-size: 1em;
+}
+
+h5{
+  font-size: 0.894em;
+}
+
+
+p {
+  text-align: justify;
+}
+
+.all {
+  margin: 0 auto;
+  padding: 5px;
+  margin-bottom: 20px;
+  width: 938px;
+}
+
+.content {
+  width: 938px;
+  position: absolute;
+  border: #4a5966 solid 1px;
+}
+
+.top-logo {
+  position: relative;
+  height: 177px;
+  width: 938px;
+  background-image: url("/images/top.jpg");
+  background-repeat: no-repeat;
+  border-bottom: solid 1px #4a5966;
+}
+
+.top-logo-abbrev {
+  position: absolute;
+  font-size: 46px;
+  font-weight: bold;
+  width: 100%;
+  border-bottom: solid 1px #4a5966;
+}
+
+.top-logo-abbrev:hover{
+  background-color: white;
+}
+
+abbr {
+  cursor: help;
+}
+
+.top-logo-abbrev span.year {
+  color: #5caaea;
+}
+
+.top-logo-info {
+  position: absolute;
+  right: 30px;
+  top: 70px;
+  text-align: right;
+  line-height: 25px;
+}
+
+.top-logo-info span.edition {
+  font-size: 14px;
+}
+
+.top-logo-info span.name {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.top-logo-info span.date-place {
+  font-size: 12px;
+}
+
+nav {
+  width: 180px;
+  float:left;
+}
+
+nav:after{
+  background: url("/images/left.jpg") no-repeat bottom;
+  content: "";
+  width: 180px;
+  height: 340px;
+  bottom: 0px;
+  display: inline-block;
+  position: absolute;
+}
+
+nav ul {
+  background-color: #d9dee3;
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+nav ul li {
+  border-bottom: solid 1px #4a5966;
+  border-right: solid 1px #4a5966;
+}
+
+nav ul li a{
+  display: block;
+  padding: 5px 5px 5px 8px;
+}
+
+nav ul li a:hover{
+  background-color: white;
+}
+
+a, a:visited {
+  text-decoration: none;
+  color: #02449c;
+}
+
+a:hover {
+  color: #fb9f00;
+}
+
+main section a{
+    border-bottom: 1px solid #fb9f00;
+}
+
+main {
+  width: 543px;
+  float: left;
+  padding: 10px;
+}
+
+.title {
+  padding-bottom: 6px;
+  margin-bottom: 6px;
+  border-bottom: solid 2px #6aaee3;
+}
+
+aside.right {
+  width: 195px;
+  padding-top: 10px;
+  float: right;
+}
+
+.dates {
+  background-color: #315485;
+  color: #fafafa;
+  padding: 5px;
+  font-size: 0.79em;
+  margin-bottom: 10px;
+}
+
+.dates span.extended{
+  color: #ffbe6f;
+}
+
+span.extended{
+  color: #315485
+}
+
+.chairs {
+  background-color: #d9dee3;
+  padding: 5px;
+  font-size: 0.79em;
+  border-left: solid 1px #4a5966;
+  border-top: solid 1px #4a5966;
+  border-bottom: solid 1px #4a5966;
+}
+
+img.invited-talk{
+  float: left;
+  margin-right: 1em;
+  width: 150px
+}
+
+img#springer-img{
+  width:100px;
+  height:28px;
+}
+
+#local-imgs {
+  margin-bottom: 10px;
+  padding: 0px;
+  height: 50px;
+}
+
+.local-img {
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 49%;
+  height: 50px;
+}
+
+#local-img1 {
+  float: left;
+}
+
+#local-img2 {
+  float: right;
+}
+
+.sponsors, .publisher{
+    padding: 5px;
+}
+
+footer {
+  position: absolute;
+  left: -1px;
+  right: 0;
+  bottom: -35px;
+  height: 20px;
+  margin-bottom: 5px;
+  width: 933px;
+  border: solid 1px #4a5966;
+  background-color: #d9dee3;
+  padding-top: 5px;
+  padding-right: 5px;
+  vertical-align: middle;
+  text-align: right;
+}
+
+.map {
+  margin-top: 10px;
+  border: #808080 solid 1px;
+}
+
+table td {
+  padding:6px 13px;
+  border:.5px solid #dfe2e5
+}
+
+table tr {
+  background-color:#fff;
+  border-top:1px solid #c6cbd1
+}
+
+table tr:nth-child(2n) {
+  background-color:#f6f8fa
+}
+
+table .session{
+  text-decoration: underline;
+}
