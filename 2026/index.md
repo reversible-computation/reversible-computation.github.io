@@ -5,7 +5,7 @@ title: Home
 
 # Welcome (test2) to the {{ site.data.info.edition }} Conference on Reversible Computation
 
-## {{ site.data.info.date }}, {{ site.data.info.place }}
+## {{ site.data.info.date }}, {{ site.data.info.place }}, {{ site.baseurl }}
 
 The Conference on Reversible Computation will bring together researchers from computer science, mathematics, engineering, and physics to discuss new developments and directions for future research in the emerging area of Reversible Computation. This particularly includes applications of reversibility in quantum computation. Research papers, tool demonstrations, and work-in-progress reports are within the scope of the conference, as [detailled in our call for papers](/cfp).
 
