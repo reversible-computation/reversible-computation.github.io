@@ -6,19 +6,21 @@ abstract: February X, 2027
 submission: February X, 2027
 notification: April X, 2027
 final-version: May X, 2027
-# extended-abstract: February 21, 2027
-# extended-submission: February 28, 2027
-# advanced-notification: April 21, 2027
+extended-abstract:
+extended-submission:
+advanced-notification:
 
 chairs:
 - name: Martin Vassor
-  affiliation: 
+  affiliation: X
 - name: Benoît
-  affiliation: 
+  affiliation: X
 
 # Local images
 image1: /images/univ.jpg
+image1-alt: Università degli Studi di Torino - Cortile del Rettorato porticato
 image2: /images/local.jpg
+image2-alt: Rooftops view of Turin
 
 # Publisher(s) information
 publishers:
@@ -27,7 +29,7 @@ publishers:
   image: /images/LNCS-Logo.png
 
 # Sponsor(s) information
-# sponsors:
+sponsors:
 # - name: Vaire
 #   url: https://vaire.co/
 #   image: /images/vaire.svg

@@ -34,10 +34,10 @@
   <meta property="og:title" content="{{ site.data.info.edition }} Conference on Reversible Computation" />
   <meta property="og:description" content="Website for the Reversible Computation conference, bringing together computer science, mathematics, engineering, and physics on the topic of reversible computation." />
   <meta property="og:type" content="website" />
-  
+
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; frame-src www.openstreetmap.org; connect-src 'self'; img-src 'self'; style-src 'self'; ">
   <meta name="referrer" content="origin" />
-  
+
 <!-- FOR fancy java toggle -->
 <!--
     <script>
@@ -78,8 +78,8 @@
 
         <aside class="right">
           <div id="local-imgs">
-            <img class="local-img" id="local-img1" src="{{ site.data.info.image1 }}" alt="Università degli Studi di Torino - Cortile del Rettorato porticato">
-            <img class="local-img" id="local-img2" src="{{ site.data.info.image2 }}" alt="Rooftops view of Turin">
+            <img class="local-img" id="local-img1" src="{{ site.data.info.image1 }}" alt="{{ site.data.info.image1-alt }}">
+            <img class="local-img" id="local-img2" src="{{ site.data.info.image2 }}" alt="{{ site.data.info.image2-alt }}">
           </div>
           <div class="dates">
             <b>Important dates:</b><br><br>
@@ -100,7 +100,7 @@
             <br>Notification to authors:<br>
             {% comment %}
               Abstract original date is "strikethrough" if extended-abstract is provided.
-            {% endcomment %}  
+            {% endcomment %}
             {% if site.data.info.advanced-notification %}<s>{% endif %}
             {{ site.data.info.notification }}<br>
             {% if site.data.info.advanced-notification %}</s><span class="extended">{{ site.data.info.advanced-notification }} (advanced)</span><br>{% endif %}
