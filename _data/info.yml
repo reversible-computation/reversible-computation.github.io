@@ -27,7 +27,7 @@ publishers:
   image: /images/LNCS-Logo.png
 
 # Sponsor(s) information
-sponsors:
+# sponsors:
 # - name: Vaire
 #   url: https://vaire.co/
 #   image: /images/vaire.svg
