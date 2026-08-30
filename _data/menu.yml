@@ -4,29 +4,29 @@ menu:
 #- title: Home
 #  url: /
 
-- title: Accepted Papers
-  url: /accepted
+# - title: Accepted Papers
+#   url: /accepted
 
-- title: Invited Talks
-  url: /invited
+# - title: Invited Talks
+#   url: /invited
 
-- title: Program
-  url: /program
+# - title: Program
+#   url: /program
 
 - title: Call For Papers
   url: /cfp
 
-#- title: Paper Submission
-#  url: /submission
+- title: Paper Submission
+ url: /submission
 
 - title: Committees
   url: /committees
 
 - title: Location
   url: /location
-  
-- title: Registration
-  url: /registration
+
+# - title: Registration
+#   url: /registration
 
 - title: Participants
   url: /participants
