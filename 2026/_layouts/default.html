@@ -62,7 +62,7 @@
         </div>
       </header>
 
-      {% include navigation.html %}
+      {% include navigation.html | relative_url %}
 
       <main>
 <!--
@@ -140,7 +140,7 @@
               </a><br>
             {% endfor %}
             </div>
-          {% endif %}          
+          {% endif %}
           {% if site.data.info.publishers %}
           <div class="publisher">
             <b>Publisher{% if site.data.info.publishers.size > 1 %}s{% endif %} :</b><br><br>
