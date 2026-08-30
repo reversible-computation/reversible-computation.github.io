@@ -30,9 +30,9 @@ publishers:
 
 # Sponsor(s) information
 sponsors:
-# - name: Vaire
-#   url: https://vaire.co/
-#   image: /images/vaire.svg
+- name: Vaire
+  url: https://vaire.co/
+  image: /images/vaire.svg
 
 # Patronage(s) information
 patronages:
