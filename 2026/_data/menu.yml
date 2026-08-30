@@ -2,49 +2,49 @@ docs_list_title: ACME Documentation
 menu:
 
 #- title: Home
-#  relative_url: /
+#  url: /
 
 - title: Accepted Papers
-  relative_url: /accepted
+  url: /accepted
 
 - title: Invited Talks
-  relative_url: /invited
+  url: /invited
 
 - title: Program
-  relative_url: /program
+  url: /program
 
 - title: Call For Papers
-  relative_url: /cfp
+  url: /cfp
 
 #- title: Paper Submission
-#  relative_url: /submission
+#  url: /submission
 
 - title: Committees
-  relative_url: /committees
+  url: /committees
 
 - title: Location
-  relative_url: /location
+  url: /location
 
 - title: Registration
-  relative_url: /registration
+  url: /registration
 
 - title: Participants
-  relative_url: /participants
+  url: /participants
 
 # - title: Social Event
-#   relative_url: /social
+#   url: /social
 
 # - title: Accommodation
-#   relative_url: /accommodation
+#   url: /accommodation
 
 # - title: Steering Committee
-#  relative_url: /sc
+#  url: /sc
 
 - title: Past Editions
-  relative_url: /past
+  url: /past
 
 - title: Contact
-  relative_url: /contact
+  url: /contact
 
 - title: Credits
-  relative_url: /credits
+  url: /credits
