@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Welcome to the {{ site.data.info.edition }} Conference on Reversible Computation
+# Welcome (test) to the {{ site.data.info.edition }} Conference on Reversible Computation
 
 ## {{ site.data.info.date }}, {{ site.data.info.place }}
 
