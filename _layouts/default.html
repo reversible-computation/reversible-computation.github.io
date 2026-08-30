@@ -62,14 +62,15 @@
         </div>
       </header>
 
-      {% include navigation.html %}
+      <nav>
+        <ul>
+          {% for item in site.data.menu.menu %}
+          <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </nav>
 
       <main>
-<!--
-        <div class="title">
-          {{ page.title }}
-        </div>
- -->
         <section>
           {{ content }}
         </section>
