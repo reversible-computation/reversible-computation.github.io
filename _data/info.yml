@@ -1,20 +1,20 @@
-year: 2026
-edition: 18th
-date: July 9–10, 2026
-place: Torino, Italy
-abstract: February 6, 2026
-submission: February 13, 2026
-notification: April 22, 2026
-final-version: May 15, 2026
-extended-abstract: February 21, 2026
-extended-submission: February 28, 2026
-advanced-notification: April 21, 2026
+year: 2027
+edition: 19th
+date: July 9–10, 2027
+place: Nancy, France
+abstract: February 6, 2027
+submission: February 13, 2027
+notification: April 22, 2027
+final-version: May 15, 2027
+extended-abstract: February 21, 2027
+extended-submission: February 28, 2027
+advanced-notification: April 21, 2027
 
 chairs:
-- name: Clément Aubert
-  affiliation: Augusta University
-- name: Luca Roversi
-  affiliation: Università di Torino
+- name: Martin Vassor
+  affiliation: 
+- name: Benoît
+  affiliation: 
 
 # Local images
 image1: /images/univ.jpg
