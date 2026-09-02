@@ -1,9 +1,9 @@
 # Documentation at
 # https://jekyllrb.com/docs/configuration/options/
 
-baseurl: /
+baseurl: /2026
 
-exclude: ["readme.md", "LICENSE", "cfp/*_cfp.md"]
+exclude: ["readme.md", "LICENSE"]
 
 email: m.kirkedal@di.ku.dk
 

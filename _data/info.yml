@@ -18,7 +18,9 @@ chairs:
 
 # Local images
 image1: /images/univ.jpg
+image1-alt: Università degli Studi di Torino - Cortile del Rettorato porticato
 image2: /images/local.jpg
+image2-alt: Rooftops view of Turin
 
 # Publisher(s) information
 #publishers:
