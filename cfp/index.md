@@ -10,7 +10,7 @@ Reversible computation has a growing number of promising application areas such 
 Furthermore, reversible logic provides a basis for quantum computation with its applications, for example, in cryptography and in the development of highly efficient algorithms.
 First reversible circuits and quantum circuits have been implemented and are seen as promising alternatives to conventional <abbr title="Complementary metal–oxide–semiconductor">CMOS</abbr> technology.
 
-The 18th edition of the Reversible Computation conference will bring together researchers from computer science, mathematics, and physics to discuss new developments and directions for future research in Reversible Computation, including applications of reversibility to quantum computation.
+The 19th edition of the Reversible Computation conference will bring together researchers from computer science, mathematics, and physics to discuss new developments and directions for future research in Reversible Computation, including applications of reversibility to quantum computation.
 Research papers, tutorials, tool demonstrations, and work-in-progress reports are within the scope of the conference.
 Contributions on all areas of Reversible Computation are welcome, including---but not limited to---the following topics:
 
@@ -42,7 +42,7 @@ The Reversible Computation conference welcomes the following types of submission
 - work-in-progress (6 pages maximum, not including references),
 - tool demonstration papers (6 pages maximum, not including references),
 
-to be submitted at <https://easychair.org/conferences?conf=rc2026>.
+to be submitted at <https://easychair.org/conferences?conf=rc2027>. <!-- TODO : update -->
 
 Please do not forget to clearly indicate the type of your submission by choosing the proper category on the submission page. Additional material intended for reviewers but not for publication in the final version---for example, details of proofs---may be placed in a clearly marked appendix that is not included in the page limit. Reviewers are at liberty to ignore appendices and papers must be understandable without them.
 

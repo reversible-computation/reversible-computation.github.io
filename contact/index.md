@@ -6,21 +6,19 @@ layout: default
 
 ## Scientific Chairs 
 
-- **Clément Aubert**, _Augusta University_  
-  📧 [caubert@augusta.edu](mailto:caubert@augusta.edu)  
-  🌐 [augusta.edu profile](https://spots.augusta.edu/caubert/)
-  
-- **Luca Roversi**, _Università degli studi di Torino_  
-  📧 [roversi@di.unito.it](mailto:roversi@di.unito.it)  
-  🌐 [di.unito profile](http://www.di.unito.it/~rover/)
+- **Benoît Valiron**, _Université Paris Saclay_  
+  📧 [benoit.valiron@lmf.cnrs.fr](mailto:benoit.valiron@lmf.cnrs.fr)  
+  🌐 [Personal webpage](https://www.monoidal.net/)
 
-*Be mindful that the email address <rc2026@easychair.org> was deactivated on August 10, 2026.*
-  
+- **Martin Vassor**, _Université de Lorraine_  
+  📧 [martin.vassor@univ-lorraine.fr](mailto:martin.vassor@univ-lorraine.fr)  
+  🌐 [Personal webpage](https://martin.vassor.org)
+
 ## Organizing Chair
 
-- **Luca Paolini**, _Università degli studi di Torino_  
-  📧 [luca.paolini@unito.it](mailto:luca.paolini@unito.it)  
-  🌐 [di.unito profile](http://www.di.unito.it/~paolini/)
+- **Martin Vassor**, _Université de Lorraine_  
+  📧 [martin.vassor@univ-lorraine.fr](mailto:martin.vassor@univ-lorraine.fr)  
+  🌐 [Personal webpage](https://martin.vassor.org)
 
 ## Website Chair
 
