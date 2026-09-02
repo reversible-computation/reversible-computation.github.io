@@ -8,7 +8,7 @@ redirect_from:
 
 Existing proceedings can easily be browsed [through DBLP](https://dblp.uni-trier.de/db/conf/rc/index.html) or [through Springer](https://link.springer.com/conference/rc).
 
-- **[RC 2026 – 18th Conference](https://reversible-computation-2026.github.io/)**  
+- **[RC 2026 – 18th Conference](https://reversible-computation.github.io/2026/)**  
   _Torino, Italy_  
   Published in [LNCS Volume 16626](https://link.springer.com/book/10.1007/978-3-032-30839-9)
 - **[RC 2025 – 17th Conference](https://reversible-computation-2025.github.io/)**  
