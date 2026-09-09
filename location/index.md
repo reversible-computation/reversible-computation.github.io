@@ -4,92 +4,137 @@ layout: default
 
 # How to arrive
 
+**Many websites from local transporters are not translated in English. Do not hesitate to contact the [local organisation team](../contact) if you have questions or want a translation.**
+
 ## By Plane
 
-Here is an overview of the main airports that are useful for reaching **Turin, Italy**, with approximate travel times to **Turin city centre** and links to transport services.
+Here is an overview of the main airports that are useful for reaching **Nancy, France**, with approximate travel times to **Nancy city centre** and links to transport services.
 
-| Airport | Best for | Approx. time to Turin city centre | Useful transport links |
+| Airport (ICAO code) | Comment | Approx. time to Nancy city centre | Useful transport links |
 |---|---:|---:|---|
-| **Turin Airport — TRN / Torino-Caselle** | Closest and most convenient option | **25–40 min** | Train to **Torino Porta Susa** takes about **30 min**; airport bus serves **Porta Nuova / Porta Susa**. See [Turin Airport train information](https://www.aeroportoditorino.it/en/tomove/parking-transport/by-train) and [Arriva airport bus](https://torino.arriva.it/en/airport-line-torino-centro-torino-airport/). |
-| **Milan Malpensa — MXP** | Best alternative for long-haul and international flights | **1h 50–2h 30** by direct coach/train connections; longer if changing via Milan | Direct coaches to Turin are usually the most practical. See [Flibco Malpensa–Turin](https://www.flibco.com/en/shuttle-malpensa-airport-turin) and [FlixBus Malpensa–Turin](https://www.flixbus.com/). |
-| **Milan Linate — LIN** | Good for European/domestic flights, especially if flight times are convenient | **1h 45–3h+**, depending on train/bus and traffic | Usually via Milan city centre by metro/train, or by coach where available. See [Milan Linate transport information](https://www.milanolinate-airport.com/en/from-to) and [FlixBus](https://www.flixbus.com/). |
-| **Milan Bergamo — BGY / Orio al Serio** | Often useful for low-cost airlines | **2h 50–3h+** by direct coach | Direct buses are available. See [Milan Bergamo Airport transport information](https://www.milanbergamoairport.it/en/transport/) and [FlixBus](https://www.flixbus.com/). |
-| **Cuneo Airport — CUF / Cuneo-Levaldigi** | Smaller airport; useful only if flights match your plans | **1h 15–2h+**, depending on shuttle availability and destination in Turin | Shuttle services connect Cuneo Airport with Turin stops such as Lingotto, Piazza Carducci and Porta Palazzo. Check schedules carefully because services may depend on flight operations. See [Cuneo Airport transport information](https://cuneoairport.com/trasporti/). |
+| **Aéroport de Metz-Nancy-Lorraine** (LFJL) | Closest but very few routes | **45 min** | Shuttle to/from Nancy. Book at least 24h before the shuttle. See [https://www.dupasquier.fr/lorraineaeroport](https://www.dupasquier.fr/lorraineaeroport).|
+| **Luxembourg Findel Airport** (ELLX) | Quite convenient and relatively close | **2h** | [Take **Tram T1** to Luxembourg Central Station](https://www.mobiliteit.lu/en/maps/), then [TER train to Nancy](./#by-train). Public transports are free in Luxembourg and you don't need a ticket, just hop on the tram. |
+| **Paris Airport Charles de Gaulle** (LFPG) | Good for long-haul flights | **2h** | Two choices: either go to Paris city center, then train from Gare de l'Est; or take a train to Lorraine TGV, then to Nancy. [RATP](https://www.ratp.fr/en/itineraires) for transports within Paris. Note there is a [special fare for the RER B between Paris and LFPG](https://www.ratp.fr/en/titres-et-tarifs/paris-aeroport). |
+| **Paris Airport Orly** (LFPO) | Good for long-haul flights | **2h** | Go to Paris city center, then train from Gare de l'Est. [RATP](https://www.ratp.fr/en/itineraires) for transports within Paris. Note there is a [special fare for the Line 14 between Paris and LFPO](https://www.ratp.fr/en/titres-et-tarifs/paris-aeroport). |
 
-> Recommendation. For most travellers, <u>Turin Airport (TRN)</u> is by far the easiest choice. If you need more international flight options, <u>Milan Malpensa (MXP)</u> is usually the best second choice because direct coaches to Turin are frequent and practical.
+> Recommendation. For most travellers, <u>ELLX or LFPG</u> are by far the easiest choices. 
 
 ## By Train
 
-Turin has several railway stations, but the most useful for visitors are Torino Porta Nuova, Torino Porta Susa, and Torino Lingotto.
+There is one train station in Nancy, with frequent schedules towards Paris,
+Luxembourg, Strasbourg. There is another train station on the high-speed line
+from Paris to Strasbourg, called **Lorraine TGV**. This station is about 30km
+away from the city center and is well connected with shuttle buses.
 
-1. **Torino Porta Nuova** is the city’s main central station and one of the most convenient arrival points for travellers staying in the historic centre. It is directly served by Turin’s only metro line, Metro Line M1, at the Porta Nuova metro stop.
+Trains in France are mostly operated by SNCF (although
+there are a few other companies nowadays such as Trenitalia, or Eurostar).
+There are mainly two kinds of trains: regional trains and high-speed trains.
+**For regional trains (called "TER")**, tickets are often without seat
+reservation and valid for the whole day (even if there is an hour written on
+it, you can most often take an earlier/later train). **For high-speed trains
+(called "TGV")**, tickets have a seat reservation and you can not take an
+earlier/later train, unless your tickets says so.
 
-2. **Torino Porta Susa** is another major station, especially important for high-speed trains and long-distance services. It is also directly connected to Metro Line M1, at the Porta Susa metro stop. This makes it very convenient for reaching both the city centre and other parts of Turin.
+If your institution does not provide a travelling service and you have to buy
+your tickets by yourself, be aware than the [SNCF
+website](https://www.sncf-connect.com/) is notoriously bad. There are other
+vendors such as [12train](https://www.12train.com/) (which follows the [KISS
+principle](https://en.wikipedia.org/wiki/KISS_principle)), or
+[Trainline](https://www.thetrainline.com) (convenient if you aim for an
+international travel, also includes buses, to some extend). The [Deutsche Bahn
+website](https://int.bahn.de/en?dbkanal_007=Sprachauswahl_link_English%7Estartseite)
+is also convenient.
 
-3. **Torino Lingotto** serves the southern part of the city and is useful for the Lingotto area, the exhibition centre, and nearby business districts. The railway station is close to the Lingotto stop on Metro Line M1, although travellers may need a short walk depending on the exact platform or entrance used.
+### From Luxembourg
 
-## By Bus
+Public transports are free in Luxembourg, you don't need any ticket or so, just
+hop on the bus/tram/train. There are international trains direct from the central station.
 
-We suggest using **Google Maps** to plan your bus trip:(i) Open **Google Maps**. (ii) Enter your destination. (iii) Tap **Directions**. (iv) Enter your starting point, or use your current location. (v) Select the **public transport / transit** icon. Google Maps will show suggested routes using the metro, buses, trams and walking sections. It will also estimate the departure time, arrival time, total journey duration and any required changes.
+From Luxembourg airport, take the [tram line
+1](https://www.mobiliteit.lu/en/maps/) to the central station.
 
-GTT tickets for the **urban and suburban network** are valid on **buses, trams and the metro** within the Turin urban and suburban area. 
+Notice that you'll still need a ticket for the train for the part of the travel
+in France. When buying your ticket to/from Luxembourg, the price of ticket
+takes into account the fact that transports are free in Luxembourg (i.e., you
+don't need to get a ticket from to/from the first station in Luxembourg, you
+can ask for a ticket to Luxembourg Central).
 
-| Option | Description | Useful link |
-|---|---|---|
-| **TO Move app** | The official GTT app allows users to buy tickets for buses, trams and the metro in Turin. | [GTT — TO Move app](https://www.gtt.to.it/cms/notizie-eventi-e-informazioni/5377-to-move-con-la-nuova-app-gtt-leggi-la-smart-card-e-acquisti-i-biglietti-con-lo-smartphone) |
-| **Contactless payment / Tap&Go** | Contactless bank cards can be used at dedicated metro gates and on equipped buses and trams. | [GTT — Tap&Go contactless payment](https://www.gtt.to.it/cms/en/58-en/8795-news-tap-go-gtt-contactless-system) |
-| **Ticket machines in metro stations** | Tickets can be purchased from machines located inside metro stations before entering the metro. | [GTT — Fares and tickets](https://www.gtt.to.it/cms/en/fares) |
-| **Authorized resellers** | Tickets and passes are available from many official sales points in Turin and the metropolitan area. | [GTT — Ticket sales points](https://www.gtt.to.it/cms/biglietti-abbonamenti/punti-vendita/punti-vendita-in-torino-e-altri-comuni-dell-area-metropolitana) |
-| **GTT e-commerce** | Some tickets and passes can be purchased online through the official GTT ticketing platform. | [GTT e-commerce](https://ecommerce.gtt.to.it/) |
+### From Paris
 
-Always check the official GTT fare page for current ticket types, prices and validity rules: [GTT — Urban and suburban fares](https://www.gtt.to.it/cms/en/fares).
+Within Paris, use the [local transports](https://www.ratp.fr/en/itineraires) to
+your train station. Most trains to Nancy will leave from *Gare de l'Est*. The
+travel time is about 1h30. From Paris Airports, take RER B line from LFPG and
+line underground Line 14 from LFPO to get to *Gare de l'Est* (notice there is a
+[special fare between the city center and
+airports](https://www.ratp.fr/en/titres-et-tarifs/paris-aeroport)).
 
-## By Metro
+Notice that if you land in Paris LFPG, there is a direct line to Lorraine TGV
+(~2h30), which allows you not to go in the city center.
 
-Turin currently has one metro line in operation, **Line M1**. It runs from Fermi / Collegno in the west to Bengasi in the south, crossing the city centre and directly serving Porta Susa and Porta Nuova railway stations. The full journey from one end of the line to the other takes about **25 minutes**. 
+### From the UK
 
-| Day / period | First departure from Fermi and Bengasi | Last departure from Fermi | Last departure from Bengasi | Notes |
-|---|---:|---:|---:|---|
-| **Monday to Thursday** | **05:30** | **21:30** | **21:30** | Replacement bus **M1S** runs after metro closure, approx. **22:00–00:30** |
-| **Friday and Saturday** | **05:30** | **01:00** | **01:00** | Extended evening service |
-| **Sunday and public holidays** | **07:00** | **21:30** | **21:30** | Replacement bus **M1S** runs before opening and after closure, approx. **05:30–07:00** and **22:00–00:30** |
+If you are not too far from London, the easiest option might be to take the
+Eurostar to Paris *Gare du Nord*, then the high-speed train to Nancy (from
+*Gare de l'Est*). Notice that *Gare du Nord* and *Gare de l'Est* are very close
+from each other, about 10 minutes walk (with stairs).
 
-> Note: temporary changes are published on the official website  [GTT Turin Metro M1 timetable](https://www.gtt.to.it/cms/linee-e-orari/torino-e-cintura/urbana/240-metropolitana) and displayed inside metro stations.
+### From Germany 
 
-## M1S substitute service
+If you come from Germany, there are regular trains from Saarbrücken/Forbach,
+with a change in Metz (~2h from Forbach). There are also frequent trains from
+Frankfurt Am Main with a change in Strasbourg (~4h from Frankfurt Am Main).
 
-The **M1S** bus is a substitute service Metro Line M1. It stops only at or near metro stations, so it is designed as a practical surface alternative when the metro is not running. The **M1S** does not have the same frequency throughout the day. In general, it is **more frequent in the evening**, with departures about every **10–15 minutes**, while in the early morning it runs less frequently, about every **30 minutes**.
+## Local transports in town
+
+Local transports are organised by the [Stan
+company](https://www.reseau-stan.com/). Local transports (i.e. **not** trains
+are free on the weekend).
+
+All lines except for line T1 are run by buses, and you can buy tickets directly
+from the driver in cash (although they are more expensive than if you buy them
+beforehand). Line T1 is run by a trolleybus and **you can not buy ticket from
+the driver**. There is a desk at the train station where you can buy tickets
+(cash/card), and there are automated machines at many bus stops where you can
+buy tickets (card). **You can not pay your tickets via contactless in the
+(trolley)buses**.
+
+There is an option to buy tickets online, although (I think) you need an RFID
+card beforehand, so it might not be the best option for a short stay.
+
+There are various ticket options (one trip, two trips, 10 trips, 24h). 
+Your ticket is valid for 1 hour. Everytime you enter a (trolley)bus, you
+should stamp your ticket in one of the machine in the (trolley)bus. If your
+journey started less than an hour ago, you won't be charged. (Notice
+that I don't know exactly what happens if you entered the bus and stamped
+before one hour, but then stay until more than one hour after the start of your
+journey, although I assume that would be fine.)
+
+Here is a summary of the fares (as of 21/08/2026): 
+
+| Ticket type | Price |
+|---|---|
+| 1 trip, onboard | 2€ |
+| 1 trip, outside the bus | 1.80€ |
+| 2 trips, onboard | 3.60€ |
+| 10 trips, outside the bus | 15.50€ |
+| 24h | 5€ |
+
+Notice all prices here are for Nancy and nearby towns, but you can also get tickets for a wider area that let you also take trains. If you want to visit nearby cities, even outside the "small" area, it is sometimes less expensive to get tickets for the wider area instead of a train ticket. Don't hesitate to contact [the local organisers](../committees#organizing-committee) if you are interested.
 
 # Locations
 
-## Venue (Dipartimento DBIOS - Univ. Torino)
+## Venue (LORIA Building, Campus des Aiguillettes)
 
-The conference will take place Università degli Studi di Torino, Dipartimento Scienze della Vita e Biologia dei Sistemi, Via Accademia Albertina, 13, 10123 Torino TO.
+The conference will take place at [LORIA](https://www.loria.fr/en/loria/locate-us/), in the Campus des Aiguillettes, in Vandœuvre-lès-Nancy. The easiest way to come is to take either the line T1 till **Vélodrome** (then ~10 minutes walk) or the T3 line till **Grande Corvée** (~10 minutes walk). Those two lines run from the city center, and T1 is generally faster.
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=7.686516344547273%2C45.064490370978184%2C7.690056860446931%2C45.06608170549206&amp;layer=mapnik&amp;marker=45.06528604377245%2C7.688286602497101"></iframe>
+Notice that you must enter the building from the main door, located at the marker's place below. Other doors are for leaving only and can not be opened from outside.
 
-13 Via Accademia Albertina, Turin ([openstreetmap](https://www.openstreetmap.org/?mlat=45.065286&mlon=7.688287#map=19/45.065286/7.688287), [google maps](https://maps.app.goo.gl/kp6iuz34L7CHvm6h6)) is located in central Turin, in the historic city centre, close to the **Accademia Albertina di Belle Arti** and within walking distance of several important landmarks.
-
-The address is in a convenient area for visitors, near **Via Po**, **Piazza Vittorio Veneto**, **Piazza Castello** and the **Mole Antonelliana**. It is also well connected to the rest of the city by public transport.
-
-Google Maps useful link: 
-
-- [WALKING directions to 13 Via Accademia Albertina from your current GPS location](https://www.google.com/maps/dir/?api=1&destination=13+Via+Accademia+Albertina,+Torino,+Italy&travelmode=walking)
-- [Public TRANSPORT directions to 13 Via Accademia Albertina from your current GPS location](https://www.google.com/maps/dir/?api=1&destination=13+Via+Accademia+Albertina,+Torino,+Italy&travelmode=transit)
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed?bbox=6.153411269187928%2C48.66370024310099%2C6.1620157957077035%2C48.66711565398676&amp;layer=mapnik&amp;marker=48.6654079774768%2C6.157713532447815" style="border: 1px solid black"></iframe><small><a href="https://www.openstreetmap.org/?mlat=48.665408&amp;mlon=6.157714#map=18/48.665408/6.157714">View Larger Map</a></small>
 
 ## Social dinner
 
-**La Via del Sale** is a traditional restaurant located in the historic centre of Turin, at **Via San Francesco da Paola, 2, 10123 Torino**. It offers Piedmontese and Ligurian-inspired cuisine and is situated in a very central area, close to **Via Po**, **Piazza Vittorio Veneto**, **Piazza Castello** and the **Mole Antonelliana**.
-
-The restaurant is easy to reach by public transport or on foot from central Turin.
-
-| Route type | Google Maps link |
-|---|---|
-| **By bus / public transport from your current GPS location** | [Public transport directions to La Via del Sale](https://www.google.com/maps/dir/?api=1&destination=La+Via+del+Sale,+Via+San+Francesco+da+Paola+2,+Torino,+Italy&travelmode=transit) |
-| **On foot from your current GPS location** | [Walking directions to La Via del Sale](https://www.google.com/maps/dir/?api=1&destination=La+Via+del+Sale,+Via+San+Francesco+da+Paola+2,+Torino,+Italy&travelmode=walking) |
-
-Official website: [La Via del Sale](https://ristorantelaviadelsale.com/)
+To be decided...
 
 ## Social event
 
-It is a walk of no more than two hours through the center of Turin. Expert guides will lead us through historical and iconic places in the city, illustrating cultural and architectural features. We will depart from the entrance hall of the Venue (Dipartimento DBIOS - Univ. Torino) at the end of the final coffee break, and we will say goodbye in Piazza Carignano at the end of the walk.
+To be decided...
