@@ -39,7 +39,7 @@ Before starting to work on the website for the n+1th edition, make sure you arch
 - Make sure you do *not* copy over the `.md` files, but only the compiled `.html` files.
 - Update the relevant links in the `html` and `ccs` files, using for example:
 
-    ```
+    ```console
     find 2026/ -type f \( -iname '*.html' \) -exec sed -i 's-href="/-href="/2026/-g' {} +
     find 2026/ -type f \( -iname '*.html' \) -exec sed -i 's-src="/images/-src="/2026/images/-g' {} +
     find 2026/ -type f \( -iname '*.ccs' \) -exec sed -i 's-url("/images/-url("/2026/images/-g' {} +
