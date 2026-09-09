@@ -31,11 +31,19 @@ and re-execute the commands above.
 
 ## Archiving
 
-Before starting to work on the website for the n+1th edition, make sure you archive the website for the nth edition:
+Before starting to work on the website for the n+1th edition, make sure you archive the website for the nth edition. Assuming n = 2026, you can do as follows:
 
 - [Build the site locally](#local-testing),
 - Navigate to the `_site` folder by default (check out the `bundle exec jekyll serve` command log, it will provide the destination folder under `Destination`),
-- Copy all the relevant files and folder (you can exclude previous archives, `jekyll` folder, `browserconfig.xml`, `Gemfile`, …) into an `n+1/` folder at root level.
+- Copy all the relevant files and folder (you can exclude previous archives, `jekyll` folder, `browserconfig.xml`, `Gemfile`, …) into an `2026` folder at root level.
+- Make sure you do *not* copy over the `.md` files, but only the compiled `.html` files.
+- Update the relevant links in the `html` and `ccs` files, using for example:
+
+    ```
+    find 2026/ -type f \( -iname '*.html' \) -exec sed -i 's-href="/-href="/2026/-g' {} +
+    find 2026/ -type f \( -iname '*.html' \) -exec sed -i 's-src="/images/-src="/2026/images/-g' {} +
+    find 2026/ -type f \( -iname '*.ccs' \) -exec sed -i 's-url("/images/-url("/2026/images/-g' {} +
+    ```
     
 ## Policy
 
