@@ -29,6 +29,13 @@ bundle clean --force
 
 and re-execute the commands above.
 
+## Archiving
+
+Before starting to work on the website for the n+1th edition, make sure you archive the website for the nth edition:
+
+- [Build the site locally](#local-testing),
+- Navigate to the `_site` folder by default (check out the `bundle exec jekyll serve` command log, it will provide the destination folder under `Destination`),
+- Copy all the relevant files and folder (you can exclude previous archives, `jekyll` folder, `browserconfig.xml`, `Gemfile`, …) into an `n+1/` folder at root level.
     
 ## Policy
 
